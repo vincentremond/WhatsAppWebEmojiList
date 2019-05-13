@@ -1,0 +1,8 @@
+{
+  "name": "WhatsappWebEmojiList",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vincentremond/WhatsAppWebEmojiList",
+  "author": "Vincent Rémond",
+  "license": "MIT"
+}
