@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/vincentremond/WhatsAppWebEmojiList",
   "author": "Vincent Rémond",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^3.0.1"
+  }
 }
