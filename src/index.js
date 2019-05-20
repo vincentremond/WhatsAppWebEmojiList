@@ -35,8 +35,14 @@ emojisAsc.forEach((value, key, map) => {
     resultEmojis.push({ "value": key, "texts": value });
 });
 const result = { "lang": lng, "emojis": resultEmojis };
-var htmlTemplate = fs.readFileSync('template.html', 'utf8');
-var htmlResult = Mustache.render(htmlTemplate, result);
-var outputFile = `result/emojis-${lng}.html`;
-fs.writeFileSync(outputFile, htmlResult, 'utf8');
+
+function render(templateFile, extension, view) {
+    var template = fs.readFileSync(templateFile, 'utf8');
+    var templatedView = Mustache.render(template, view);
+    fs.writeFileSync(`result/emojis-${lng}.${extension}`, templatedView, 'utf8');
+}
+
+render('template.html', 'html', result);
+render('template.md', 'md', result);
+
 console.log('All done.');
