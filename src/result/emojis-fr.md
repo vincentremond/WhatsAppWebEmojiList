@@ -1,0 +1,9229 @@
+# WhatsApp emoji list (fr)
+
+- #⃣
+  - `:hashtag`
+  - `:mot-clé`
+  - `:mot-dièse`
+- *⃣
+  - `:astérisque`
+  - `:touche`
+- 0⃣
+  - `:0`
+  - `:touche`
+  - `:zéro`
+- 1⃣
+  - `:1`
+  - `:chiffre`
+  - `:un`
+  - `:une`
+- 2⃣
+  - `:2`
+  - `:deux`
+  - `:numéro deux`
+- 3⃣
+  - `:3`
+  - `:touche`
+  - `:trois`
+- 4⃣
+  - `:4`
+  - `:chiffre`
+  - `:numéro`
+  - `:quatre`
+- 5⃣
+  - `:5`
+  - `:chiffre`
+  - `:cinq`
+- 6⃣
+  - `:6`
+  - `:chiffre`
+  - `:six`
+- 7⃣
+  - `:7`
+  - `:chiffre`
+  - `:sept`
+- 8⃣
+  - `:8`
+  - `:chiffre`
+  - `:huit`
+- 9⃣
+  - `:9`
+  - `:chiffre`
+  - `:neuf`
+- ©
+  - `:copyright`
+  - `:droits d&#39;auteur`
+  - `:propriété intellectuelle`
+  - `:symbole Copyright`
+- ®
+  - `:marque déposée`
+- ‼
+  - `:double point d’exclamation`
+  - `:exclamation`
+  - `:ponctuation`
+  - `:surprise`
+- ⁉
+  - `:exclamation`
+  - `:interrogation`
+  - `:point d’exclamation et d’interrogation`
+  - `:ponctuation`
+  - `:question`
+  - `:surprise`
+- ™
+  - `:TM`
+  - `:marque commerciale déposée`
+  - `:marque déposée`
+- ℹ
+  - `:guichet d&#39;informations`
+  - `:i`
+  - `:informations`
+  - `:source d’informations`
+- ↔
+  - `:flèche`
+  - `:flèche gauche droite`
+- ↕
+  - `:flèche`
+  - `:flèche dans les deux sens`
+  - `:flèche haut bas`
+- ↖
+  - `:direction`
+  - `:flèche`
+  - `:flèche haut gauche`
+  - `:nord-ouest`
+  - `:sens`
+- ↗
+  - `:direction`
+  - `:flèche`
+  - `:flèche haut droite`
+  - `:nord-est`
+  - `:sens`
+- ↘
+  - `:direction`
+  - `:flèche`
+  - `:flèche bas droite`
+  - `:sens`
+  - `:sud-est`
+- ↙
+  - `:direction`
+  - `:flèche`
+  - `:flèche bas gauche`
+  - `:sens`
+  - `:sud-ouest`
+- ↩
+  - `:flèche`
+  - `:flèche courbe gauche`
+- ↪
+  - `:flèche`
+  - `:flèche courbe droite`
+- ⌚
+  - `:heure`
+  - `:montre`
+- ⌛
+  - `:chronomètre`
+  - `:minuteur`
+  - `:sable`
+  - `:sablier`
+  - `:temps`
+- ⌨
+  - `:clavier`
+  - `:informatique`
+  - `:ordinateur`
+- ⏩
+  - `:avance`
+  - `:avance rapide`
+  - `:bouton`
+  - `:double flèche`
+  - `:flèche Avance rapide`
+- ⏪
+  - `:bouton`
+  - `:double flèche`
+  - `:flèche Retour rapide`
+  - `:retour`
+  - `:retour rapide`
+- ⏫
+  - `:flèche double`
+  - `:flèche vers le haut`
+  - `:haut`
+  - `:rapide`
+- ⏬
+  - `:bas`
+  - `:flèche double`
+  - `:flèche vers le bas`
+  - `:rapide`
+- ⏭
+  - `:bouton suivant`
+  - `:double flèche`
+  - `:suivant`
+- ⏮
+  - `:bouton précédent`
+  - `:flèche`
+  - `:précédent`
+- ⏯
+  - `:bouton lecture&#x2F;pause`
+  - `:lecture`
+  - `:pause`
+- ⏰
+  - `:alarme`
+  - `:attendre`
+  - `:dring`
+  - `:heure`
+  - `:matin`
+  - `:retard`
+  - `:réveil`
+  - `:sonnerie`
+- ⏱
+  - `:chronomètre`
+  - `:heure`
+  - `:temps`
+- ⏲
+  - `:heure`
+  - `:minuteur`
+  - `:temps`
+- ⏳
+  - `:attendre`
+  - `:chronomètre`
+  - `:minuteur`
+  - `:sable`
+  - `:sablier`
+  - `:sablier avec sable qui coule`
+  - `:temps`
+- ⏸
+  - `:bouton pause`
+  - `:pause`
+- ⏹
+  - `:bouton stop`
+  - `:carré`
+  - `:stop`
+- ⏺
+  - `:bouton enregistrer`
+  - `:enregistrement`
+  - `:enregistrer`
+  - `:point blanc`
+- Ⓜ
+  - `:cercle`
+  - `:m`
+  - `:m encerclé`
+- ▪
+  - `:carré`
+  - `:forme`
+  - `:géométrie`
+  - `:petit carré noir`
+- ▫
+  - `:forme`
+  - `:géométrie`
+  - `:petit carré blanc`
+- ▶
+  - `:bouton lecture`
+  - `:droite`
+  - `:lecture`
+  - `:lire`
+  - `:triangle`
+- ◀
+  - `:bouton retour`
+  - `:gauche`
+  - `:retour`
+  - `:triangle`
+- ◻
+  - `:carré`
+  - `:carré moyen blanc`
+  - `:forme`
+  - `:géométrie`
+- ◼
+  - `:carré`
+  - `:carré moyen noir`
+  - `:forme`
+  - `:géométrie`
+- ◽
+  - `:carré`
+  - `:carré petit moyen blanc`
+  - `:géométrie`
+- ◾
+  - `:carré`
+  - `:carré petit moyen noir`
+  - `:forme`
+  - `:géométrie`
+- ☀
+  - `:beau temps`
+  - `:brillant`
+  - `:espace`
+  - `:grand soleil`
+  - `:météo`
+  - `:rayons`
+  - `:soleil`
+- ☁
+  - `:gris`
+  - `:météo`
+  - `:nuage`
+- ☂
+  - `:parapluie`
+  - `:parapluie ouvert`
+  - `:pluie`
+- ☃
+  - `:bonhomme de neige`
+  - `:bonhomme de neige avec flocons`
+  - `:flocons`
+  - `:neige`
+- ☄
+  - `:comète`
+  - `:espace`
+  - `:météore`
+- ☎
+  - `:téléphone`
+  - `:téléphone rouge`
+- ☑
+  - `:OK`
+  - `:case cochée`
+  - `:coche`
+  - `:terminé`
+  - `:voilà`
+- ☔
+  - `:gouttes`
+  - `:météo`
+  - `:parapluie`
+  - `:parapluie avec gouttes`
+  - `:pluie`
+- ☕
+  - `:boisson`
+  - `:boisson chaude`
+  - `:café`
+  - `:caféine`
+  - `:matin`
+  - `:thé`
+- ☘
+  - `:Irlande`
+  - `:plante`
+  - `:trèfle`
+- ☝
+  - `:doigt`
+  - `:haut`
+  - `:index`
+  - `:index pointé vers le haut`
+  - `:main`
+  - `:moi`
+- ☠
+  - `:crâne`
+  - `:mort`
+  - `:os`
+  - `:tête`
+  - `:tête de mort`
+- ☢
+  - `:radioactif`
+  - `:radioactivité`
+  - `:symbole`
+- ☣
+  - `:danger`
+  - `:danger biologique`
+  - `:symbole`
+- ☦
+  - `:chrétien`
+  - `:chrétienne`
+  - `:croix`
+  - `:croix orthodoxe`
+  - `:religion`
+- ☪
+  - `:islam`
+  - `:lune`
+  - `:lune et étoile`
+  - `:musulman`
+  - `:musulmane`
+  - `:ramadan`
+  - `:religion`
+  - `:étoile`
+- ☮
+  - `:paix`
+  - `:paix et amour`
+  - `:peace and love`
+  - `:symbole de paix`
+- ☯
+  - `:complémentaire`
+  - `:religion`
+  - `:tao`
+  - `:taoïsme`
+  - `:yang`
+  - `:yin`
+  - `:yin yang`
+- ☸
+  - `:bouddhisme`
+  - `:bouddhiste`
+  - `:religion`
+  - `:roue`
+  - `:roue de dharma`
+- ☹
+  - `:malheureux`
+  - `:mécontent`
+  - `:triste`
+  - `:visage`
+  - `:visage mécontent`
+  - `:émoticône`
+- ☺
+  - `:content`
+  - `:décontracté`
+  - `:détendu`
+  - `:heureux`
+  - `:sourire`
+  - `:visage souriant avec les yeux fermés`
+  - `:émoticône`
+- ♈
+  - `:Bélier`
+  - `:astrologie`
+  - `:horoscope`
+  - `:zodiaque`
+- ♉
+  - `:Taureau`
+  - `:astrologie`
+  - `:horoscope`
+  - `:taureau`
+  - `:zodiaque`
+- ♊
+  - `:Gémeaux`
+  - `:astrologie`
+  - `:gémeaux`
+  - `:horoscope`
+  - `:zodiaque`
+- ♋
+  - `:Cancer`
+  - `:astrologie`
+  - `:cancer`
+  - `:crabe`
+  - `:horoscope`
+  - `:zodiaque`
+- ♌
+  - `:Lion`
+  - `:astrologie`
+  - `:horoscope`
+  - `:lion`
+  - `:zodiaque`
+- ♍
+  - `:Vierge`
+  - `:astrologie`
+  - `:horoscope`
+  - `:vierge`
+  - `:zodiaque`
+- ♎
+  - `:Balance`
+  - `:astrologie`
+  - `:balance`
+  - `:horoscope`
+  - `:justice`
+  - `:zodiaque`
+- ♏
+  - `:Scorpion`
+  - `:astrologie`
+  - `:horoscope`
+  - `:zodiaque`
+- ♐
+  - `:Sagittaire`
+  - `:astrologie`
+  - `:horoscope`
+  - `:sagittaire`
+  - `:zodiaque`
+- ♑
+  - `:Capricorne`
+  - `:astrologie`
+  - `:capricorne`
+  - `:chèvre`
+  - `:horoscope`
+  - `:zodiaque`
+- ♒
+  - `:Verseau`
+  - `:astrologie`
+  - `:eau`
+  - `:horoscope`
+  - `:verseau`
+  - `:zodiaque`
+- ♓
+  - `:Poissons`
+  - `:astrologie`
+  - `:horoscope`
+  - `:poissons`
+  - `:zodiaque`
+- ♟
+  - `:jeu de société`
+  - `:jeux de société`
+  - `:pion`
+  - `:échec`
+- ♠
+  - `:carte`
+  - `:couleur`
+  - `:jeu`
+  - `:pique`
+- ♣
+  - `:cartes à jouer`
+  - `:couleur`
+  - `:jeu`
+  - `:noir`
+  - `:trèfle`
+  - `:trèfle cartes`
+- ♥
+  - `:cartes à jouer`
+  - `:couleur`
+  - `:cœur`
+  - `:cœur cartes`
+  - `:jeu`
+  - `:rouge`
+- ♦
+  - `:carreau`
+  - `:carreaux`
+  - `:carte`
+  - `:couleur`
+  - `:jeu`
+- ♨
+  - `:chaud`
+  - `:source`
+  - `:sources chaudes`
+  - `:vapeur`
+- ♻
+  - `:recyclage`
+  - `:symbole Recyclage`
+- ♾
+  - `:illimité`
+  - `:infini`
+  - `:pour toujours`
+  - `:universel`
+- ♿
+  - `:accès`
+  - `:accès handicapés`
+  - `:fauteuil roulant`
+  - `:mobilité réduite`
+  - `:symbole Accès handicapés`
+- ⚒
+  - `:burin`
+  - `:marteau`
+  - `:marteau et burin`
+  - `:outils`
+  - `:pioche`
+- ⚓
+  - `:ancre`
+  - `:bateau`
+  - `:voyage`
+- ⚔
+  - `:armes`
+  - `:croisées`
+  - `:épées`
+  - `:épées croisées`
+- ⚕
+  - `:Esculape`
+  - `:caducée`
+  - `:docteur`
+  - `:médecine`
+  - `:personnel`
+- ⚖
+  - `:astrologie`
+  - `:balance`
+  - `:balance à poids`
+  - `:horoscope`
+  - `:justice`
+  - `:poids`
+  - `:zodiaque`
+- ⚗
+  - `:alambic`
+  - `:chimie`
+  - `:outil`
+- ⚙
+  - `:engrenage`
+  - `:outil`
+  - `:roue dentée`
+- ⚛
+  - `:athée`
+  - `:atome`
+  - `:symbole de l’atome`
+- ⚜
+  - `:blason`
+  - `:fleur de lis`
+  - `:fleur de lys`
+  - `:reine`
+  - `:roi`
+  - `:royauté française`
+- ⚠
+  - `:attention`
+  - `:avertissement`
+  - `:symbole d’avertissement`
+- ⚡
+  - `:danger`
+  - `:haute tension`
+  - `:nature`
+  - `:orage`
+  - `:symbole haute tension`
+  - `:vitesse`
+  - `:éclair`
+  - `:électricité`
+- ⚪
+  - `:cercle`
+  - `:cercle blanc`
+  - `:géométrie`
+  - `:rond blanc`
+- ⚫
+  - `:cercle`
+  - `:cercle noir`
+  - `:géométrie`
+  - `:rond`
+- ⚰
+  - `:cercueil`
+  - `:enterrement`
+  - `:mort`
+  - `:obsèques`
+  - `:vampire`
+- ⚱
+  - `:cendres`
+  - `:mort`
+  - `:obsèques`
+  - `:urne`
+  - `:urne funéraire`
+- ⚽
+  - `:ballon`
+  - `:ballon de football`
+  - `:football`
+  - `:sport`
+- ⚾
+  - `:balle de baseball`
+  - `:baseball`
+  - `:sport`
+- ⛄
+  - `:bonhomme de neige`
+  - `:bonhomme de neige sans flocons`
+  - `:froid`
+  - `:neige`
+- ⛅
+  - `:caché`
+  - `:météo`
+  - `:nuage`
+  - `:nuageux`
+  - `:soleil`
+  - `:soleil derrière nuages`
+- ⛈
+  - `:météo`
+  - `:nuage`
+  - `:nuage éclair pluie`
+  - `:orage`
+  - `:pluie`
+  - `:éclair`
+- ⛎
+  - `:Ophiuchus`
+  - `:serpent`
+  - `:serpentaire`
+  - `:zodiaque`
+- ⛏
+  - `:mine`
+  - `:outil`
+  - `:pioche`
+- ⛑
+  - `:casque`
+  - `:casque croix blanche`
+  - `:casque de sauveteur`
+  - `:casque de secouriste`
+  - `:croix`
+  - `:secours`
+- ⛓
+  - `:chaîne`
+  - `:chaînes`
+- ⛔
+  - `:circulation`
+  - `:entrée interdite`
+  - `:interdit`
+  - `:non`
+  - `:panneau`
+  - `:sens interdit`
+- ⛩
+  - `:religion`
+  - `:sanctuaire shinto`
+  - `:shinto`
+  - `:voyage`
+- ⛪
+  - `:bâtiment`
+  - `:chapelle`
+  - `:chrétien`
+  - `:croix`
+  - `:religion`
+  - `:voyage`
+  - `:église`
+- ⛰
+  - `:montagne`
+  - `:nature`
+  - `:sommet`
+  - `:voyage`
+- ⛱
+  - `:météo`
+  - `:parapluie`
+  - `:parapluie au sol`
+  - `:parasol`
+  - `:pluie`
+  - `:soleil`
+  - `:voyage`
+- ⛲
+  - `:eau`
+  - `:fontaine`
+- ⛳
+  - `:drapeau de golf`
+  - `:golf`
+  - `:trou`
+- ⛴
+  - `:bateau`
+  - `:ferry`
+  - `:moyen de transport`
+  - `:voyage`
+- ⛵
+  - `:bateau`
+  - `:moyen de transport`
+  - `:plaisance`
+  - `:voilier`
+  - `:voyage`
+- ⛷
+  - `:neige`
+  - `:ski`
+  - `:skieur`
+  - `:sport`
+- ⛸
+  - `:glace`
+  - `:patin`
+  - `:patin à glace`
+  - `:patiner`
+  - `:patinoire`
+  - `:sport`
+- ⛹
+  - `:basket-ball`
+  - `:basketteur`
+  - `:sport`
+- ⛹‍♀
+  - `:ballon`
+  - `:basket-ball`
+  - `:basketteuse`
+  - `:femme`
+  - `:femme avec ballon`
+  - `:sport`
+- ⛺
+  - `:camping`
+  - `:nature`
+  - `:tente`
+  - `:voyage`
+- ⛽
+  - `:diesel`
+  - `:essence`
+  - `:gazole`
+  - `:pompe à essence`
+  - `:station essence`
+- ✂
+  - `:ciseaux`
+  - `:couper`
+  - `:découper`
+  - `:fournitures`
+  - `:papier`
+- ✅
+  - `:OK`
+  - `:coche blanche`
+  - `:marque`
+  - `:sélection`
+  - `:terminé`
+  - `:voilà`
+- ✈
+  - `:avion`
+  - `:avion en vol`
+  - `:jet`
+  - `:moyen de transport`
+  - `:vol`
+  - `:voyage`
+- ✉
+  - `:courrier électronique`
+  - `:e-mail`
+  - `:enveloppe`
+  - `:lettre`
+  - `:message`
+- ✊
+  - `:main`
+  - `:pierre`
+  - `:poing`
+  - `:poing levé`
+  - `:poing serré`
+  - `:solidarité`
+- ✋
+  - `:main`
+  - `:main levée`
+  - `:paume de la main`
+  - `:stop`
+  - `:tope là`
+- ✌
+  - `:V de la victoire`
+  - `:ciseaux`
+  - `:doigts`
+  - `:main`
+  - `:paix et amour`
+  - `:peace and love`
+  - `:victoire`
+- ✍
+  - `:main`
+  - `:main qui écrit`
+  - `:écrire`
+- ✏
+  - `:crayon`
+  - `:crayon à papier`
+  - `:gomme`
+  - `:mine`
+- ✒
+  - `:stylo`
+  - `:stylo plume noir`
+  - `:écrire`
+- ✔
+  - `:OK`
+  - `:coche`
+  - `:coche noire`
+  - `:terminé`
+  - `:voilà`
+- ✖
+  - `:annuler`
+  - `:croix noire`
+  - `:multiplication`
+  - `:multiplier`
+  - `:x`
+- ✝
+  - `:chrétien`
+  - `:chrétienne`
+  - `:croix`
+  - `:croix latine`
+  - `:religion`
+- ✡
+  - `:judaïsme`
+  - `:juif`
+  - `:juive`
+  - `:religion`
+  - `:étoile`
+  - `:étoile de David`
+- ✨
+  - `:magie`
+  - `:nuit`
+  - `:nuit étoilée`
+  - `:étincelles`
+  - `:étoiles`
+- ✳
+  - `:astérique`
+  - `:astérique huit branches`
+- ✴
+  - `:étoile`
+  - `:étoile huit branches`
+- ❄
+  - `:flocon`
+  - `:flocon de neige`
+  - `:froid`
+  - `:météo`
+  - `:neige`
+- ❇
+  - `:éclat`
+  - `:étincelle`
+- ❌
+  - `:annuler`
+  - `:croix rouge`
+  - `:multiplication`
+  - `:multiplier`
+  - `:x`
+- ❎
+  - `:bouton croix`
+  - `:croix`
+  - `:multiplier`
+  - `:vert`
+- ❓
+  - `:point d’interrogation`
+  - `:ponctuation`
+  - `:question`
+- ❔
+  - `:?`
+  - `:point d’interrogation blanc`
+  - `:question`
+- ❕
+  - `:exclamation`
+  - `:point d’exclamation blanc`
+  - `:ponctuation`
+  - `:surprise`
+- ❗
+  - `:exclamation`
+  - `:point d’exclamation`
+  - `:ponctuation`
+- ❣
+  - `:amour`
+  - `:cœur`
+  - `:cœur point d’exclamation`
+  - `:ponctuation`
+- ❤
+  - `:amour`
+  - `:cœur`
+  - `:cœur rouge`
+  - `:sentiment`
+- ➕
+  - `:addition`
+  - `:ajouter`
+  - `:mathématiques`
+  - `:plus`
+  - `:signe Plus`
+  - `:somme`
+- ➖
+  - `:mathématiques`
+  - `:moins`
+  - `:signe Moins`
+  - `:soustraction`
+  - `:soustraire`
+- ➗
+  - `:algèbre`
+  - `:division`
+  - `:math`
+  - `:mathématique`
+  - `:signe Diviser`
+- ➡
+  - `:direction`
+  - `:droite`
+  - `:est`
+  - `:flèche`
+  - `:flèche droite`
+  - `:sens`
+- ➰
+  - `:boucle`
+  - `:bouclette`
+- ➿
+  - `:boucle`
+  - `:double boucle`
+- ⤴
+  - `:flèche`
+  - `:flèche courbe haut`
+  - `:flèche courbe vers la droite et le haut`
+- ⤵
+  - `:bas`
+  - `:flèche`
+  - `:flèche courbe bas`
+- ⬅
+  - `:direction`
+  - `:flèche`
+  - `:flèche gauche`
+  - `:ouest`
+  - `:sens`
+- ⬆
+  - `:direction`
+  - `:flèche`
+  - `:flèche haut`
+  - `:nord`
+  - `:sens`
+- ⬇
+  - `:direction`
+  - `:flèche`
+  - `:flèche bas`
+  - `:sens`
+  - `:sud`
+- ⬛
+  - `:forme`
+  - `:grand carré noir`
+  - `:géométrie`
+- ⬜
+  - `:carré`
+  - `:forme`
+  - `:grand carré blanc`
+  - `:géométrie`
+- ⭐
+  - `:astronomie`
+  - `:nuit`
+  - `:étoile`
+- ⭕
+  - `:O`
+  - `:cercle`
+  - `:gros cercle`
+- 〰
+  - `:ligne ondulée`
+  - `:ponctuation`
+  - `:tiret`
+  - `:trait d&#39;union ondulé`
+  - `:vague`
+- 〽
+  - `:alternance`
+  - `:symbole`
+- ㊗
+  - `:idéogramme`
+  - `:idéogramme félicitations`
+  - `:japonais`
+- ㊙
+  - `:idéogramme`
+  - `:idéogramme secret`
+  - `:japonais`
+- 🀄
+  - `:dragon rouge mahjong`
+  - `:jeu`
+  - `:mah-jong`
+  - `:mahjong`
+  - `:rouge`
+- 🃏
+  - `:Joker`
+  - `:carte Joker`
+  - `:cartes à jouer`
+  - `:jeu`
+- 🅰
+  - `:A`
+  - `:groupe sanguin`
+  - `:groupe sanguin A`
+- 🅱
+  - `:B`
+  - `:groupe sanguin`
+  - `:groupe sanguin B`
+- 🅾
+  - `:O`
+  - `:groupe sanguin`
+  - `:groupe sanguin O`
+- 🅿
+  - `:P`
+  - `:bouton`
+  - `:panneau parking`
+  - `:parking`
+- 🆎
+  - `:AB`
+  - `:groupe sanguin`
+  - `:groupe sanguin AB`
+- 🆑
+  - `:CL`
+  - `:effacer`
+  - `:icône Effacer`
+- 🆒
+  - `:cool`
+  - `:icône Cool`
+- 🆓
+  - `:gratuit`
+  - `:icône Gratuit`
+- 🆔
+  - `:ID`
+  - `:bouton`
+  - `:icône Identifiant`
+  - `:identifiant`
+- 🆕
+  - `:icône Nouveau`
+  - `:nouveau`
+  - `:nouveauté`
+- 🆖
+  - `:NG`
+  - `:bouton NG`
+- 🆗
+  - `:OK`
+  - `:bouton OK`
+  - `:icône OK`
+- 🆘
+  - `:SOS`
+  - `:au secours`
+  - `:icône SOS`
+  - `:à l&#39;aide`
+- 🆙
+  - `:icône Nouveauté`
+  - `:nouveau`
+  - `:nouveauté`
+  - `:up`
+- 🆚
+  - `:contre`
+  - `:icône Contre`
+  - `:versus`
+- 🇦🇩
+  - `:Andorre`
+  - `:drapeau`
+- 🇦🇪
+  - `:drapeau`
+  - `:Émirats arabes unis`
+- 🇦🇫
+  - `:Afghanistan`
+  - `:drapeau`
+- 🇦🇬
+  - `:Antigua-et-Barbuda`
+  - `:drapeau`
+- 🇦🇮
+  - `:Anguilla`
+  - `:drapeau`
+- 🇦🇱
+  - `:Albanie`
+  - `:drapeau`
+- 🇦🇲
+  - `:Arménie`
+  - `:drapeau`
+- 🇦🇴
+  - `:Angola`
+  - `:drapeau`
+- 🇦🇶
+  - `:Antarctique`
+  - `:drapeau`
+- 🇦🇷
+  - `:Argentine`
+  - `:drapeau`
+- 🇦🇸
+  - `:Samoa américaines`
+  - `:drapeau`
+- 🇦🇹
+  - `:Autriche`
+  - `:drapeau`
+- 🇦🇺
+  - `:Australie`
+  - `:drapeau`
+- 🇦🇼
+  - `:Aruba`
+  - `:drapeau`
+- 🇦🇽
+  - `:drapeau`
+  - `:îles Åland`
+- 🇦🇿
+  - `:Azerbaïdjan`
+  - `:drapeau`
+- 🇧🇦
+  - `:Bosnie-Herzégovine`
+  - `:drapeau`
+- 🇧🇧
+  - `:Barbade`
+  - `:drapeau`
+- 🇧🇩
+  - `:Bangladesh`
+  - `:drapeau`
+- 🇧🇪
+  - `:Belgique`
+  - `:drapeau`
+- 🇧🇫
+  - `:Burkina Faso`
+  - `:drapeau`
+- 🇧🇬
+  - `:Bulgarie`
+  - `:drapeau`
+- 🇧🇭
+  - `:Bahreïn`
+  - `:drapeau`
+- 🇧🇮
+  - `:Burundi`
+  - `:drapeau`
+- 🇧🇯
+  - `:Bénin`
+  - `:drapeau`
+- 🇧🇱
+  - `:Saint-Barthélemy`
+  - `:drapeau`
+- 🇧🇲
+  - `:Bermudes`
+  - `:drapeau`
+- 🇧🇳
+  - `:Brunei`
+  - `:drapeau`
+- 🇧🇴
+  - `:Bolivie`
+  - `:drapeau`
+- 🇧🇶
+  - `:Pays-Bas caribéens`
+  - `:drapeau`
+- 🇧🇷
+  - `:Brésil`
+  - `:drapeau`
+- 🇧🇸
+  - `:Bahamas`
+  - `:drapeau`
+- 🇧🇹
+  - `:Bhoutan`
+  - `:drapeau`
+- 🇧🇼
+  - `:Botswana`
+  - `:drapeau`
+- 🇧🇾
+  - `:Biélorussie`
+  - `:drapeau`
+- 🇧🇿
+  - `:Belize`
+  - `:drapeau`
+- 🇨🇦
+  - `:Canada`
+  - `:drapeau`
+- 🇨🇨
+  - `:drapeau`
+  - `:îles Cocos`
+- 🇨🇩
+  - `:Congo-Kinshasa`
+  - `:République démocratique du Congo`
+  - `:drapeau`
+- 🇨🇫
+  - `:Centrafrique`
+  - `:drapeau`
+- 🇨🇬
+  - `:Congo`
+  - `:Congo-Brazzaville`
+  - `:République du Congo`
+  - `:drapeau`
+- 🇨🇭
+  - `:Suisse`
+  - `:drapeau`
+- 🇨🇮
+  - `:Côte d’Ivoire`
+  - `:drapeau`
+- 🇨🇰
+  - `:drapeau`
+  - `:îles Cook`
+- 🇨🇱
+  - `:Chili`
+  - `:drapeau`
+- 🇨🇲
+  - `:Cameroun`
+  - `:drapeau`
+- 🇨🇳
+  - `:Chine`
+  - `:drapeau`
+- 🇨🇴
+  - `:Colombie`
+  - `:drapeau`
+- 🇨🇷
+  - `:Costa Rica`
+  - `:drapeau`
+- 🇨🇺
+  - `:Cuba`
+  - `:drapeau`
+- 🇨🇻
+  - `:Cap-Vert`
+  - `:drapeau`
+- 🇨🇼
+  - `:Curaçao`
+  - `:drapeau`
+- 🇨🇽
+  - `:drapeau`
+  - `:île Christmas`
+- 🇨🇾
+  - `:Chypre`
+  - `:drapeau`
+- 🇨🇿
+  - `:République tchèque`
+  - `:drapeau`
+- 🇩🇪
+  - `:Allemagne`
+  - `:drapeau`
+- 🇩🇯
+  - `:Djibouti`
+  - `:drapeau`
+- 🇩🇰
+  - `:Danemark`
+  - `:drapeau`
+- 🇩🇲
+  - `:Dominique`
+  - `:drapeau`
+- 🇩🇴
+  - `:République dominicaine`
+  - `:drapeau`
+- 🇩🇿
+  - `:Algérie`
+  - `:drapeau`
+- 🇪🇨
+  - `:drapeau`
+  - `:Équateur`
+- 🇪🇪
+  - `:Estonie`
+  - `:drapeau`
+- 🇪🇬
+  - `:drapeau`
+  - `:Égypte`
+- 🇪🇭
+  - `:Sahara occidental`
+  - `:drapeau`
+- 🇪🇷
+  - `:drapeau`
+  - `:Érythrée`
+- 🇪🇸
+  - `:Espagne`
+  - `:drapeau`
+- 🇪🇹
+  - `:drapeau`
+  - `:Éthiopie`
+- 🇪🇺
+  - `:Union Européenne`
+  - `:Union européenne`
+  - `:drapeau`
+- 🇫🇮
+  - `:Finlande`
+  - `:drapeau`
+- 🇫🇯
+  - `:Fidji`
+  - `:drapeau`
+- 🇫🇰
+  - `:drapeau`
+  - `:îles Malouines`
+- 🇫🇲
+  - `:Micronésie`
+  - `:drapeau`
+- 🇫🇴
+  - `:drapeau`
+  - `:îles Féroé`
+- 🇫🇷
+  - `:France`
+  - `:drapeau`
+  - `:français`
+  - `:française`
+- 🇬🇦
+  - `:Gabon`
+  - `:drapeau`
+- 🇬🇧
+  - `:Grande-Bretagne`
+  - `:Royaume-Uni`
+  - `:drapeau`
+- 🇬🇩
+  - `:Grenade`
+  - `:drapeau`
+- 🇬🇪
+  - `:Géorgie`
+  - `:drapeau`
+- 🇬🇫
+  - `:Guyane française`
+  - `:drapeau`
+- 🇬🇬
+  - `:Guernesey`
+  - `:drapeau`
+- 🇬🇭
+  - `:Ghana`
+  - `:drapeau`
+- 🇬🇮
+  - `:Gibraltar`
+  - `:drapeau`
+- 🇬🇱
+  - `:Groenland`
+  - `:drapeau`
+- 🇬🇲
+  - `:Gambie`
+  - `:drapeau`
+- 🇬🇳
+  - `:Guinée`
+  - `:drapeau`
+- 🇬🇵
+  - `:Guadeloupe`
+  - `:drapeau`
+- 🇬🇶
+  - `:Guinée équatoriale`
+  - `:drapeau`
+- 🇬🇷
+  - `:Grèce`
+  - `:drapeau`
+- 🇬🇸
+  - `:Géorgie du Sud et îles Sandwich du Sud`
+  - `:drapeau`
+- 🇬🇹
+  - `:Guatemala`
+  - `:drapeau`
+- 🇬🇺
+  - `:Guam`
+  - `:drapeau`
+- 🇬🇼
+  - `:Guinée-Bissau`
+  - `:drapeau`
+- 🇬🇾
+  - `:Guyana`
+  - `:drapeau`
+- 🇭🇰
+  - `:Hong Kong RAS de Chine`
+  - `:drapeau`
+- 🇭🇳
+  - `:Honduras`
+  - `:drapeau`
+- 🇭🇷
+  - `:Croatie`
+  - `:drapeau`
+- 🇭🇹
+  - `:Haïti`
+  - `:drapeau`
+- 🇭🇺
+  - `:Hongrie`
+  - `:drapeau`
+- 🇮🇨
+  - `:drapeau`
+  - `:îles Canaries`
+- 🇮🇩
+  - `:Indonésie`
+  - `:drapeau`
+- 🇮🇪
+  - `:Irlande`
+  - `:drapeau`
+- 🇮🇱
+  - `:Israël`
+  - `:drapeau`
+- 🇮🇲
+  - `:drapeau`
+  - `:île de Man`
+- 🇮🇳
+  - `:Inde`
+  - `:drapeau`
+- 🇮🇴
+  - `:Territoire britannique de l&#39;océan Indien`
+  - `:drapeau`
+- 🇮🇶
+  - `:Irak`
+  - `:drapeau`
+- 🇮🇷
+  - `:Iran`
+  - `:drapeau`
+- 🇮🇸
+  - `:Islande`
+  - `:drapeau`
+- 🇮🇹
+  - `:Italie`
+  - `:drapeau`
+- 🇯🇪
+  - `:Jersey`
+  - `:drapeau`
+- 🇯🇲
+  - `:Jamaïque`
+  - `:drapeau`
+- 🇯🇴
+  - `:Jordanie`
+  - `:drapeau`
+- 🇯🇵
+  - `:Japon`
+  - `:drapeau`
+- 🇰🇪
+  - `:Kenya`
+  - `:drapeau`
+- 🇰🇬
+  - `:Kirghizistan`
+  - `:drapeau`
+- 🇰🇭
+  - `:Cambodge`
+  - `:drapeau`
+- 🇰🇮
+  - `:Kiribati`
+  - `:drapeau`
+- 🇰🇲
+  - `:Comores`
+  - `:drapeau`
+- 🇰🇳
+  - `:Saint-Christophe-et-Niévès`
+  - `:drapeau`
+- 🇰🇵
+  - `:Corée du Nord`
+  - `:drapeau`
+- 🇰🇷
+  - `:Corée du Sud`
+  - `:drapeau`
+- 🇰🇼
+  - `:Koweït`
+  - `:drapeau`
+- 🇰🇾
+  - `:drapeau`
+  - `:îles Caïmans`
+- 🇰🇿
+  - `:Kazakhstan`
+  - `:drapeau`
+- 🇱🇦
+  - `:Laos`
+  - `:drapeau`
+- 🇱🇧
+  - `:Liban`
+  - `:drapeau`
+- 🇱🇨
+  - `:Sainte-Lucie`
+  - `:drapeau`
+- 🇱🇮
+  - `:Liechtenstein`
+  - `:drapeau`
+- 🇱🇰
+  - `:Sri Lanka`
+  - `:drapeau`
+- 🇱🇷
+  - `:Liberia`
+  - `:drapeau`
+- 🇱🇸
+  - `:Lesotho`
+  - `:drapeau`
+- 🇱🇹
+  - `:Lituanie`
+  - `:drapeau`
+- 🇱🇺
+  - `:Luxembourg`
+  - `:drapeau`
+- 🇱🇻
+  - `:Lettonie`
+  - `:drapeau`
+- 🇱🇾
+  - `:Libye`
+  - `:drapeau`
+- 🇲🇦
+  - `:Maroc`
+  - `:drapeau`
+- 🇲🇨
+  - `:Monaco`
+  - `:drapeau`
+- 🇲🇩
+  - `:Moldavie`
+  - `:drapeau`
+- 🇲🇪
+  - `:Monténégro`
+  - `:drapeau`
+- 🇲🇬
+  - `:Madagascar`
+  - `:drapeau`
+- 🇲🇭
+  - `:drapeau`
+  - `:îles Marshall`
+- 🇲🇰
+  - `:Macédoine`
+  - `:drapeau`
+- 🇲🇱
+  - `:Mali`
+  - `:drapeau`
+- 🇲🇲
+  - `:Birmanie`
+  - `:Myanmar`
+  - `:drapeau`
+- 🇲🇳
+  - `:Mongolie`
+  - `:drapeau`
+- 🇲🇴
+  - `:Macao RAS de Chine`
+  - `:drapeau`
+- 🇲🇵
+  - `:drapeau`
+  - `:îles Mariannes du Nord`
+- 🇲🇶
+  - `:Martinique`
+  - `:drapeau`
+- 🇲🇷
+  - `:Mauritanie`
+  - `:drapeau`
+- 🇲🇸
+  - `:Montserrat`
+  - `:drapeau`
+- 🇲🇹
+  - `:Malte`
+  - `:drapeau`
+- 🇲🇺
+  - `:Maurice`
+  - `:drapeau`
+  - `:Île Maurice`
+  - `:île Maurice`
+- 🇲🇻
+  - `:Maldives`
+  - `:drapeau`
+- 🇲🇼
+  - `:Malawi`
+  - `:drapeau`
+- 🇲🇽
+  - `:Mexique`
+  - `:drapeau`
+- 🇲🇾
+  - `:Malaisie`
+  - `:drapeau`
+- 🇲🇿
+  - `:Mozambique`
+  - `:drapeau`
+- 🇳🇦
+  - `:Namibie`
+  - `:drapeau`
+- 🇳🇨
+  - `:Nouvelle-Calédonie`
+  - `:drapeau`
+- 🇳🇪
+  - `:Niger`
+  - `:drapeau`
+- 🇳🇫
+  - `:drapeau`
+  - `:île Norfolk`
+- 🇳🇬
+  - `:Nigeria`
+  - `:drapeau`
+- 🇳🇮
+  - `:Nicaragua`
+  - `:drapeau`
+- 🇳🇱
+  - `:Pays-Bas`
+  - `:drapeau`
+- 🇳🇴
+  - `:Norvège`
+  - `:drapeau`
+- 🇳🇵
+  - `:Népal`
+  - `:drapeau`
+- 🇳🇷
+  - `:Nauru`
+  - `:drapeau`
+- 🇳🇺
+  - `:Niue`
+  - `:drapeau`
+- 🇳🇿
+  - `:Nouvelle-Zélande`
+  - `:drapeau`
+- 🇴🇲
+  - `:Oman`
+  - `:drapeau`
+- 🇵🇦
+  - `:Panama`
+  - `:drapeau`
+- 🇵🇪
+  - `:Pérou`
+  - `:drapeau`
+- 🇵🇫
+  - `:Polynésie française`
+  - `:drapeau`
+- 🇵🇬
+  - `:Papouasie-Nouvelle-Guinée`
+  - `:drapeau`
+- 🇵🇭
+  - `:Philippines`
+  - `:drapeau`
+- 🇵🇰
+  - `:Pakistan`
+  - `:drapeau`
+- 🇵🇱
+  - `:Pologne`
+  - `:drapeau`
+- 🇵🇲
+  - `:Saint-Pierre-et-Miquelon`
+  - `:drapeau`
+- 🇵🇳
+  - `:drapeau`
+  - `:îles Pitcairn`
+- 🇵🇷
+  - `:Porto Rico`
+  - `:drapeau`
+- 🇵🇸
+  - `:Palestine`
+  - `:Territoires palestiniens`
+  - `:drapeau`
+- 🇵🇹
+  - `:Portugal`
+  - `:drapeau`
+- 🇵🇼
+  - `:Palaos`
+  - `:drapeau`
+- 🇵🇾
+  - `:Paraguay`
+  - `:drapeau`
+- 🇶🇦
+  - `:Qatar`
+  - `:drapeau`
+- 🇷🇪
+  - `:Réunion`
+  - `:drapeau`
+  - `:Île de la Réunion`
+  - `:île de la Réunion`
+- 🇷🇴
+  - `:Roumanie`
+  - `:drapeau`
+- 🇷🇸
+  - `:Serbie`
+  - `:drapeau`
+- 🇷🇺
+  - `:Russie`
+  - `:drapeau`
+- 🇷🇼
+  - `:Rwanda`
+  - `:drapeau`
+- 🇸🇦
+  - `:Arabie Saoudite`
+  - `:Arabie saoudite`
+  - `:drapeau`
+- 🇸🇧
+  - `:drapeau`
+  - `:îles Salomon`
+- 🇸🇨
+  - `:Seychelles`
+  - `:drapeau`
+- 🇸🇩
+  - `:Soudan`
+  - `:drapeau`
+- 🇸🇪
+  - `:Suède`
+  - `:drapeau`
+- 🇸🇬
+  - `:Singapour`
+  - `:drapeau`
+- 🇸🇭
+  - `:Sainte-Hélène`
+  - `:drapeau`
+- 🇸🇮
+  - `:Slovénie`
+  - `:drapeau`
+- 🇸🇰
+  - `:Slovaquie`
+  - `:drapeau`
+- 🇸🇱
+  - `:Sierra Leone`
+  - `:drapeau`
+- 🇸🇲
+  - `:Saint-Marin`
+  - `:drapeau`
+- 🇸🇳
+  - `:Sénégal`
+  - `:drapeau`
+- 🇸🇴
+  - `:Somalie`
+  - `:drapeau`
+- 🇸🇷
+  - `:Suriname`
+  - `:drapeau`
+- 🇸🇸
+  - `:Soudan du Sud`
+  - `:drapeau`
+- 🇸🇹
+  - `:Sao Tomé-et-Principe`
+  - `:drapeau`
+- 🇸🇻
+  - `:Salvador`
+  - `:drapeau`
+- 🇸🇽
+  - `:Saint-Martin`
+  - `:drapeau`
+- 🇸🇾
+  - `:Syrie`
+  - `:drapeau`
+- 🇸🇿
+  - `:Swaziland`
+  - `:drapeau`
+- 🇹🇨
+  - `:drapeau`
+  - `:îles Turks-et-Caïcos`
+- 🇹🇩
+  - `:Tchad`
+  - `:drapeau`
+- 🇹🇫
+  - `:Terres australes et antarctiques françaises`
+  - `:drapeau`
+- 🇹🇬
+  - `:Togo`
+  - `:drapeau`
+- 🇹🇭
+  - `:Thaïlande`
+  - `:drapeau`
+- 🇹🇯
+  - `:Tadjikistan`
+  - `:drapeau`
+- 🇹🇰
+  - `:Tokelau`
+  - `:drapeau`
+- 🇹🇱
+  - `:Timor oriental`
+  - `:drapeau`
+- 🇹🇲
+  - `:Turkménistan`
+  - `:drapeau`
+- 🇹🇳
+  - `:Tunisie`
+  - `:drapeau`
+- 🇹🇴
+  - `:Tonga`
+  - `:drapeau`
+- 🇹🇷
+  - `:Turquie`
+  - `:drapeau`
+- 🇹🇹
+  - `:Trinité-et-Tobago`
+  - `:drapeau`
+- 🇹🇻
+  - `:Tuvalu`
+  - `:drapeau`
+- 🇹🇼
+  - `:Taïwan`
+  - `:drapeau`
+- 🇹🇿
+  - `:Tanzanie`
+  - `:drapeau`
+- 🇺🇦
+  - `:Ukraine`
+  - `:drapeau`
+- 🇺🇬
+  - `:Ouganda`
+  - `:drapeau`
+- 🇺🇸
+  - `:USA`
+  - `:drapeau`
+  - `:États-Unis`
+- 🇺🇾
+  - `:Uruguay`
+  - `:drapeau`
+- 🇺🇿
+  - `:Ouzbékistan`
+  - `:drapeau`
+- 🇻🇦
+  - `:Vatican`
+  - `:drapeau`
+- 🇻🇨
+  - `:Saint-Vincent-et-les-Grenadines`
+  - `:drapeau`
+- 🇻🇪
+  - `:Venezuela`
+  - `:drapeau`
+- 🇻🇬
+  - `:drapeau`
+  - `:Îles Vierges britanniques`
+  - `:îles Vierges britanniques`
+- 🇻🇮
+  - `:drapeau`
+  - `:îles Vierges des États-Unis`
+- 🇻🇳
+  - `:Vietnam`
+  - `:drapeau`
+- 🇻🇺
+  - `:Vanuatu`
+  - `:drapeau`
+- 🇼🇫
+  - `:Wallis-et-Futuna`
+  - `:drapeau`
+- 🇼🇸
+  - `:Samoa`
+  - `:drapeau`
+- 🇽🇪
+  - `:Angleterre`
+  - `:drapeau`
+- 🇽🇰
+  - `:Kosovo`
+  - `:drapeau`
+- 🇽🇸
+  - `:Ecosse`
+  - `:drapeau`
+  - `:Écosse`
+  - `:écosse`
+- 🇽🇹
+  - `:Texas`
+  - `:drapeau`
+- 🇽🇼
+  - `:drapeau`
+  - `:pays de Galles`
+- 🇾🇪
+  - `:Yémen`
+  - `:drapeau`
+- 🇾🇹
+  - `:Mayotte`
+  - `:drapeau`
+- 🇿🇦
+  - `:Afrique du Sud`
+  - `:drapeau`
+- 🇿🇲
+  - `:Zambie`
+  - `:drapeau`
+- 🇿🇼
+  - `:Zimbabwe`
+  - `:drapeau`
+- 🈁
+  - `:idéogramme`
+  - `:idéogramme katakana ici`
+  - `:japonais`
+- 🈂
+  - `:frais de service`
+  - `:idéogramme katakana`
+  - `:japonais`
+- 🈚
+  - `:gratuit`
+  - `:idéogramme`
+  - `:japonais`
+- 🈯
+  - `:idéogramme`
+  - `:japonais`
+  - `:réservé`
+- 🈲
+  - `:idéogramme`
+  - `:idéogramme interdit`
+  - `:japonais`
+- 🈳
+  - `:idéogramme`
+  - `:idéogramme vide`
+  - `:japonais`
+- 🈴
+  - `:idéogramme`
+  - `:japonais`
+  - `:note de passage`
+- 🈵
+  - `:idéogramme`
+  - `:idéogramme plénitude`
+  - `:japonais`
+- 🈶
+  - `:idéogramme`
+  - `:japonais`
+  - `:payant`
+- 🈷
+  - `:idéogramme`
+  - `:japonais`
+  - `:montant mensuel`
+- 🈸
+  - `:idéogramme`
+  - `:idéogramme appliquer`
+  - `:japonais`
+- 🈹
+  - `:idéogramme`
+  - `:japonais`
+  - `:rabais`
+- 🈺
+  - `:idéogramme`
+  - `:japonais`
+  - `:ouvert`
+- 🉐
+  - `:idéogramme`
+  - `:idéogramme avantage`
+  - `:japonais`
+- 🉑
+  - `:acceptable`
+  - `:idéogramme`
+  - `:japonais`
+- 🌀
+  - `:cyclone`
+  - `:spirale`
+  - `:tourbillon`
+  - `:typhon`
+  - `:vertige`
+- 🌁
+  - `:brouillard`
+  - `:brume`
+  - `:voyage`
+- 🌂
+  - `:météo`
+  - `:parapluie`
+  - `:parapluie fermé`
+  - `:pluie`
+- 🌃
+  - `:nuit`
+  - `:nuit étoilée`
+  - `:ville`
+  - `:voyage`
+  - `:étoiles`
+- 🌄
+  - `:lever de soleil`
+  - `:matin`
+  - `:nature`
+  - `:soleil`
+  - `:soleil levant derrière les montagnes`
+  - `:voyage`
+- 🌅
+  - `:lever de soleil`
+  - `:matin`
+  - `:nature`
+  - `:soleil`
+  - `:soleil levant`
+  - `:voyage`
+- 🌆
+  - `:coucher de soleil`
+  - `:soir`
+  - `:soleil`
+  - `:tombée de la nuit`
+  - `:ville`
+  - `:ville au crépuscule`
+  - `:voyage`
+- 🌇
+  - `:coucher de soleil en ville`
+  - `:crépuscule`
+  - `:soir`
+  - `:soleil`
+  - `:tombée de la nuit`
+  - `:ville`
+  - `:voyage`
+- 🌈
+  - `:Gay Pride`
+  - `:LGBT`
+  - `:LGBTQ`
+  - `:LGBTQIA`
+  - `:arc-en-ciel`
+  - `:bisexuel`
+  - `:bisexuelle`
+  - `:gay`
+  - `:homosexuel`
+  - `:homosexuelle`
+  - `:lesbienne`
+  - `:météo`
+  - `:nature`
+  - `:orgueil`
+  - `:pluie`
+  - `:trans`
+  - `:transgenre`
+- 🌉
+  - `:nuit`
+  - `:pont`
+  - `:pont de nuit`
+- 🌊
+  - `:Kanagawa`
+  - `:eau`
+  - `:lame`
+  - `:large`
+  - `:marée`
+  - `:mer`
+  - `:nature`
+  - `:océan`
+  - `:remous`
+  - `:rouleau`
+  - `:surf`
+  - `:vague`
+- 🌋
+  - `:lave`
+  - `:nature`
+  - `:volcan`
+  - `:éruption`
+- 🌌
+  - `:espace`
+  - `:voie lactée`
+- 🌍
+  - `:Afrique`
+  - `:Europe`
+  - `:Terre`
+  - `:espace`
+  - `:globe`
+  - `:globe présentant l&#39;Europe et l&#39;Afrique`
+  - `:monde`
+  - `:planète`
+- 🌎
+  - `:Amérique`
+  - `:Terre`
+  - `:espace`
+  - `:globe`
+  - `:globe présentant l&#39;Amérique`
+  - `:monde`
+  - `:planète`
+- 🌏
+  - `:Asie`
+  - `:Australie`
+  - `:Terre`
+  - `:espace`
+  - `:globe`
+  - `:globe présentant l&#39;Asie et l&#39;Australie`
+  - `:monde`
+  - `:planète`
+- 🌐
+  - `:Internet`
+  - `:globe terrestre`
+  - `:monde`
+  - `:méridiens`
+  - `:net`
+  - `:toile`
+- 🌑
+  - `:espace`
+  - `:lune`
+  - `:nouvelle lune`
+  - `:sombre`
+- 🌒
+  - `:espace`
+  - `:lune`
+  - `:lune croissante`
+  - `:nuit`
+- 🌓
+  - `:espace`
+  - `:lune`
+  - `:nuit`
+  - `:premier quartier`
+  - `:quartier`
+- 🌔
+  - `:croissant`
+  - `:espace`
+  - `:gibbeux`
+  - `:lune`
+  - `:lune gibbeuse croissante`
+  - `:nuit`
+- 🌕
+  - `:espace`
+  - `:lune`
+  - `:nuit`
+  - `:pleine lune`
+- 🌖
+  - `:décroissant`
+  - `:espace`
+  - `:gibbeux`
+  - `:lune`
+  - `:lune gibbeuse décroissante`
+  - `:nuit`
+- 🌗
+  - `:dernier quartier`
+  - `:espace`
+  - `:lune`
+  - `:quartier`
+- 🌘
+  - `:croissant`
+  - `:croissant de lune`
+  - `:espace`
+  - `:lune`
+  - `:lune descendante`
+  - `:lune décroissante`
+  - `:nuit`
+- 🌙
+  - `:Ramadan`
+  - `:croissant`
+  - `:croissant de lune`
+  - `:espace`
+  - `:lune`
+  - `:nuit`
+- 🌚
+  - `:espace`
+  - `:lune`
+  - `:nouvelle lune à visage`
+  - `:nuit`
+  - `:visage`
+- 🌛
+  - `:croissant de lune`
+  - `:espace`
+  - `:lune`
+  - `:lune à visage`
+  - `:nuit`
+  - `:premier quartier de lune`
+  - `:quartier`
+  - `:visage`
+- 🌜
+  - `:croissant de lune`
+  - `:dernier quartier de lune`
+  - `:lune`
+  - `:lune à visage`
+  - `:nuit`
+  - `:quartier`
+  - `:visage`
+- 🌝
+  - `:lune`
+  - `:lune à visage`
+  - `:nuit`
+  - `:pleine lune`
+  - `:sourire`
+  - `:visage`
+- 🌞
+  - `:chaleur`
+  - `:chaud`
+  - `:ensoleillé`
+  - `:jour`
+  - `:lumière`
+  - `:météo`
+  - `:plage`
+  - `:rayon de soleil`
+  - `:soleil`
+  - `:soleil à visage`
+  - `:éclat`
+  - `:éclatant`
+- 🌟
+  - `:nuit`
+  - `:nuit étoilée`
+  - `:succès`
+  - `:éclat`
+  - `:étincelant`
+  - `:étincelle`
+  - `:étoile`
+  - `:étoile brillante`
+- 🌠
+  - `:espace`
+  - `:nuit`
+  - `:étoile`
+  - `:étoile filante`
+- 🌡
+  - `:météo`
+  - `:thermomètre`
+- 🌤
+  - `:caché`
+  - `:météo`
+  - `:nuage`
+  - `:soleil`
+  - `:soleil derrière petit nuage`
+- 🌥
+  - `:caché`
+  - `:météo`
+  - `:nuage`
+  - `:soleil`
+  - `:soleil derrière gros nuage`
+- 🌦
+  - `:caché`
+  - `:gouttes`
+  - `:météo`
+  - `:nuage`
+  - `:pluie`
+  - `:soleil`
+  - `:soleil derrière un nuage`
+  - `:soleil nuage pluie`
+- 🌧
+  - `:gouttes`
+  - `:météo`
+  - `:nuage`
+  - `:nuage de pluie`
+  - `:pluie`
+- 🌨
+  - `:froid`
+  - `:météo`
+  - `:neige`
+  - `:nuage`
+  - `:nuage de neige`
+- 🌩
+  - `:nuage`
+  - `:nuage avec un éclair`
+  - `:orage`
+  - `:orageux`
+  - `:temps`
+  - `:éclair`
+- 🌪
+  - `:cyclone`
+  - `:météo`
+  - `:nuage`
+  - `:tornade`
+  - `:tourbillon`
+- 🌫
+  - `:brouillard`
+  - `:brume`
+  - `:fog`
+  - `:météo`
+  - `:nuage`
+- 🌬
+  - `:météo`
+  - `:nuage`
+  - `:souffle`
+  - `:vent`
+  - `:visage`
+  - `:visage du vent`
+- 🌭
+  - `:hot dog`
+  - `:nourriture`
+  - `:saucisse`
+  - `:saucisse de Francfort`
+- 🌮
+  - `:mexicain`
+  - `:nourriture`
+  - `:taco`
+- 🌯
+  - `:burrito`
+  - `:kebab`
+  - `:mexicain`
+  - `:wrap`
+- 🌰
+  - `:châtaigne`
+  - `:marron`
+  - `:nourriture`
+  - `:plante`
+- 🌱
+  - `:germe`
+  - `:jeune pousse`
+  - `:plante`
+  - `:pousser`
+  - `:printemps`
+  - `:semis`
+- 🌲
+  - `:arbre`
+  - `:feuilles persistantes`
+  - `:forêt`
+  - `:pin`
+  - `:plante`
+  - `:sapin`
+  - `:sapin de Noël`
+- 🌳
+  - `:arbre`
+  - `:feuilles caduques`
+  - `:feuillu`
+  - `:forêt`
+  - `:nature`
+  - `:plante`
+- 🌴
+  - `:arbre`
+  - `:cocotier`
+  - `:palmier`
+  - `:plage`
+  - `:plante`
+  - `:tropical`
+  - `:tropiques`
+- 🌵
+  - `:cactus`
+  - `:désert`
+  - `:nature`
+  - `:piquant`
+  - `:plante`
+  - `:sécheresse`
+  - `:épines`
+- 🌶
+  - `:nourriture`
+  - `:piment`
+  - `:piment rouge`
+  - `:piquant`
+- 🌷
+  - `:bourgeon`
+  - `:fleur`
+  - `:plante`
+  - `:printemps`
+  - `:tulipe`
+- 🌸
+  - `:bourgeon`
+  - `:fleur`
+  - `:fleur de cerisier`
+  - `:plante`
+  - `:printemps`
+- 🌹
+  - `:Saint-Valentin`
+  - `:amour`
+  - `:beauté`
+  - `:fleur`
+  - `:plante`
+  - `:rose`
+  - `:rose rouge`
+  - `:rouge`
+- 🌺
+  - `:fleur`
+  - `:hibiscus`
+  - `:plante`
+- 🌻
+  - `:champs`
+  - `:fleur`
+  - `:plante`
+  - `:soleil`
+  - `:tournesol`
+- 🌼
+  - `:bourgeon`
+  - `:bouton d&#39;or`
+  - `:dent-de-lion`
+  - `:fleur`
+  - `:pissenlit`
+  - `:plante`
+  - `:printemps`
+- 🌽
+  - `:ferme`
+  - `:maïs`
+  - `:nourriture`
+  - `:épi de maïs`
+- 🌾
+  - `:grain`
+  - `:plant de riz`
+  - `:plante`
+  - `:riz`
+- 🌿
+  - `:arbre`
+  - `:feuilles`
+  - `:plante`
+- 🍀
+  - `:4`
+  - `:Irlande`
+  - `:chance`
+  - `:feuilles`
+  - `:plante`
+  - `:porte-bonheur`
+  - `:quatre`
+  - `:trèfle`
+  - `:trèfle à quatre feuilles`
+- 🍁
+  - `:automne`
+  - `:feuille`
+  - `:feuille d’érable`
+  - `:feuille morte`
+  - `:tomber`
+  - `:érable`
+- 🍂
+  - `:automne`
+  - `:feuille`
+  - `:feuilles mortes`
+  - `:tomber`
+- 🍃
+  - `:bourrasque`
+  - `:feuille`
+  - `:tourbillon de feuilles`
+  - `:vent`
+  - `:virevolter`
+- 🍄
+  - `:Mario`
+  - `:champignon`
+  - `:champignon vénéneux`
+  - `:plante`
+- 🍅
+  - `:fruit`
+  - `:légume`
+  - `:nourriture`
+  - `:plante`
+  - `:tomate`
+- 🍆
+  - `:aubergine`
+  - `:légume`
+  - `:nourriture`
+- 🍇
+  - `:fruit`
+  - `:nourriture`
+  - `:raisin`
+- 🍈
+  - `:fruit`
+  - `:melon`
+- 🍉
+  - `:fruit`
+  - `:pastèque`
+- 🍊
+  - `:agrume`
+  - `:clémentine`
+  - `:fruit`
+  - `:mandarine`
+  - `:nourriture`
+  - `:orange`
+  - `:vitamine C`
+- 🍋
+  - `:acide`
+  - `:agrume`
+  - `:citron`
+  - `:fruit`
+  - `:nourriture`
+- 🍌
+  - `:banane`
+  - `:fruit`
+  - `:nourriture`
+  - `:potassium`
+- 🍍
+  - `:ananas`
+  - `:fruit`
+  - `:nourriture`
+  - `:tropical`
+- 🍎
+  - `:fruit`
+  - `:nourriture`
+  - `:pomme`
+  - `:pomme rouge`
+- 🍏
+  - `:fruit`
+  - `:nourriture`
+  - `:pomme`
+  - `:pomme verte`
+- 🍐
+  - `:fruit`
+  - `:nourriture`
+  - `:poire`
+- 🍑
+  - `:fruit`
+  - `:nourriture`
+  - `:pêche`
+- 🍒
+  - `:cerise`
+  - `:fruit`
+  - `:nourriture`
+- 🍓
+  - `:fraise`
+  - `:fruit`
+  - `:nourriture`
+- 🍔
+  - `:burger`
+  - `:cheeseburger`
+  - `:fast food`
+  - `:hamburger`
+  - `:nourriture`
+- 🍕
+  - `:fromage`
+  - `:nourriture`
+  - `:pepperoni`
+  - `:pizza`
+  - `:tranche`
+- 🍖
+  - `:nourriture`
+  - `:os`
+  - `:viande`
+- 🍗
+  - `:cuisse`
+  - `:cuisse de poulet`
+  - `:dinde`
+  - `:nourriture`
+  - `:os`
+  - `:poulet`
+  - `:volaille`
+- 🍘
+  - `:galette de riz`
+  - `:nourriture`
+  - `:riz`
+- 🍙
+  - `:boulette de riz`
+  - `:japonais`
+  - `:nourriture`
+  - `:riz`
+- 🍚
+  - `:bol de riz`
+  - `:nourriture`
+  - `:riz`
+- 🍛
+  - `:curry`
+  - `:nourriture`
+  - `:riz`
+  - `:riz au curry`
+- 🍜
+  - `:bol`
+  - `:bol fumant`
+  - `:nouilles`
+  - `:nourriture`
+  - `:ramen`
+  - `:vapeur`
+- 🍝
+  - `:italien`
+  - `:nourriture`
+  - `:pâtes`
+  - `:restaurant`
+  - `:sauce bolognaise`
+  - `:spaghetti`
+- 🍞
+  - `:miche`
+  - `:nourriture`
+  - `:pain`
+  - `:pain de mie`
+- 🍟
+  - `:fast food`
+  - `:frites`
+  - `:potatoes`
+- 🍠
+  - `:nourriture`
+  - `:patate`
+  - `:patate douce`
+  - `:patate douce au four`
+- 🍡
+  - `:bonbons`
+  - `:brochette de bonbons`
+  - `:dango`
+  - `:dessert`
+  - `:japonais`
+  - `:nourriture`
+- 🍢
+  - `:brochette`
+  - `:brochette de poisson`
+  - `:fruits de mer`
+  - `:nourriture`
+  - `:restaurant`
+- 🍣
+  - `:japonais`
+  - `:nourriture`
+  - `:riz`
+  - `:sushi`
+- 🍤
+  - `:beignet de crevette`
+  - `:crevette`
+- 🍥
+  - `:croquette de poisson`
+  - `:nourriture`
+  - `:poisson`
+  - `:restaurant`
+- 🍦
+  - `:cornet de glace`
+  - `:dessert`
+  - `:glace`
+  - `:glace italienne`
+  - `:nourriture`
+  - `:sucré`
+- 🍧
+  - `:coupe de glace`
+  - `:crème glacée`
+  - `:dessert`
+  - `:glace`
+  - `:granité`
+  - `:nourriture`
+  - `:restaurant`
+  - `:sucré`
+- 🍨
+  - `:coupe de glace`
+  - `:crème glacée`
+  - `:dessert`
+  - `:glace`
+  - `:nourriture`
+  - `:restaurant`
+  - `:sucré`
+- 🍩
+  - `:dessert`
+  - `:donut`
+  - `:doughnut`
+  - `:goûter`
+  - `:nourriture`
+  - `:sucrerie`
+  - `:sucré`
+- 🍪
+  - `:biscuit`
+  - `:cookie`
+  - `:dessert`
+  - `:goûter`
+  - `:gâteau`
+  - `:nourriture`
+  - `:pépites de chocolat`
+  - `:sucré`
+- 🍫
+  - `:barre`
+  - `:barre chocolatée`
+  - `:chocolat`
+  - `:dessert`
+  - `:goûter`
+  - `:nourriture`
+  - `:sucré`
+- 🍬
+  - `:bonbon`
+  - `:dessert`
+  - `:goûter`
+  - `:nourriture`
+  - `:sucrerie`
+  - `:sucré`
+- 🍭
+  - `:dessert`
+  - `:goûter`
+  - `:nourriture`
+  - `:sucette`
+  - `:sucrerie`
+  - `:sucré`
+- 🍮
+  - `:crème renversée`
+  - `:dessert`
+  - `:flan`
+  - `:nourriture`
+  - `:pudding`
+  - `:sucré`
+- 🍯
+  - `:miel`
+  - `:nourriture`
+  - `:ours`
+  - `:pot`
+  - `:pot de miel`
+  - `:sucré`
+- 🍰
+  - `:dessert`
+  - `:goûter`
+  - `:gâteau`
+  - `:gâteau sablé`
+  - `:nourriture`
+  - `:pâtisserie`
+  - `:sucré`
+- 🍱
+  - `:bento`
+  - `:boîte`
+  - `:boîte déjeuner`
+  - `:déjeuner`
+  - `:nourriture`
+- 🍲
+  - `:marmite`
+  - `:nourriture`
+  - `:ragoût`
+- 🍳
+  - `:cuisine`
+  - `:nourriture`
+  - `:petit-déjeuner`
+  - `:poêle`
+  - `:poêle à frire`
+  - `:se faire cuire un œuf`
+  - `:œuf`
+- 🍴
+  - `:couteau et fourchette`
+  - `:couverts`
+  - `:faim`
+  - `:restaurant`
+- 🍵
+  - `:boisson`
+  - `:tasse`
+  - `:tasse de thé sans anse`
+  - `:thé`
+- 🍶
+  - `:boisson`
+  - `:bouteille`
+  - `:bouteille et verre`
+  - `:restaurant`
+  - `:saké`
+  - `:verre`
+- 🍷
+  - `:alcool`
+  - `:bar`
+  - `:boisson`
+  - `:club`
+  - `:restaurant`
+  - `:verre`
+  - `:verre de vin`
+  - `:verre à vin`
+  - `:vin`
+- 🍸
+  - `:alcool`
+  - `:bar`
+  - `:boisson`
+  - `:club`
+  - `:cocktail`
+  - `:martini`
+  - `:verre`
+  - `:verre à cocktail`
+  - `:verre à pied`
+- 🍹
+  - `:alcool`
+  - `:bar`
+  - `:boîte`
+  - `:cocktail`
+  - `:cocktail tropical`
+  - `:fête`
+  - `:tequila sunrise`
+  - `:verre`
+- 🍺
+  - `:alcool`
+  - `:bière`
+  - `:boisson`
+  - `:chope`
+  - `:chope de bière`
+  - `:pinte`
+- 🍻
+  - `:alcool`
+  - `:bière`
+  - `:boisson`
+  - `:chopes de bière`
+  - `:santé`
+  - `:tchin`
+  - `:trinquer`
+- 🍼
+  - `:biberon`
+  - `:boisson`
+  - `:bébé`
+  - `:lait`
+  - `:naissance`
+  - `:nouveau-né`
+  - `:tétine`
+- 🍽
+  - `:assiette`
+  - `:assiette et couverts`
+  - `:couteau`
+  - `:cuisine`
+  - `:fourchette`
+  - `:restaurant`
+  - `:table`
+- 🍾
+  - `:alcool`
+  - `:boisson`
+  - `:bouchon`
+  - `:bouteille`
+  - `:bouteille de champagne`
+  - `:champagne`
+  - `:félicitations`
+  - `:fête`
+  - `:pop`
+- 🍿
+  - `:cinéma`
+  - `:nourriture`
+  - `:pop-corn`
+- 🎀
+  - `:fête`
+  - `:nœud`
+  - `:ruban`
+  - `:ruban rose`
+- 🎁
+  - `:Noël`
+  - `:anniversaire`
+  - `:cadeau`
+  - `:cadeau emballé`
+  - `:fête`
+  - `:nœud`
+  - `:surprise`
+- 🎂
+  - `:anniversaire`
+  - `:bougies`
+  - `:fête`
+  - `:goûter`
+  - `:gâteau`
+  - `:gâteau d’anniversaire`
+  - `:nourriture`
+  - `:pâtisserie`
+- 🎃
+  - `:Halloween`
+  - `:citrouille`
+  - `:lanterne`
+- 🎄
+  - `:Noël`
+  - `:Sapin de Noël`
+  - `:fêtes`
+  - `:guirlandes`
+- 🎅
+  - `:Noël`
+  - `:Santa Claus`
+  - `:bonnet`
+  - `:fêtes`
+  - `:magie`
+  - `:père Noël`
+  - `:tradition`
+- 🎆
+  - `:14 juillet`
+  - `:artifice`
+  - `:feu d’artifice`
+  - `:fête`
+- 🎇
+  - `:14 juillet`
+  - `:artifice`
+  - `:feu d&#39;artifice`
+  - `:fête`
+  - `:étincelles`
+- 🎈
+  - `:anniversaire`
+  - `:ballon`
+  - `:ballon de baudruche`
+  - `:ballon gonflable`
+  - `:fête`
+- 🎉
+  - `:anniversaire`
+  - `:cotillons`
+  - `:fête`
+  - `:super`
+- 🎊
+  - `:anniversaire`
+  - `:confettis`
+  - `:fête`
+- 🎋
+  - `:Japon`
+  - `:Tanabata`
+  - `:arbre`
+  - `:arbre à vœux`
+  - `:fête`
+  - `:prières`
+  - `:vœux`
+- 🎌
+  - `:drapeaux`
+  - `:drapeaux croisés`
+  - `:drapeaux japonais`
+  - `:japonais`
+- 🎍
+  - `:bambou`
+  - `:bambou décoratif`
+  - `:japonais`
+  - `:plante`
+- 🎎
+  - `:Japon`
+  - `:festival`
+  - `:poupées`
+  - `:poupées japonaises`
+- 🎏
+  - `:carpe`
+  - `:fête`
+  - `:koinobori`
+- 🎐
+  - `:carillon`
+  - `:carillon éolien`
+  - `:clochette`
+  - `:fête`
+  - `:vent`
+- 🎑
+  - `:cérémonie`
+  - `:cérémonie de la lune`
+  - `:lune`
+- 🎒
+  - `:cartable`
+  - `:sac à dos`
+  - `:école`
+- 🎓
+  - `:accessoire`
+  - `:chapeau`
+  - `:diplôme`
+  - `:université`
+  - `:étudiant`
+- 🎖
+  - `:médaille`
+  - `:médaille militaire`
+- 🎗
+  - `:mémoire`
+  - `:ruban`
+  - `:ruban de mémoire`
+  - `:souvenir`
+- 🎙
+  - `:chant`
+  - `:enregistrement`
+  - `:micro`
+  - `:micro de studio`
+  - `:microphone`
+  - `:musique`
+  - `:studio`
+- 🎚
+  - `:curseur`
+  - `:curseur de niveau`
+  - `:musique`
+  - `:niveau`
+- 🎛
+  - `:boutons`
+  - `:boutons de contrôle`
+  - `:commande`
+  - `:musique`
+  - `:réglages`
+- 🎞
+  - `:bande`
+  - `:cinéma`
+  - `:film`
+  - `:pellicule`
+- 🎟
+  - `:billet d’entrée`
+  - `:place`
+  - `:spectacle`
+- 🎠
+  - `:cheval`
+  - `:cheval de manège`
+  - `:manège`
+- 🎡
+  - `:attractions`
+  - `:grande roue`
+  - `:parc d&#39;attractions`
+  - `:roue`
+- 🎢
+  - `:attractions`
+  - `:montagnes`
+  - `:montagnes russes`
+  - `:parc d&#39;attractions`
+  - `:russes`
+- 🎣
+  - `:canne à pêche`
+  - `:pêche`
+  - `:pêche à la ligne`
+  - `:sport`
+- 🎤
+  - `:chanter`
+  - `:karaoké`
+  - `:micro`
+  - `:microphone`
+  - `:musique`
+- 🎥
+  - `:caméra`
+  - `:cinéma`
+  - `:film`
+  - `:filmer`
+  - `:réalisateur`
+  - `:réalisatrice`
+  - `:vidéo`
+- 🎦
+  - `:caméra`
+  - `:cinéma`
+  - `:film`
+- 🎧
+  - `:casque`
+  - `:musique`
+  - `:son`
+  - `:écouteur`
+- 🎨
+  - `:art`
+  - `:artiste`
+  - `:couleurs`
+  - `:palette de peinture`
+  - `:peindre`
+  - `:peintre`
+  - `:peinture`
+- 🎩
+  - `:accessoire`
+  - `:chapeau`
+  - `:haut-de-forme`
+  - `:magie`
+  - `:élégant`
+- 🎪
+  - `:chapiteau`
+  - `:cirque`
+- 🎫
+  - `:billet`
+  - `:place`
+  - `:spectacle`
+- 🎬
+  - `:action`
+  - `:clap`
+  - `:film`
+  - `:ça tourne`
+- 🎭
+  - `:acteur`
+  - `:actrice`
+  - `:art`
+  - `:masque`
+  - `:spectacle`
+  - `:spectacle vivant`
+  - `:théâtre`
+- 🎮
+  - `:jeu vidéo`
+  - `:joystick`
+  - `:manette`
+  - `:playstation`
+  - `:xbox`
+- 🎯
+  - `:cible`
+  - `:dans le mille`
+  - `:fléchettes`
+  - `:jeu`
+- 🎰
+  - `:casino`
+  - `:jeu`
+  - `:machine à sous`
+- 🎱
+  - `:8`
+  - `:billard`
+  - `:boule de billard`
+  - `:huit`
+  - `:jeu`
+- 🎲
+  - `:dé`
+  - `:dés`
+  - `:hasard`
+  - `:jeu`
+- 🎳
+  - `:boule`
+  - `:bowling`
+  - `:jeu`
+  - `:quilles`
+  - `:sport`
+  - `:strike`
+- 🎴
+  - `:carte`
+  - `:carte à jouer`
+  - `:fleurs`
+  - `:japonais`
+  - `:jeu`
+- 🎵
+  - `:musique`
+  - `:note`
+  - `:note de musique`
+- 🎶
+  - `:musique`
+  - `:note`
+  - `:notes`
+  - `:notes de musique`
+  - `:partition`
+- 🎷
+  - `:instrument`
+  - `:musique`
+  - `:saxophone`
+- 🎸
+  - `:guitare`
+  - `:guitare électrique`
+  - `:instrument`
+  - `:musique`
+- 🎹
+  - `:clavier`
+  - `:instrument`
+  - `:musique`
+  - `:piano`
+  - `:touches`
+- 🎺
+  - `:instrument`
+  - `:musique`
+  - `:trompette`
+- 🎻
+  - `:instrument`
+  - `:musique`
+  - `:violon`
+- 🎼
+  - `:musique`
+  - `:note`
+  - `:partition`
+- 🎽
+  - `:athlétisme`
+  - `:course à pied`
+  - `:jogging`
+  - `:running`
+  - `:sport`
+  - `:tee-shirt de course`
+- 🎾
+  - `:balle de tennis`
+  - `:sport`
+  - `:tennis`
+- 🎿
+  - `:neige`
+  - `:ski`
+  - `:sport`
+- 🏀
+  - `:ballon`
+  - `:basket`
+  - `:basket-ball`
+  - `:sport`
+- 🏁
+  - `:course automobile`
+  - `:damier`
+  - `:drapeau`
+  - `:drapeau à damier`
+  - `:formule 1`
+  - `:ligne d&#39;arrivée`
+  - `:sport automobile`
+  - `:vainqueur`
+- 🏂
+  - `:homme`
+  - `:neige`
+  - `:ski`
+  - `:snowboard`
+  - `:snowboardeur`
+  - `:sport`
+- 🏃
+  - `:arriver`
+  - `:coureur`
+  - `:course à pied`
+  - `:homme qui court`
+  - `:jogging`
+  - `:marathon`
+  - `:personne qui court`
+  - `:pressé`
+  - `:rapide`
+  - `:running`
+  - `:se dépêcher`
+  - `:vite`
+- 🏃‍♀
+  - `:course à pied`
+  - `:femme`
+  - `:femme qui court`
+  - `:joggeuse`
+  - `:jogging`
+  - `:marathon`
+  - `:running`
+  - `:se dépêcher`
+  - `:vite`
+  - `:vitesse`
+- 🏄
+  - `:homme`
+  - `:mer`
+  - `:océan`
+  - `:plage`
+  - `:sport`
+  - `:surf`
+  - `:surfeur`
+  - `:surfeur homme`
+  - `:vagues`
+- 🏄‍♀
+  - `:femme`
+  - `:mer`
+  - `:océan`
+  - `:plage`
+  - `:sport`
+  - `:surf`
+  - `:surfeuse`
+  - `:vagues`
+- 🏅
+  - `:champion`
+  - `:championne`
+  - `:médaille`
+  - `:médaille d&#39;or`
+  - `:médaille sportive`
+  - `:sport`
+  - `:vainqueur`
+  - `:victoire`
+- 🏆
+  - `:champion`
+  - `:championne`
+  - `:coupe`
+  - `:gagner`
+  - `:prix`
+  - `:trophée`
+  - `:victoire`
+- 🏇
+  - `:cheval`
+  - `:course de chevaux`
+  - `:course hippique`
+  - `:jockey`
+  - `:sport`
+- 🏈
+  - `:Super Bowl`
+  - `:ballon`
+  - `:football américain`
+  - `:sport`
+- 🏉
+  - `:ballon`
+  - `:rugby`
+  - `:sport`
+- 🏊
+  - `:homme`
+  - `:nage`
+  - `:nageur`
+  - `:natation`
+  - `:sport`
+- 🏊‍♀
+  - `:femme`
+  - `:nage`
+  - `:nageuse`
+  - `:natation`
+  - `:sport`
+- 🏋
+  - `:entraînement`
+  - `:exercice`
+  - `:haltérophile`
+  - `:homme`
+  - `:homme haltérophile`
+  - `:sport`
+- 🏋‍♀
+  - `:entraînement`
+  - `:exercice`
+  - `:femme`
+  - `:femme haltérophile`
+  - `:haltérophile`
+  - `:sport`
+- 🏌
+  - `:balle`
+  - `:golf`
+  - `:homme`
+  - `:joueur de golf`
+  - `:practice`
+  - `:sport`
+- 🏌‍♀
+  - `:femme`
+  - `:golf`
+  - `:golfeuse`
+  - `:practice`
+  - `:sport`
+- 🏍
+  - `:course`
+  - `:moto`
+- 🏎
+  - `:course`
+  - `:course automobile`
+  - `:formule 1`
+  - `:voiture`
+  - `:voiture de course`
+- 🏏
+  - `:balle`
+  - `:balle de cricket`
+  - `:batte`
+  - `:cricket`
+  - `:jeu`
+- 🏐
+  - `:ballon`
+  - `:jeu`
+  - `:sport`
+  - `:volley`
+  - `:volley-ball`
+- 🏑
+  - `:hockey`
+  - `:hockey sur gazon`
+- 🏒
+  - `:hockey`
+  - `:hockey sur glace`
+- 🏓
+  - `:balle`
+  - `:jeu`
+  - `:ping-pong`
+  - `:raquette`
+  - `:sport`
+  - `:tennis de table`
+- 🏔
+  - `:froid`
+  - `:montagne`
+  - `:montagne enneigée`
+  - `:neige`
+  - `:sommet`
+  - `:voyage`
+- 🏕
+  - `:camping`
+  - `:nature`
+  - `:tente avec un sapin`
+  - `:voyage`
+- 🏖
+  - `:parasol`
+  - `:plage`
+  - `:plage parasol`
+  - `:voyage`
+- 🏗
+  - `:chantier`
+  - `:construction`
+  - `:construction d’un bâtiment`
+  - `:grue`
+- 🏘
+  - `:bâtiment`
+  - `:maison`
+  - `:maisons`
+  - `:pavillons`
+- 🏙
+  - `:bâtiment`
+  - `:ville`
+  - `:voyage`
+- 🏚
+  - `:maison`
+  - `:maison abandonnée`
+- 🏛
+  - `:colonnes`
+  - `:monument`
+  - `:monument classique`
+  - `:voyage`
+- 🏜
+  - `:désert`
+  - `:voyage`
+- 🏝
+  - `:cocotier`
+  - `:palmier`
+  - `:voyage`
+  - `:île`
+  - `:île déserte`
+- 🏞
+  - `:nature`
+  - `:parc national`
+  - `:voyage`
+- 🏟
+  - `:stade`
+- 🏠
+  - `:bâtiment`
+  - `:foyer`
+  - `:maison`
+  - `:maison simple`
+  - `:pavillon`
+  - `:résidentiel`
+- 🏡
+  - `:foyer`
+  - `:jardin`
+  - `:maison`
+  - `:maison avec jardin`
+  - `:pavillon`
+  - `:résidentiel`
+- 🏢
+  - `:bureaux`
+  - `:immeuble`
+  - `:ville`
+- 🏣
+  - `:Japon`
+  - `:bâtiment`
+  - `:poste`
+  - `:poste japonaise`
+  - `:voyage`
+- 🏤
+  - `:bureau de poste`
+  - `:bâtiment`
+  - `:européen`
+  - `:poste`
+- 🏥
+  - `:bâtiment`
+  - `:docteur`
+  - `:hôpital`
+  - `:médecin`
+  - `:urgences`
+- 🏦
+  - `:banque`
+  - `:bâtiment`
+- 🏧
+  - `:argent`
+  - `:banque`
+  - `:dab`
+  - `:distributeur`
+  - `:distributeur automatiques de billets`
+  - `:guichet automatique`
+  - `:retrait`
+- 🏨
+  - `:bâtiment`
+  - `:hôtel`
+  - `:voyage`
+- 🏩
+  - `:amour`
+  - `:bâtiment`
+  - `:cœur`
+  - `:hôtel`
+  - `:hôtel amour`
+  - `:voyage`
+- 🏪
+  - `:24h&#x2F;24`
+  - `:bâtiment`
+  - `:magasin`
+  - `:supermarché`
+  - `:supérette`
+- 🏫
+  - `:bâtiment`
+  - `:école`
+- 🏬
+  - `:bâtiment`
+  - `:centre commercial`
+  - `:grand magasin`
+  - `:magasin`
+- 🏭
+  - `:bâtiment`
+  - `:usine`
+- 🏮
+  - `:japonais`
+  - `:lampion rouge`
+  - `:lanterne`
+  - `:lumière`
+  - `:restaurant`
+  - `:rouge`
+- 🏯
+  - `:bâtiment`
+  - `:château`
+  - `:château japonais`
+  - `:japonais`
+  - `:voyage`
+- 🏰
+  - `:bâtiment`
+  - `:château`
+  - `:européen`
+  - `:voyage`
+- 🏳
+  - `:drapeau`
+  - `:drapeau blanc`
+  - `:drapeau qui flotte au vent`
+- 🏳‍🌈
+  - `:arc-en-ciel`
+  - `:drapeau`
+  - `:drapeau arc-en-ciel`
+  - `:lgbt`
+- 🏴
+  - `:drapeau`
+  - `:drapeau noir`
+  - `:drapeau qui flotte au vent`
+- 🏴‍☠
+  - `:drapeau pirate`
+  - `:pirate`
+  - `:trésor`
+  - `:à l&#39;abordage`
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+  - `:Angleterre`
+  - `:drapeau`
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+  - `:drapeau`
+  - `:Écosse`
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+  - `:Pays de Galles`
+  - `:drapeau`
+- 🏵
+  - `:plante`
+  - `:rosette`
+- 🏷
+  - `:étiquette`
+- 🏸
+  - `:badminton`
+  - `:jeu`
+  - `:raquette`
+  - `:sport`
+  - `:volant`
+- 🏹
+  - `:Sagittaire`
+  - `:arc`
+  - `:arc et flèche`
+  - `:astrologie`
+  - `:horoscope`
+  - `:sport`
+  - `:tir à l&#39;arc`
+  - `:zodiaque`
+- 🏺
+  - `:Grèce`
+  - `:Verseau`
+  - `:amphore`
+  - `:astrologie`
+  - `:cuisine`
+  - `:grec`
+  - `:horoscope`
+  - `:vase`
+  - `:zodiaque`
+- 🐀
+  - `:animal`
+  - `:rat`
+- 🐁
+  - `:animal`
+  - `:souris`
+- 🐂
+  - `:animal`
+  - `:astrologie`
+  - `:bœuf`
+  - `:ferme`
+  - `:horoscope`
+  - `:taureau`
+  - `:zodiaque`
+- 🐃
+  - `:animal`
+  - `:buffle`
+  - `:corne`
+  - `:zoo`
+- 🐄
+  - `:animal`
+  - `:ferme`
+  - `:lait`
+  - `:meuh`
+  - `:vache`
+- 🐅
+  - `:animal`
+  - `:félin`
+  - `:prédateur`
+  - `:tigre`
+  - `:tigresse`
+  - `:zoo`
+- 🐆
+  - `:animal`
+  - `:félin`
+  - `:léopard`
+  - `:prédateur`
+  - `:zoo`
+- 🐇
+  - `:animal`
+  - `:animal domestique`
+  - `:lapin`
+- 🐈
+  - `:animal`
+  - `:animal domestique`
+  - `:chat`
+  - `:chaton`
+  - `:miaou`
+  - `:miauler`
+- 🐉
+  - `:Chine`
+  - `:Game of Thrones`
+  - `:animal`
+  - `:chinois`
+  - `:dragon`
+  - `:mythe`
+  - `:tradition`
+- 🐊
+  - `:alligator`
+  - `:animal`
+  - `:caïman`
+  - `:crocodile`
+  - `:zoo`
+- 🐋
+  - `:animal`
+  - `:baleine`
+  - `:mer`
+  - `:océan`
+  - `:plage`
+- 🐌
+  - `:animal`
+  - `:escargot`
+  - `:jardin`
+  - `:lentement`
+  - `:nature`
+- 🐍
+  - `:animal`
+  - `:serpent`
+  - `:serpent à sonnette`
+  - `:venin`
+- 🐎
+  - `:animal`
+  - `:cheval`
+  - `:course hippique`
+  - `:hippodrome`
+  - `:tiercé`
+- 🐏
+  - `:animal`
+  - `:astrologie`
+  - `:bélier`
+  - `:corne`
+  - `:ferme`
+  - `:horoscope`
+  - `:mouton`
+  - `:zodiaque`
+- 🐐
+  - `:Capricorne`
+  - `:animal`
+  - `:astrologie`
+  - `:chèvre`
+  - `:ferme`
+  - `:fromage`
+  - `:horoscope`
+  - `:lait`
+  - `:zodiaque`
+- 🐑
+  - `:animal`
+  - `:brebis`
+  - `:bêler`
+  - `:doux`
+  - `:ferme`
+  - `:laine`
+  - `:lait`
+  - `:mouton`
+- 🐒
+  - `:animal`
+  - `:primate`
+  - `:singe`
+- 🐓
+  - `:animal`
+  - `:coq`
+  - `:volaille`
+- 🐔
+  - `:animal`
+  - `:coq`
+  - `:ferme`
+  - `:poule`
+  - `:poulet`
+  - `:volaille`
+- 🐕
+  - `:aboyer`
+  - `:animal`
+  - `:animal domestique`
+  - `:chien`
+- 🐖
+  - `:animal`
+  - `:cochon`
+  - `:ferme`
+  - `:gros`
+  - `:jambon`
+  - `:porc`
+  - `:truie`
+- 🐗
+  - `:Game of Thrones`
+  - `:animal`
+  - `:sanglier`
+- 🐘
+  - `:animal`
+  - `:pachyderme`
+  - `:trompe`
+  - `:éléphant`
+- 🐙
+  - `:animal`
+  - `:créature`
+  - `:mer`
+  - `:océan`
+  - `:pieuvre`
+  - `:poulpe`
+- 🐚
+  - `:animal`
+  - `:conque`
+  - `:coquillage`
+  - `:coquille`
+  - `:mer`
+  - `:plage`
+  - `:spirale`
+- 🐛
+  - `:animal`
+  - `:chenille`
+  - `:insecte`
+  - `:jardin`
+- 🐜
+  - `:animal`
+  - `:fourmi`
+  - `:insecte`
+  - `:jardin`
+- 🐝
+  - `:abeille`
+  - `:animal`
+  - `:bourdon`
+  - `:guêpe`
+  - `:insecte`
+  - `:miel`
+  - `:nature`
+  - `:printemps`
+- 🐞
+  - `:animal`
+  - `:bête`
+  - `:coccinelle`
+  - `:insecte`
+  - `:jardin`
+  - `:nature`
+- 🐟
+  - `:Poissons`
+  - `:alimentation`
+  - `:animal`
+  - `:astrologie`
+  - `:horoscope`
+  - `:manger`
+  - `:nourriture`
+  - `:poisson`
+  - `:repas`
+  - `:zodiaque`
+- 🐠
+  - `:animal`
+  - `:poisson`
+  - `:poisson tropical`
+- 🐡
+  - `:animal`
+  - `:poisson`
+  - `:poisson-lune`
+- 🐢
+  - `:animal`
+  - `:carapace`
+  - `:lentement`
+  - `:tortue`
+- 🐣
+  - `:animal`
+  - `:bébé`
+  - `:naissance`
+  - `:naître`
+  - `:nouveau-né`
+  - `:oiseau`
+  - `:poussin`
+  - `:poussin qui éclôt`
+  - `:éclosion`
+  - `:œuf`
+- 🐤
+  - `:animal`
+  - `:poussin`
+  - `:tête de poussin`
+- 🐥
+  - `:animal`
+  - `:bébé`
+  - `:nouveau-né`
+  - `:poussin`
+  - `:poussin de face`
+- 🐦
+  - `:animal`
+  - `:oiseau`
+  - `:ornithologie`
+- 🐧
+  - `:Antarctique`
+  - `:animal`
+  - `:banquise`
+  - `:manchot`
+  - `:pingouin`
+- 🐨
+  - `:Australie`
+  - `:animal`
+  - `:koala`
+- 🐩
+  - `:animal`
+  - `:caniche`
+  - `:chien`
+- 🐪
+  - `:animal`
+  - `:bosse`
+  - `:dromadaire`
+  - `:désert`
+  - `:une bosse`
+- 🐫
+  - `:animal`
+  - `:bosse`
+  - `:chameau`
+  - `:chameau à deux bosses`
+  - `:deux bosses`
+  - `:désert`
+- 🐬
+  - `:Flipper`
+  - `:animal`
+  - `:dauphin`
+  - `:mer`
+  - `:océan`
+  - `:plage`
+- 🐭
+  - `:animal`
+  - `:souris`
+  - `:tête de souris`
+  - `:visage`
+- 🐮
+  - `:animal`
+  - `:lait`
+  - `:meuh`
+  - `:tête de vache`
+  - `:vache`
+  - `:visage`
+- 🐯
+  - `:animal`
+  - `:félin`
+  - `:prédateur`
+  - `:tigre`
+  - `:tête de tigre`
+  - `:visage`
+- 🐰
+  - `:animal`
+  - `:animal domestique`
+  - `:dents`
+  - `:lapin`
+  - `:tête de lapin`
+- 🐱
+  - `:animal`
+  - `:chat`
+  - `:chaton`
+  - `:miaou`
+  - `:minou`
+  - `:tête de chat`
+- 🐲
+  - `:animal`
+  - `:dragon`
+  - `:mythe`
+  - `:tradition`
+  - `:tête de dragon`
+- 🐳
+  - `:animal`
+  - `:baleine`
+  - `:baleine avec évent`
+  - `:mer`
+  - `:océan`
+  - `:plage`
+  - `:souffle`
+- 🐴
+  - `:animal`
+  - `:cheval`
+  - `:dressage`
+  - `:ferme`
+  - `:jument`
+  - `:tête de cheval`
+  - `:équitation`
+- 🐵
+  - `:Georges le petit curieux`
+  - `:animal`
+  - `:singe`
+  - `:sourire`
+  - `:tête de singe`
+  - `:visage`
+- 🐶
+  - `:animal`
+  - `:animal domestique`
+  - `:chien`
+  - `:chiot`
+  - `:tête de chien`
+  - `:visage`
+- 🐷
+  - `:animal`
+  - `:cochon`
+  - `:ferme`
+  - `:porc`
+  - `:tête de cochon`
+  - `:visage`
+- 🐸
+  - `:animal`
+  - `:crapaud`
+  - `:grenouille`
+  - `:tête de grenouille`
+- 🐹
+  - `:animal`
+  - `:animal domestique`
+  - `:hamster`
+  - `:tête de hamster`
+  - `:visage`
+- 🐺
+  - `:animal`
+  - `:loup`
+  - `:louve`
+  - `:tête de loup`
+- 🐻
+  - `:animal`
+  - `:miel`
+  - `:nounours`
+  - `:ours`
+  - `:ours brun`
+  - `:teddy`
+  - `:visage`
+- 🐼
+  - `:animal`
+  - `:panda`
+  - `:tête de panda`
+  - `:visage`
+- 🐽
+  - `:animal`
+  - `:cochon`
+  - `:ferme`
+  - `:flair`
+  - `:groin`
+  - `:museau`
+  - `:porc`
+  - `:sentir`
+  - `:tête de cochon`
+- 🐾
+  - `:empreintes`
+  - `:empreintes de pattes`
+  - `:pattes`
+- 🐿
+  - `:animal`
+  - `:noisettes`
+  - `:écureuil`
+- 👀
+  - `:chercher`
+  - `:corps`
+  - `:coup d&#39;œil`
+  - `:regarder`
+  - `:visage`
+  - `:voir`
+  - `:yeux`
+  - `:œil`
+- 👁
+  - `:corps`
+  - `:œil`
+- 👁‍🗨
+  - `:BD`
+  - `:bande dessinée`
+  - `:bulle de BD`
+  - `:témoin`
+  - `:voir`
+  - `:œil`
+  - `:œil dans une bulle de BD`
+- 👂
+  - `:corps`
+  - `:entendre`
+  - `:oreille`
+  - `:ouïe`
+  - `:son`
+  - `:écouter`
+- 👃
+  - `:corps`
+  - `:narines`
+  - `:nez`
+  - `:odeur`
+  - `:sentir`
+- 👄
+  - `:baiser`
+  - `:beauté`
+  - `:bise`
+  - `:bisou`
+  - `:bouche`
+  - `:corps`
+  - `:embrasser`
+  - `:lèvres`
+  - `:rouge à lèvres`
+- 👅
+  - `:corps`
+  - `:langue`
+  - `:lécher`
+- 👆
+  - `:doigt`
+  - `:haut`
+  - `:index`
+  - `:index vers le haut`
+  - `:main`
+  - `:montrer`
+- 👇
+  - `:bas`
+  - `:doigt`
+  - `:index`
+  - `:index vers le bas`
+  - `:main`
+  - `:montrer`
+- 👈
+  - `:doigt`
+  - `:gauche`
+  - `:index`
+  - `:index pointé vers la gauche`
+  - `:main`
+- 👉
+  - `:doigt`
+  - `:droite`
+  - `:index`
+  - `:index pointé vers la droite`
+  - `:main`
+- 👊
+  - `:absolument`
+  - `:battre`
+  - `:boum`
+  - `:correct`
+  - `:coup de poing`
+  - `:d&#39;accord`
+  - `:main`
+  - `:mon pote`
+  - `:poing`
+  - `:serrer`
+- 👋
+  - `:au revoir`
+  - `:bonjour`
+  - `:bye`
+  - `:coucou`
+  - `:hello`
+  - `:il y a quelqu&#39;un ?`
+  - `:main qui salue`
+  - `:salut`
+  - `:à bientôt`
+  - `:à plus tard`
+- 👌
+  - `:OK`
+  - `:compris`
+  - `:d&#39;accord`
+  - `:geste`
+  - `:main`
+  - `:parfait`
+  - `:super`
+  - `:tout va bien`
+- 👍
+  - `:OK`
+  - `:bien`
+  - `:compris`
+  - `:d&#39;accord`
+  - `:haut`
+  - `:main`
+  - `:moi aussi`
+  - `:oui`
+  - `:pouce`
+  - `:pouce levé`
+  - `:super`
+- 👎
+  - `:bas`
+  - `:main`
+  - `:mauvais`
+  - `:non`
+  - `:nul`
+  - `:pouce`
+  - `:pouce baissé`
+- 👏
+  - `:applaudissements`
+  - `:bien joué`
+  - `:bon travail`
+  - `:bravo`
+  - `:formidable`
+  - `:félicitations`
+  - `:geste`
+  - `:mains qui applaudissent`
+  - `:super`
+- 👐
+  - `:main`
+  - `:mains ouvertes`
+  - `:mains écartées`
+- 👑
+  - `:accessoire`
+  - `:couronne`
+  - `:famille royale`
+  - `:monarchie`
+  - `:monarque`
+  - `:reine`
+  - `:roi`
+  - `:royauté`
+  - `:succès`
+- 👒
+  - `:chapeau`
+  - `:chapeau de femme`
+  - `:femme`
+  - `:vêtements`
+- 👓
+  - `:accessoire`
+  - `:lunettes`
+  - `:yeux`
+- 👔
+  - `:chemise`
+  - `:cravate`
+  - `:travail`
+  - `:vêtements`
+- 👕
+  - `:T-shirt`
+  - `:bleu`
+  - `:chemise`
+  - `:courses`
+  - `:décontracté`
+  - `:polo`
+  - `:shopping`
+  - `:tee-shirt`
+  - `:vêtements`
+  - `:week-end`
+- 👖
+  - `:bleu`
+  - `:courses`
+  - `:denim`
+  - `:jean`
+  - `:pantalon`
+  - `:shopping`
+  - `:vêtements`
+  - `:week-end`
+- 👗
+  - `:courses`
+  - `:jolie`
+  - `:robe`
+  - `:shopping`
+  - `:vêtements`
+  - `:élégante`
+- 👘
+  - `:kimono`
+  - `:vêtements`
+- 👙
+  - `:bikini`
+  - `:maillot de bain`
+  - `:nager`
+  - `:piscine`
+  - `:plage`
+  - `:vêtements`
+- 👚
+  - `:chemise`
+  - `:chemisier`
+  - `:courses`
+  - `:femme`
+  - `:shopping`
+  - `:vêtements`
+  - `:vêtements de femme`
+- 👛
+  - `:accessoire`
+  - `:courses`
+  - `:monnaie`
+  - `:porte-monnaie`
+  - `:sac à main`
+  - `:shopping`
+- 👜
+  - `:accessoire`
+  - `:courses`
+  - `:sac`
+  - `:sac à main`
+  - `:shopping`
+- 👝
+  - `:accessoire`
+  - `:pochette`
+  - `:sac`
+  - `:sac à main`
+  - `:trousse`
+- 👞
+  - `:accessoire`
+  - `:chaussure`
+  - `:chaussure d’homme`
+  - `:coup de pied`
+  - `:courses`
+  - `:homme`
+  - `:marron`
+  - `:pied`
+  - `:shopping`
+- 👟
+  - `:accessoire`
+  - `:athlétisme`
+  - `:basket`
+  - `:chaussure`
+  - `:chaussure de sport`
+  - `:coup de pied`
+  - `:courir`
+  - `:courses`
+  - `:shopping`
+  - `:tennis`
+  - `:vite`
+- 👠
+  - `:accessoire`
+  - `:chaussure`
+  - `:chaussure de femme`
+  - `:chaussure à talon`
+  - `:courses`
+  - `:mode`
+  - `:shopping`
+  - `:stilletto`
+  - `:talon aiguille`
+  - `:talon haut`
+- 👡
+  - `:chaussure`
+  - `:chaussure de femme`
+  - `:chaussure à talon`
+  - `:femme`
+  - `:sandale`
+  - `:talon haut`
+- 👢
+  - `:accessoire`
+  - `:botte`
+  - `:botte de femme`
+  - `:chaussure`
+  - `:courses`
+  - `:femme`
+  - `:shopping`
+- 👣
+  - `:empreintes`
+  - `:pieds`
+  - `:pieds nus`
+  - `:traces de pas`
+- 👤
+  - `:buste`
+  - `:mystère`
+  - `:ombre`
+  - `:silhouette de buste`
+- 👥
+  - `:amis`
+  - `:bff`
+  - `:bustes`
+  - `:gens`
+  - `:meilleur ami`
+  - `:meilleure amie`
+  - `:meilleures amies`
+  - `:meilleurs amis`
+  - `:personnes`
+  - `:silhouettes`
+  - `:silhouettes de bustes`
+  - `:tout le monde`
+- 👦
+  - `:enfant`
+  - `:garçon`
+  - `:jeune`
+  - `:personne`
+  - `:émoticône`
+- 👧
+  - `:couettes`
+  - `:enfant`
+  - `:fille`
+  - `:grands yeux`
+  - `:jeune`
+  - `:nattes`
+  - `:personne`
+  - `:petite fille`
+  - `:tresses`
+  - `:visage`
+  - `:émoticône`
+- 👨
+  - `:ami`
+  - `:garçon`
+  - `:homme`
+  - `:personne`
+  - `:petit ami`
+  - `:pote`
+- 👨‍⚕
+  - `:docteur`
+  - `:homme`
+  - `:homme profession médicale`
+  - `:infirmier`
+  - `:médecin`
+  - `:métier`
+  - `:profession médicale`
+  - `:santé`
+- 👨‍⚖
+  - `:balance`
+  - `:homme`
+  - `:juge`
+  - `:juge homme`
+  - `:justice`
+  - `:métier`
+- 👨‍✈
+  - `:avion`
+  - `:homme`
+  - `:métier`
+  - `:pilote`
+  - `:pilote homme`
+- 👨‍❤‍👨
+  - `:amour`
+  - `:couple`
+  - `:couple avec cœur`
+  - `:cœur`
+  - `:homme`
+- 👨‍❤‍💋‍👨
+  - `:amour`
+  - `:anniversaire`
+  - `:baiser`
+  - `:bisou`
+  - `:couple`
+  - `:cœur`
+  - `:embrasser`
+  - `:homme`
+  - `:rendez-vous`
+- 👨‍🌾
+  - `:agriculteur`
+  - `:fermier`
+  - `:homme`
+  - `:jardinier`
+  - `:métier`
+- 👨‍🍳
+  - `:chef`
+  - `:cuisinier`
+  - `:homme`
+  - `:métier`
+- 👨‍🎓
+  - `:diplômé`
+  - `:homme`
+  - `:étudiant`
+- 👨‍🎤
+  - `:acteur`
+  - `:artiste`
+  - `:chanteur`
+  - `:homme`
+  - `:métier`
+  - `:rock`
+  - `:rockeur`
+  - `:star`
+- 👨‍🎨
+  - `:artiste`
+  - `:artiste homme`
+  - `:homme`
+  - `:métier`
+  - `:palette`
+  - `:peintre`
+- 👨‍🏫
+  - `:homme`
+  - `:instituteur`
+  - `:instructeur`
+  - `:métier`
+  - `:professeur`
+- 👨‍🏭
+  - `:assemblage`
+  - `:homme`
+  - `:industrie`
+  - `:montage`
+  - `:métier`
+  - `:ouvrier`
+  - `:usine`
+- 👨‍👦
+  - `:famille`
+  - `:famille avec un père et un fils`
+  - `:garçon`
+  - `:homme`
+  - `:père`
+- 👨‍👦‍👦
+  - `:enfants`
+  - `:famille`
+  - `:famille avec un père et deux fils`
+  - `:fils`
+  - `:garçon`
+  - `:homme`
+  - `:père`
+- 👨‍👧
+  - `:famille`
+  - `:famille avec un père et une fille`
+  - `:fille`
+  - `:homme`
+  - `:père`
+- 👨‍👧‍👦
+  - `:enfants`
+  - `:famille`
+  - `:famille avec un père et ses enfants`
+  - `:fille`
+  - `:garçon`
+  - `:homme`
+  - `:père`
+- 👨‍👧‍👧
+  - `:enfants`
+  - `:famille`
+  - `:famille avec un père et deux filles`
+  - `:filles`
+  - `:homme`
+  - `:père`
+- 👨‍👨‍👦
+  - `:enfant`
+  - `:famille`
+  - `:famille avec deux pères et un fils`
+  - `:fils`
+  - `:hommes`
+  - `:pères`
+- 👨‍👨‍👦‍👦
+  - `:enfants`
+  - `:famille`
+  - `:famille avec deux pères et deux fils`
+  - `:fils`
+  - `:garçons`
+  - `:hommes`
+  - `:pères`
+- 👨‍👨‍👧
+  - `:enfant`
+  - `:famille`
+  - `:famille avec deux pères et une fille`
+  - `:fille`
+  - `:hommes`
+  - `:pères`
+- 👨‍👨‍👧‍👦
+  - `:famille`
+  - `:famille avec deux pères, un fils et une fille`
+  - `:fille`
+  - `:fils`
+  - `:garçon`
+  - `:hommes`
+  - `:pères`
+- 👨‍👨‍👧‍👧
+  - `:famille`
+  - `:famille avec deux pères et deux filles`
+  - `:filles`
+  - `:hommes`
+  - `:pères`
+- 👨‍👩‍👦‍👦
+  - `:enfants`
+  - `:famille`
+  - `:famille avec un père, une mère et deux fils`
+  - `:garçons`
+  - `:mère`
+  - `:père`
+- 👨‍👩‍👧
+  - `:enfant`
+  - `:famille`
+  - `:fille`
+  - `:mère`
+  - `:père`
+- 👨‍👩‍👧‍👦
+  - `:enfant`
+  - `:famille`
+  - `:fille`
+  - `:garçon`
+  - `:mère`
+  - `:père`
+- 👨‍👩‍👧‍👧
+  - `:enfants`
+  - `:famille`
+  - `:famille avec un père, une mère et deux filles`
+  - `:femme`
+  - `:filles`
+  - `:homme`
+  - `:mère`
+  - `:père`
+- 👨‍💻
+  - `:codeur`
+  - `:développeur`
+  - `:homme`
+  - `:informaticien`
+  - `:inventeur`
+  - `:logiciels`
+  - `:métier`
+  - `:technologie`
+- 👨‍💼
+  - `:affaires`
+  - `:architecte`
+  - `:bureau`
+  - `:cadre`
+  - `:directeur`
+  - `:homme`
+  - `:métier`
+- 👨‍🔧
+  - `:homme`
+  - `:mécanicien`
+  - `:métier`
+  - `:ouvrier`
+  - `:plombier`
+  - `:électricien`
+- 👨‍🔬
+  - `:biologiste`
+  - `:chimiste`
+  - `:homme`
+  - `:ingénieur`
+  - `:mathématicien`
+  - `:métier`
+  - `:physicien`
+  - `:scientifique`
+  - `:scientifique homme`
+- 👨‍🚀
+  - `:astronaute`
+  - `:astronaute homme`
+  - `:casque`
+  - `:cosmonaute`
+  - `:espace`
+  - `:fusée`
+  - `:homme`
+  - `:métier`
+  - `:spationaute`
+- 👨‍🚒
+  - `:camion de pompiers`
+  - `:casque`
+  - `:casque de pompier`
+  - `:homme`
+  - `:métier`
+  - `:pompier`
+  - `:pompier homme`
+- 👨‍🦰
+  - `:adulte`
+  - `:homme`
+  - `:personne`
+  - `:roux`
+- 👨‍🦱
+  - `:adulte`
+  - `:bouclés`
+  - `:cheveux bouclés`
+  - `:homme`
+  - `:personne`
+- 👨‍🦲
+  - `:adulte`
+  - `:chauve`
+  - `:crâne d&#39;oeuf`
+  - `:crâne rasé`
+  - `:homme`
+- 👨‍🦳
+  - `:adulte`
+  - `:cheveux blancs`
+  - `:homme`
+  - `:personne`
+- 👩
+  - `:blonde`
+  - `:coupe de cheveux`
+  - `:femme`
+  - `:personne`
+- 👩‍⚕
+  - `:docteure`
+  - `:femme`
+  - `:femme profession médicale`
+  - `:infirmière`
+  - `:médecin`
+  - `:métier`
+  - `:profession médicale`
+  - `:santé`
+- 👩‍⚖
+  - `:balance`
+  - `:femme`
+  - `:juge`
+  - `:juge femme`
+  - `:justice`
+  - `:métier`
+- 👩‍✈
+  - `:avion`
+  - `:femme`
+  - `:métier`
+  - `:pilote`
+  - `:pilote femme`
+- 👩‍❤‍👩
+  - `:amour`
+  - `:anniversaire de marigae`
+  - `:bae`
+  - `:couple`
+  - `:couple avec coeur`
+  - `:cœur`
+  - `:femme`
+  - `:kiss`
+  - `:love`
+  - `:romance`
+- 👩‍❤‍💋‍👩
+  - `:amour`
+  - `:anniversaire`
+  - `:baiser`
+  - `:bisou`
+  - `:couple`
+  - `:cœur`
+  - `:embrasser`
+  - `:femme`
+  - `:rendez-vous`
+- 👩‍🌾
+  - `:agricultrice`
+  - `:femme`
+  - `:fermière`
+  - `:jardinière`
+  - `:métier`
+- 👩‍🍳
+  - `:chef`
+  - `:cuisinière`
+  - `:femme`
+  - `:métier`
+- 👩‍🎓
+  - `:diplômée`
+  - `:femme`
+  - `:étudiante`
+- 👩‍🎤
+  - `:actrice`
+  - `:artiste`
+  - `:chanteuse`
+  - `:femme`
+  - `:métier`
+  - `:rock`
+  - `:rockeuse`
+  - `:star`
+- 👩‍🎨
+  - `:artiste`
+  - `:artiste femme`
+  - `:femme`
+  - `:métier`
+  - `:palette`
+  - `:peintre`
+- 👩‍🏫
+  - `:femme`
+  - `:institutrice`
+  - `:instructrice`
+  - `:professeure`
+- 👩‍🏭
+  - `:assemblage`
+  - `:femme`
+  - `:industrie`
+  - `:montage`
+  - `:métier`
+  - `:ouvrière`
+  - `:usine`
+- 👩‍👦
+  - `:famille avec une mère et son fils`
+  - `:femme`
+  - `:fils`
+  - `:garçon`
+  - `:mère`
+- 👩‍👦‍👦
+  - `:enfants`
+  - `:famille`
+  - `:famille avec mère et deux garçons`
+  - `:femme`
+  - `:fils`
+  - `:garçons`
+  - `:mère`
+- 👩‍👧
+  - `:famille avec une mère et sa fille`
+  - `:femme`
+  - `:fille`
+  - `:mère`
+- 👩‍👧‍👦
+  - `:enfants`
+  - `:famille`
+  - `:famille avec une mère et ses enfants`
+  - `:femme`
+  - `:fille`
+  - `:garçon`
+  - `:mère`
+- 👩‍👧‍👧
+  - `:enfants`
+  - `:famille`
+  - `:famille avec une mère et ses filles`
+  - `:femme`
+  - `:filles`
+  - `:mère`
+- 👩‍👩‍👦
+  - `:famille`
+  - `:famille avec deux mères et un garçon`
+  - `:femmes`
+  - `:fils`
+  - `:garçon`
+  - `:mères`
+- 👩‍👩‍👦‍👦
+  - `:famille`
+  - `:famille avec deux mères et deux fils`
+  - `:femmes`
+  - `:fils`
+  - `:garçon`
+  - `:mères`
+- 👩‍👩‍👧
+  - `:enfant`
+  - `:famille`
+  - `:famille avec deux mères et une fille`
+  - `:femmes`
+  - `:fille`
+- 👩‍👩‍👧‍👦
+  - `:famille`
+  - `:femme`
+  - `:fille`
+  - `:garçon`
+- 👩‍👩‍👧‍👧
+  - `:enfants`
+  - `:famille`
+  - `:famille avec deux mères et deux filles`
+  - `:femmes`
+  - `:filles`
+  - `:mères`
+- 👩‍💻
+  - `:codeuse`
+  - `:développeuse`
+  - `:femme`
+  - `:informaticienne`
+  - `:inventrice`
+  - `:logiciels`
+  - `:métier`
+  - `:technologie`
+- 👩‍💼
+  - `:affaires`
+  - `:architecte`
+  - `:bureau`
+  - `:cadre`
+  - `:directrice`
+  - `:femme`
+  - `:métier`
+- 👩‍🔧
+  - `:femme`
+  - `:mécanicienne`
+  - `:métier`
+  - `:ouvrière`
+  - `:plombier`
+  - `:électricienne`
+- 👩‍🔬
+  - `:biologiste`
+  - `:chimiste`
+  - `:femme`
+  - `:ingénieure`
+  - `:mathématicienne`
+  - `:métier`
+  - `:physicienne`
+  - `:scientifique`
+  - `:scientifique femme`
+- 👩‍🚀
+  - `:astronaute`
+  - `:astronaute femme`
+  - `:casque`
+  - `:cosmonaute`
+  - `:espace`
+  - `:femme`
+  - `:fusée`
+  - `:métier`
+  - `:spationaute`
+- 👩‍🚒
+  - `:camion de pompiers`
+  - `:casque`
+  - `:femme`
+  - `:métier`
+  - `:pompier`
+  - `:pompier femme`
+- 👩‍🦰
+  - `:adulte`
+  - `:femme`
+  - `:personne`
+  - `:rousse`
+- 👩‍🦱
+  - `:adulte`
+  - `:bouclette`
+  - `:bouclettes`
+  - `:cheveux bouclés`
+  - `:femme`
+  - `:personne`
+- 👩‍🦲
+  - `:adulte`
+  - `:chauve`
+  - `:crâne rasé`
+  - `:femme`
+  - `:rasée`
+- 👩‍🦳
+  - `:adulte`
+  - `:cheveux blancs`
+  - `:femme`
+  - `:grisonnant`
+  - `:personne`
+  - `:poivre et sel`
+- 👪
+  - `:enfant`
+  - `:famille`
+  - `:famille avec un père, une mère et un fils`
+  - `:femme`
+  - `:fils`
+  - `:garçon`
+  - `:homme`
+  - `:mère`
+  - `:père`
+- 👫
+  - `:amis`
+  - `:amoureux`
+  - `:couple`
+  - `:femme`
+  - `:homme`
+  - `:homme et femme se donnant la main`
+  - `:main dans la main`
+  - `:petit ami`
+  - `:petite amie`
+  - `:rendez-vous`
+- 👬
+  - `:LGBT`
+  - `:LGBTQ`
+  - `:LGBTQIA`
+  - `:amis`
+  - `:amitié`
+  - `:amoureux`
+  - `:couple`
+  - `:deux hommes se donnant la main`
+  - `:fils`
+  - `:frères`
+  - `:gay`
+  - `:hommes`
+  - `:homosexuels`
+  - `:jumeaux`
+  - `:main dans la main`
+  - `:meilleurs amis`
+  - `:petit ami`
+  - `:rendez-vous`
+- 👭
+  - `:LGBT`
+  - `:LGBTQ`
+  - `:LGBTQIA`
+  - `:amies`
+  - `:amitié`
+  - `:amoureuses`
+  - `:couple`
+  - `:deux femmes se donnant la main`
+  - `:femmes`
+  - `:filles`
+  - `:gay`
+  - `:homosexuelles`
+  - `:jumelles`
+  - `:lesbiennes`
+  - `:main dans la main`
+  - `:meilleures amies`
+  - `:petite amie`
+  - `:rendez-vous`
+  - `:sœurs`
+- 👮
+  - `:flic`
+  - `:homme`
+  - `:métier`
+  - `:officier`
+  - `:police`
+  - `:policier`
+- 👮‍♀
+  - `:femme`
+  - `:femme policière`
+  - `:flic`
+  - `:métier`
+  - `:officier`
+  - `:police`
+  - `:policière`
+- 👯
+  - `:danseuse`
+  - `:femme`
+  - `:fille`
+  - `:oreilles de lapin`
+  - `:personnes qui font la fête`
+- 👯‍♂
+  - `:amis`
+  - `:danseur`
+  - `:faire la fête`
+  - `:fête`
+  - `:homme`
+  - `:oreilles de lapin`
+- 👰
+  - `:mariage`
+  - `:mariée`
+  - `:mariée avec voile`
+  - `:voile`
+- 👱
+  - `:blond`
+  - `:homme`
+  - `:homme blond`
+  - `:personne blonde`
+- 👱‍♀
+  - `:blonde`
+  - `:femme`
+  - `:femme blonde`
+  - `:personne`
+- 👲
+  - `:casquette mao`
+  - `:chapeau`
+  - `:homme`
+  - `:homme avec casquette chinoise`
+- 👳
+  - `:homme avec turban`
+  - `:personne avec turban`
+  - `:turban`
+- 👳‍♀
+  - `:femme`
+  - `:femme avec turban`
+  - `:turban`
+- 👴
+  - `:chauve`
+  - `:grand-père`
+  - `:homme`
+  - `:homme âgé`
+  - `:papi`
+  - `:personne`
+  - `:personne âgée`
+  - `:sage`
+  - `:vieux monsieur`
+  - `:âgé`
+  - `:émoticône`
+- 👵
+  - `:blonde`
+  - `:dame`
+  - `:femme`
+  - `:femme âgée`
+  - `:grand-mère`
+  - `:mamie`
+  - `:personne`
+  - `:personne âgée`
+  - `:sage`
+  - `:âgée`
+  - `:émoticône`
+- 👶
+  - `:bébé`
+  - `:enceinte`
+  - `:enfant`
+  - `:nouveau-né`
+  - `:petit`
+  - `:émoticône`
+- 👷
+  - `:bâtiment`
+  - `:casque`
+  - `:chantier`
+  - `:homme`
+  - `:métier`
+  - `:ouvrier`
+  - `:ouvrier du bâtiment`
+- 👷‍♀
+  - `:bâtiment`
+  - `:casque`
+  - `:casque de chantier`
+  - `:chantier`
+  - `:femme`
+  - `:métier`
+  - `:ouvrier du bâtiment femme`
+  - `:ouvrière`
+- 👸
+  - `:conte de fées`
+  - `:couronne`
+  - `:fantastique`
+  - `:personne`
+  - `:princesse`
+  - `:reine`
+- 👹
+  - `:créature`
+  - `:effrayant`
+  - `:fantastique`
+  - `:japonais`
+  - `:masque`
+  - `:monstre`
+  - `:ogre`
+  - `:ogre japonais`
+- 👺
+  - `:colère`
+  - `:créature`
+  - `:fantastique`
+  - `:farfadet`
+  - `:japonais`
+  - `:masque`
+  - `:monstre`
+  - `:monstre japonais`
+  - `:méchant`
+- 👻
+  - `:Halloween`
+  - `:blague`
+  - `:bouh`
+  - `:créature`
+  - `:effrayant`
+  - `:fantastique`
+  - `:fantôme`
+  - `:hanter`
+  - `:monstre`
+  - `:peur`
+  - `:visage de fantôme`
+- 👼
+  - `:ailes`
+  - `:ange`
+  - `:auréole`
+  - `:bébé`
+  - `:bébé ange`
+  - `:visage`
+  - `:église`
+  - `:émoticône`
+- 👽
+  - `:alien`
+  - `:créature`
+  - `:espace`
+  - `:extraterrestre`
+  - `:monstre`
+  - `:ovni`
+  - `:science-fiction`
+  - `:visage`
+  - `:émoticône`
+- 👾
+  - `:alien`
+  - `:créature`
+  - `:envahisseur`
+  - `:espace`
+  - `:extraterrestre`
+  - `:fantastique`
+  - `:jeu vidéo`
+  - `:monstre`
+  - `:monstre de l’espace`
+  - `:ovni`
+  - `:pixels`
+- 👿
+  - `:diable`
+  - `:diablotin`
+  - `:diablotin mauvais`
+  - `:démon`
+  - `:fantastique`
+  - `:malicieux`
+  - `:mauvais`
+  - `:visage`
+  - `:visage en colère avec des cornes`
+  - `:émoticône`
+- 💀
+  - `:corps`
+  - `:crâne`
+  - `:dead`
+  - `:fantastique`
+  - `:je suis mort`
+  - `:mort`
+  - `:squelette`
+  - `:tête de mort`
+  - `:visage`
+  - `:yolo`
+- 💁
+  - `:aide`
+  - `:apporter`
+  - `:diva`
+  - `:femme`
+  - `:femme avec paume vers le haut`
+  - `:informations`
+  - `:insolent`
+  - `:main`
+  - `:paume vers le haut`
+  - `:personne`
+  - `:peu importe`
+  - `:potins`
+  - `:sarcastique`
+- 💁‍♂
+  - `:aide`
+  - `:apporter`
+  - `:diva`
+  - `:homme`
+  - `:homme avec paume vers le haut`
+  - `:informations`
+  - `:insolent`
+  - `:main`
+  - `:paume vers le haut`
+  - `:peu importe`
+  - `:potins`
+  - `:sarcastique`
+- 💂
+  - `:Buckingham Palace`
+  - `:Londres`
+  - `:casque`
+  - `:garde`
+  - `:garde homme`
+- 💂‍♀
+  - `:Buckingham Palace`
+  - `:Londres`
+  - `:casque`
+  - `:femme`
+  - `:garde`
+  - `:garde femme`
+  - `:métier`
+- 💃
+  - `:danse`
+  - `:danseuse`
+  - `:femme`
+  - `:femme qui danse`
+  - `:flamenco`
+  - `:fête`
+  - `:rythme`
+  - `:salsa`
+  - `:sortir danser`
+  - `:tango`
+- 💄
+  - `:cosmétiques`
+  - `:maquillage`
+  - `:rendez-vous`
+  - `:rouge à lèvres`
+- 💅
+  - `:cosmétiques`
+  - `:manucure`
+  - `:maquillage`
+  - `:peu importe`
+  - `:s’ennuyer`
+  - `:vernis à ongles`
+- 💆
+  - `:apaiser`
+  - `:femme qui se fait masser`
+  - `:mal de tête`
+  - `:massage`
+  - `:migraine`
+  - `:personne qui se fait masser`
+  - `:relaxation`
+  - `:salon`
+  - `:tension`
+  - `:visage`
+- 💆‍♂
+  - `:apaiser`
+  - `:homme`
+  - `:homme qui se fait masser le visage`
+  - `:mal de tête`
+  - `:massage`
+  - `:migraine`
+  - `:relaxation`
+  - `:salon`
+  - `:tension`
+  - `:visage`
+- 💇
+  - `:beauté`
+  - `:cheveux`
+  - `:coiffeur`
+  - `:coiffure`
+  - `:coupe de cheveux`
+  - `:femme qui se fait couper les cheveux`
+  - `:personne qui se fait couper les cheveux`
+  - `:salon`
+  - `:salon de coiffure`
+- 💇‍♂
+  - `:coiffeur`
+  - `:coiffure`
+  - `:coupe de cheveux`
+  - `:couper les cheveux`
+  - `:homme`
+  - `:homme chez le coiffeur`
+  - `:salon de coiffure`
+- 💈
+  - `:barbier`
+  - `:coiffeur`
+  - `:coiffure`
+  - `:enseigne`
+  - `:enseigne de barbier`
+  - `:salon`
+- 💉
+  - `:aiguille`
+  - `:docteur`
+  - `:malade`
+  - `:médecine`
+  - `:piqûre`
+  - `:seringue`
+  - `:vaccin`
+  - `:vaccination`
+- 💊
+  - `:gélule`
+  - `:malade`
+  - `:médicament`
+  - `:pilule`
+  - `:vitamines`
+- 💋
+  - `:baiser`
+  - `:bise`
+  - `:bisou`
+  - `:bouche`
+  - `:embrasser`
+  - `:lèvres`
+  - `:rendez-vous`
+  - `:rouge`
+  - `:sexy`
+  - `:trace de rouge à lèvres`
+- 💌
+  - `:Saint-Valentin`
+  - `:amour`
+  - `:cœur`
+  - `:lettre`
+  - `:lettre d’amour`
+- 💍
+  - `:alliance`
+  - `:amour`
+  - `:bague`
+  - `:brillant`
+  - `:diamant`
+  - `:fiançailles`
+  - `:mariage`
+  - `:solitaire`
+  - `:étincelant`
+- 💎
+  - `:argent`
+  - `:bijou`
+  - `:diamant`
+  - `:fiançailles`
+  - `:joyau`
+  - `:mariage`
+  - `:pierre précieuse`
+  - `:romantique`
+- 💏
+  - `:amour`
+  - `:anniversaire`
+  - `:bisou`
+  - `:couple`
+  - `:femme`
+  - `:homme`
+- 💐
+  - `:amoureux`
+  - `:anniversaire`
+  - `:bouquet`
+  - `:fleurs`
+  - `:plante`
+  - `:rendez-vous`
+  - `:roses`
+- 💑
+  - `:amour`
+  - `:anniversaire`
+  - `:couple`
+  - `:couple avec cœur`
+  - `:cœur`
+  - `:femme`
+  - `:homme`
+  - `:rendez-vous`
+- 💒
+  - `:amour`
+  - `:chapelle`
+  - `:cœur`
+  - `:mariage`
+  - `:église`
+- 💓
+  - `:amour`
+  - `:cardio`
+  - `:cœur`
+  - `:cœur battant`
+  - `:cœur qui bat`
+  - `:pulsations`
+  - `:sentiment`
+- 💔
+  - `:amour`
+  - `:cœur`
+  - `:cœur brisé`
+  - `:malheureux`
+  - `:sentiment`
+  - `:séparé`
+  - `:triste`
+- 💕
+  - `:amour`
+  - `:anniversaire`
+  - `:cœurs`
+  - `:deux cœurs roses`
+  - `:petits cœurs`
+  - `:rendez-vous`
+  - `:sentiment`
+- 💖
+  - `:amour`
+  - `:cœur`
+  - `:cœur étincelant`
+  - `:sentiment`
+  - `:étincelles`
+- 💗
+  - `:amour`
+  - `:cœur`
+  - `:cœur battant`
+  - `:cœur grandissant`
+  - `:cœur qui bat`
+  - `:pulsations`
+  - `:sentiment`
+- 💘
+  - `:Cupidon`
+  - `:amour`
+  - `:coeur transpercé`
+  - `:cœur`
+  - `:cœur et flèche`
+  - `:sentiment`
+- 💙
+  - `:amour`
+  - `:cœur`
+  - `:cœur bleu`
+  - `:sentiment`
+- 💚
+  - `:amour`
+  - `:cœur`
+  - `:cœur vert`
+  - `:sentiment`
+  - `:vert`
+- 💛
+  - `:amour`
+  - `:cœur`
+  - `:cœur jaune`
+  - `:sentiment`
+- 💜
+  - `:amour`
+  - `:cœur`
+  - `:cœur violet`
+  - `:sentiment`
+  - `:violet`
+- 💝
+  - `:Saint-Valentin`
+  - `:amour`
+  - `:anniversaire`
+  - `:cœur`
+  - `:cœur avec ruban`
+  - `:sentiment`
+- 💞
+  - `:amour`
+  - `:anniversaire`
+  - `:cœurs`
+  - `:cœurs qui tournent`
+  - `:deux cœurs`
+  - `:sentiment`
+  - `:tourbillon`
+- 💟
+  - `:amour`
+  - `:cœur`
+  - `:cœur blanc`
+  - `:cœur décoré`
+  - `:cœur violet`
+  - `:sentiment`
+- 💠
+  - `:BD`
+  - `:bande dessinée`
+  - `:diamant`
+  - `:diamant avec un point`
+  - `:géométrie`
+  - `:géométrique`
+- 💡
+  - `:BD`
+  - `:allumer`
+  - `:ampoule`
+  - `:bande dessinée`
+  - `:idée`
+  - `:lampe`
+  - `:lumière`
+- 💢
+  - `:BD`
+  - `:bande dessinée`
+  - `:colère`
+  - `:furieux`
+  - `:symbole de colère`
+- 💣
+  - `:BD`
+  - `:bande dessinée`
+  - `:bombe`
+  - `:boum`
+  - `:danger`
+  - `:explosion`
+- 💤
+  - `:BD`
+  - `:bande dessinée`
+  - `:dormir`
+  - `:endormi`
+  - `:fatigué`
+  - `:ronfler`
+  - `:zzz`
+- 💥
+  - `:BD`
+  - `:bande dessinée`
+  - `:bombe`
+  - `:boum`
+  - `:collision`
+  - `:détonation`
+  - `:explosion`
+  - `:étincelles`
+- 💦
+  - `:BD`
+  - `:bande dessinée`
+  - `:eau`
+  - `:effort`
+  - `:entraînement`
+  - `:gouttes`
+  - `:gouttes de sueur`
+  - `:sueur`
+  - `:éclabousser`
+- 💧
+  - `:BD`
+  - `:bande dessinée`
+  - `:eau`
+  - `:froid`
+  - `:goutte`
+  - `:larme`
+  - `:météo`
+  - `:nature`
+  - `:pluie`
+  - `:sueur`
+  - `:sueurs froides`
+  - `:tristesse`
+- 💨
+  - `:BD`
+  - `:bande dessinée`
+  - `:décamper`
+  - `:déguerpir`
+  - `:détaler`
+  - `:filer`
+  - `:fumée`
+  - `:nuage`
+  - `:partir en courant`
+  - `:pet`
+  - `:vent`
+  - `:vite`
+- 💩
+  - `:BD`
+  - `:bande dessinée`
+  - `:caca`
+  - `:crotte`
+  - `:excrément`
+  - `:odeur`
+  - `:popo`
+  - `:puer`
+  - `:sentir mauvais`
+  - `:tas de crotte`
+  - `:visage`
+- 💪
+  - `:BD`
+  - `:bande dessinée`
+  - `:biceps`
+  - `:biceps contracté`
+  - `:bodybuilding`
+  - `:corps`
+  - `:culturisme`
+  - `:entraînement`
+  - `:exercice`
+  - `:force`
+  - `:haltérophilie`
+  - `:muscles`
+  - `:soulever`
+- 💫
+  - `:BD`
+  - `:bande dessinée`
+  - `:tournis`
+  - `:voir des étoiles`
+  - `:étincelles`
+  - `:étoile`
+  - `:étoile filante`
+- 💬
+  - `:BD`
+  - `:SMS`
+  - `:bande dessinée`
+  - `:bulle`
+  - `:bulle de parole`
+  - `:dialogue`
+  - `:message`
+  - `:écrire`
+- 💭
+  - `:BD`
+  - `:bande dessinée`
+  - `:bulle`
+  - `:bulle de pensée`
+  - `:idée`
+  - `:imaginer`
+  - `:inventer`
+  - `:invention`
+  - `:penser`
+  - `:pensée`
+  - `:rêve`
+  - `:rêver`
+- 💮
+  - `:fleur`
+  - `:fleur blanche`
+- 💯
+  - `:100`
+  - `:cent`
+  - `:cent points`
+  - `:score`
+- 💰
+  - `:argent`
+  - `:avare`
+  - `:banque`
+  - `:dollar`
+  - `:parier`
+  - `:payer`
+  - `:sac`
+  - `:sac d’argent`
+  - `:sac plein d’argent`
+- 💱
+  - `:argent`
+  - `:banque`
+  - `:devise`
+- 💲
+  - `:argent`
+  - `:devise`
+  - `:dollar`
+  - `:espèces`
+  - `:payer`
+  - `:symbole dollar`
+- 💳
+  - `:argent`
+  - `:bancaire`
+  - `:banque`
+  - `:carte`
+  - `:carte bancaire`
+  - `:carte de crédit`
+  - `:payer`
+- 💴
+  - `:argent`
+  - `:billet`
+  - `:billet de banque`
+  - `:billet en yens`
+  - `:payer`
+  - `:yens`
+- 💵
+  - `:argent`
+  - `:billet`
+  - `:billet de banque`
+  - `:billet en dollars`
+  - `:dollar`
+  - `:payer`
+- 💶
+  - `:argent`
+  - `:billet`
+  - `:billet de banque`
+  - `:billet en euros`
+  - `:euros`
+  - `:payer`
+- 💷
+  - `:argent`
+  - `:billet`
+  - `:billet de banque`
+  - `:billet en livres`
+  - `:livres`
+  - `:payer`
+- 💸
+  - `:ailes`
+  - `:argent`
+  - `:billet`
+  - `:billet avec des ailes`
+  - `:billet de banque`
+  - `:dollars`
+  - `:payer`
+- 💹
+  - `:banque`
+  - `:courbe avec yen en hausse`
+  - `:croissance`
+  - `:devise`
+  - `:graphique`
+  - `:hausse`
+  - `:marché`
+  - `:monnaie`
+  - `:tendance`
+  - `:yen`
+- 💺
+  - `:chaise`
+  - `:place`
+  - `:siège`
+- 💻
+  - `:bureau`
+  - `:ordinateur`
+  - `:ordinateur portable`
+  - `:travail`
+- 💼
+  - `:accessoire`
+  - `:bureau`
+  - `:cartable`
+  - `:porte-documents`
+- 💽
+  - `:disque`
+  - `:minidisc`
+- 💾
+  - `:disque`
+  - `:disquette`
+  - `:informatique`
+  - `:ordinateur`
+- 💿
+  - `:CD`
+  - `:DVD`
+  - `:blu-ray`
+  - `:disque`
+- 📀
+  - `:CD`
+  - `:blu-ray`
+  - `:disque`
+- 📁
+  - `:dossier`
+  - `:fichier`
+  - `:répertoire`
+- 📂
+  - `:dossier`
+  - `:ouvrir`
+  - `:ouvrir le dossier`
+  - `:répertoire`
+- 📃
+  - `:document`
+  - `:page`
+  - `:page enroulée`
+- 📄
+  - `:document`
+  - `:page`
+- 📅
+  - `:calendrier`
+  - `:date`
+- 📆
+  - `:agenda`
+  - `:calendrier`
+  - `:date`
+  - `:planning`
+  - `:éphéméride`
+- 📇
+  - `:carnet d’adresses`
+  - `:carte`
+  - `:index`
+  - `:rolodex`
+  - `:vintage`
+- 📈
+  - `:croissance`
+  - `:données`
+  - `:graphique`
+  - `:graphique en hausse`
+  - `:hausse`
+  - `:haut`
+  - `:tendance`
+- 📉
+  - `:baisse`
+  - `:bas`
+  - `:chute`
+  - `:données`
+  - `:graphique`
+  - `:graphique en baisse`
+  - `:négatif`
+  - `:tendance`
+- 📊
+  - `:données`
+  - `:graphique`
+  - `:graphiques à barres`
+- 📋
+  - `:fournitures`
+  - `:liste`
+  - `:porte-bloc`
+  - `:presse-papiers`
+- 📌
+  - `:fournitures`
+  - `:punaise`
+- 📍
+  - `:carte`
+  - `:emplacement`
+  - `:fournitures`
+  - `:punaise ronde`
+  - `:épingle`
+- 📎
+  - `:fournitures`
+  - `:trombone`
+- 📏
+  - `:fournitures`
+  - `:mathématiques`
+  - `:règle`
+  - `:règle plate`
+- 📐
+  - `:fournitures`
+  - `:mathématiques`
+  - `:équerre`
+- 📑
+  - `:marque`
+  - `:marqueur`
+  - `:onglets`
+  - `:signet`
+  - `:signets`
+- 📒
+  - `:cahier`
+  - `:classeur`
+- 📓
+  - `:cahier`
+  - `:carnet`
+  - `:écrire`
+- 📔
+  - `:cahier`
+  - `:carnet`
+  - `:carnet avec couverture`
+  - `:livre`
+  - `:école`
+  - `:écrire`
+- 📕
+  - `:apprendre`
+  - `:enseignement`
+  - `:lire`
+  - `:littérature`
+  - `:livre`
+  - `:livre fermé`
+  - `:livre rouge`
+  - `:manuel scolaire`
+  - `:savoir`
+  - `:école`
+- 📖
+  - `:apprendre`
+  - `:bibliothèque`
+  - `:enseignement`
+  - `:lecture`
+  - `:lire`
+  - `:littérature`
+  - `:livre`
+  - `:livre ouvert`
+  - `:manuel scolaire`
+  - `:roman`
+  - `:savoir`
+  - `:école`
+  - `:étudier`
+- 📗
+  - `:apprendre`
+  - `:bibliothèque`
+  - `:enseignement`
+  - `:lecture`
+  - `:lire`
+  - `:littérature`
+  - `:livre`
+  - `:livre vert`
+  - `:manuel scolaire`
+  - `:savoir`
+  - `:école`
+  - `:étudier`
+- 📘
+  - `:apprendre`
+  - `:lecture`
+  - `:lire`
+  - `:littérature`
+  - `:manuel scolaire`
+  - `:roman`
+  - `:école`
+  - `:éducation`
+- 📙
+  - `:apprendre`
+  - `:lecture`
+  - `:lire`
+  - `:littérature`
+  - `:livre`
+  - `:livre orange`
+  - `:manuel scolaire`
+  - `:roman`
+  - `:école`
+  - `:éducation`
+- 📚
+  - `:apprendre`
+  - `:bibliothèque`
+  - `:enseignement`
+  - `:lecture`
+  - `:lire`
+  - `:littérature`
+  - `:livre`
+  - `:livres`
+  - `:manuels scolaires`
+  - `:roman`
+  - `:savoir`
+  - `:école`
+  - `:étudier`
+- 📛
+  - `:badge`
+  - `:badge nominatif`
+  - `:nom`
+- 📜
+  - `:papier`
+  - `:parchemin`
+- 📝
+  - `:bloc-notes`
+  - `:crayon`
+  - `:mémo`
+  - `:écrire`
+- 📞
+  - `:combiné téléphonique`
+  - `:communication`
+  - `:téléphone`
+- 📟
+  - `:bip`
+  - `:communication`
+  - `:pager`
+- 📠
+  - `:communication`
+  - `:fax`
+- 📡
+  - `:antenne`
+  - `:antenne satellite`
+  - `:satellite`
+  - `:science`
+- 📢
+  - `:communication`
+  - `:fort`
+  - `:haut-parleur`
+  - `:message`
+  - `:mégaphone`
+  - `:son`
+- 📣
+  - `:encourager`
+  - `:hourra`
+  - `:manifestation`
+  - `:mégaphone`
+- 📤
+  - `:boîte d’envoi`
+  - `:courriel`
+  - `:courrier électronique`
+  - `:e-mail`
+  - `:envoyer`
+  - `:flèche`
+  - `:lettre`
+  - `:message`
+  - `:message électronique`
+- 📥
+  - `:boîte de réception`
+  - `:courriel`
+  - `:courrier électronique`
+  - `:flèche`
+  - `:lettre`
+  - `:message`
+  - `:message électronique`
+  - `:recevoir`
+- 📦
+  - `:boîte`
+  - `:colis`
+  - `:livraison`
+  - `:paquet`
+- 📧
+  - `:courriel`
+  - `:courrier électronique`
+  - `:e-mail`
+  - `:lettre`
+  - `:message`
+- 📨
+  - `:courriel`
+  - `:courrier`
+  - `:courrier électronique`
+  - `:e-mail`
+  - `:enveloppe`
+  - `:envoyer`
+  - `:lettre`
+  - `:message`
+  - `:message reçu`
+  - `:message électronique`
+  - `:recevoir`
+- 📩
+  - `:communication`
+  - `:courriel`
+  - `:courrier électronique`
+  - `:e-mail`
+  - `:enveloppe`
+  - `:envoi`
+  - `:envoyer`
+  - `:flèche`
+  - `:message`
+  - `:message envoyé`
+  - `:message électronique`
+- 📪
+  - `:boîte aux lettres`
+  - `:boîte aux lettres fermée drapeau baissé`
+  - `:courrier`
+- 📫
+  - `:boîte aux lettres`
+  - `:boîte aux lettres fermée drapeau levé`
+  - `:courrier`
+- 📬
+  - `:boîte aux lettres`
+  - `:boîte aux lettres ouverte drapeau levé`
+  - `:courrier`
+- 📭
+  - `:boîte aux lettres`
+  - `:boîte aux lettres ouverte drapeau baissé`
+  - `:courrier`
+- 📮
+  - `:boîte aux lettres`
+  - `:courrier`
+  - `:poste`
+- 📯
+  - `:cor de facteur`
+  - `:facteur`
+  - `:poste`
+- 📰
+  - `:actualités`
+  - `:communication`
+  - `:gros titres`
+  - `:journal`
+  - `:presse`
+  - `:une`
+- 📱
+  - `:communication`
+  - `:smartphone`
+  - `:téléphone`
+  - `:téléphone portable`
+- 📲
+  - `:appel`
+  - `:appel entrant`
+  - `:communication`
+  - `:recevoir un appel`
+  - `:smartphone`
+  - `:téléphone portable avec une flèche`
+- 📳
+  - `:communication`
+  - `:mode vibreur`
+  - `:téléphone`
+  - `:téléphone portable`
+  - `:vibreur`
+- 📴
+  - `:téléphone`
+  - `:téléphone portable`
+  - `:téléphone éteint`
+  - `:éteindre`
+- 📵
+  - `:interdiction`
+  - `:portable`
+  - `:téléphone`
+  - `:téléphones portables interdits`
+- 📶
+  - `:barres de réseau`
+  - `:communication`
+  - `:couverture`
+  - `:réception`
+  - `:réseau`
+  - `:téléphone portable`
+- 📷
+  - `:appareil photo`
+  - `:photo`
+  - `:selfie`
+  - `:vidéo`
+- 📸
+  - `:appareil photo`
+  - `:appareil photo avec flash`
+  - `:flash`
+- 📹
+  - `:caméra`
+  - `:caméscope`
+  - `:filmer`
+  - `:vidéo`
+- 📺
+  - `:TV`
+  - `:petit écran`
+  - `:télé`
+  - `:télévision`
+- 📻
+  - `:actualités`
+  - `:communication`
+  - `:loisirs`
+  - `:musique`
+  - `:radio`
+- 📼
+  - `:cassette vidéo`
+  - `:magnétoscope`
+  - `:vhs`
+  - `:vintage`
+- 📽
+  - `:cinéma`
+  - `:film`
+  - `:projecteur`
+  - `:projecteur cinématographique`
+  - `:vidéo`
+- 📿
+  - `:accessoire`
+  - `:chapelet`
+  - `:collier`
+  - `:perles`
+  - `:prière`
+  - `:religion`
+- 🔀
+  - `:flèche`
+  - `:flèches croisées`
+  - `:lecture aléatoire`
+- 🔁
+  - `:bouton répéter`
+  - `:flèche`
+  - `:flèches en cercle`
+  - `:répéter`
+  - `:sens des aiguilles d&#39;une montre`
+- 🔂
+  - `:flèche`
+  - `:flèches en cercle avec n°1`
+  - `:répéter`
+  - `:répéter une fois`
+  - `:sens des aiguilles d&#39;une montre`
+- 🔃
+  - `:actualiser`
+  - `:flèche`
+  - `:sens des aiguilles d’une montre`
+  - `:symbole Recharger`
+- 🔄
+  - `:actualiser`
+  - `:flèche`
+  - `:flèches`
+  - `:retour`
+  - `:sens contraire des aiguilles d’une montre`
+  - `:sens horaire inverse`
+  - `:sens inverse des aiguilles d&#39;une montre`
+- 🔅
+  - `:brillance`
+  - `:luminosité`
+  - `:luminosité faible`
+  - `:lumière`
+  - `:soleil`
+- 🔆
+  - `:brillance`
+  - `:luminosité`
+  - `:luminosité élevée`
+  - `:lumière`
+  - `:soleil`
+- 🔇
+  - `:chut`
+  - `:enceinte`
+  - `:haut-parleur barré`
+  - `:haut-parleur d’enceinte`
+  - `:muet`
+  - `:silence`
+  - `:son`
+  - `:sourdine`
+- 🔈
+  - `:enceinte`
+  - `:haut-parleur`
+  - `:haut-parleur d’enceinte`
+  - `:son`
+  - `:volume bas`
+- 🔉
+  - `:enceinte`
+  - `:haut-parleur`
+  - `:haut-parleur d’enceinte`
+  - `:son`
+  - `:volume moyen`
+- 🔊
+  - `:enceinte`
+  - `:fort`
+  - `:haut-parleur`
+  - `:haut-parleur d’enceinte`
+  - `:musique`
+  - `:son`
+  - `:volume élevé`
+- 🔋
+  - `:pile`
+- 🔌
+  - `:branché`
+  - `:prise`
+  - `:prise électrique`
+  - `:électricité`
+- 🔍
+  - `:agrandir`
+  - `:chercher`
+  - `:détective`
+  - `:loupe`
+  - `:loupe gauche`
+- 🔎
+  - `:agrandir`
+  - `:chercher`
+  - `:détective`
+  - `:loupe`
+  - `:loupe droite`
+- 🔏
+  - `:cadenas avec un stylo plume`
+  - `:confidentiel`
+  - `:privé`
+  - `:stylo plume`
+  - `:verrouillé`
+- 🔐
+  - `:cadenas`
+  - `:cadenas avec une clé`
+  - `:clé`
+  - `:fermé`
+  - `:privé`
+  - `:sécurisé`
+  - `:verrouillé`
+- 🔑
+  - `:clé`
+  - `:mot de passe`
+  - `:ouvrir`
+- 🔒
+  - `:cadenas`
+  - `:cadenas fermé`
+  - `:privé`
+  - `:verrouiller`
+- 🔓
+  - `:cadenas`
+  - `:cadenas ouvert`
+  - `:déverrouiller`
+  - `:ouvert`
+  - `:ouvrir`
+- 🔔
+  - `:cloche`
+  - `:clochette`
+  - `:sonner`
+- 🔕
+  - `:alarme désactivée`
+  - `:barrée`
+  - `:cloche`
+  - `:cloche barrée`
+  - `:silence`
+- 🔖
+  - `:marqueur`
+  - `:signet`
+- 🔗
+  - `:chaîne`
+  - `:mousqueton`
+- 🔘
+  - `:bouton`
+  - `:bouton radio`
+  - `:géométrique`
+  - `:radio`
+  - `:rond`
+- 🔙
+  - `:flèche`
+  - `:flèche vers la gauche`
+  - `:retour`
+- 🔚
+  - `:fin`
+  - `:flèche`
+  - `:flèche vers la gauche`
+- 🔛
+  - `:activé`
+  - `:droite et gauche`
+  - `:flèche`
+  - `:flèche dans les deux sens`
+- 🔜
+  - `:bientôt`
+  - `:flèche`
+  - `:flèche bientôt`
+- 🔝
+  - `:flèche`
+  - `:flèche vers le haut`
+  - `:haut`
+- 🔞
+  - `:18 ans et plus`
+  - `:dix-huit`
+  - `:interdiction`
+  - `:interdit aux mineurs`
+  - `:interdit aux moins de dix-huit ans`
+  - `:limite d&#39;âge`
+  - `:majorité`
+- 🔟
+  - `:10`
+  - `:dix`
+  - `:touche`
+- 🔠
+  - `:ABCD`
+  - `:alphabet latin`
+  - `:saisie en lettres majuscules`
+- 🔡
+  - `:abcd`
+  - `:alphabet latin`
+  - `:lettre`
+  - `:minuscules`
+  - `:saisie`
+  - `:saisie de lettres minuscules`
+- 🔢
+  - `:1234`
+  - `:chiffres`
+  - `:saisie`
+  - `:saisie de chiffres`
+- 🔣
+  - `:saisie`
+  - `:saisie de symboles`
+  - `:symboles`
+- 🔤
+  - `:abc`
+  - `:alphabet`
+  - `:alphabet latin`
+  - `:lettres`
+  - `:saisie`
+  - `:saisie de lettres`
+- 🔥
+  - `:allumer`
+  - `:brûler`
+  - `:chaud`
+  - `:feu`
+  - `:flamme`
+  - `:fournaise`
+  - `:incendie`
+- 🔦
+  - `:lampe torche`
+  - `:lampe électrique`
+  - `:lumière`
+  - `:outil`
+  - `:torche`
+- 🔧
+  - `:clé`
+  - `:clé à molette`
+  - `:outil`
+  - `:travaux`
+- 🔨
+  - `:marteau`
+  - `:outil`
+  - `:réparer`
+  - `:travaux`
+- 🔩
+  - `:boulon`
+  - `:outil`
+  - `:travaux`
+  - `:vis`
+  - `:vis et écrou`
+- 🔪
+  - `:arme`
+  - `:chef`
+  - `:couteau`
+  - `:couteau de cuisine`
+  - `:cuisine`
+- 🔫
+  - `:arme`
+  - `:arme à feu`
+  - `:flingue`
+  - `:pistolet`
+  - `:revolver`
+- 🔬
+  - `:expérience`
+  - `:laboratoire`
+  - `:microscope`
+  - `:outil`
+  - `:science`
+- 🔭
+  - `:astronomie`
+  - `:espace`
+  - `:outil`
+  - `:planètes`
+  - `:science`
+  - `:télescope`
+- 🔮
+  - `:avenir`
+  - `:boule de cristal`
+  - `:cristal`
+  - `:magie`
+  - `:voyant`
+  - `:voyante`
+- 🔯
+  - `:judaïsme`
+  - `:juif`
+  - `:juive`
+  - `:étoile`
+  - `:étoile à 6 branches`
+- 🔰
+  - `:chevron`
+  - `:chevron jaune et vert`
+  - `:débutant`
+  - `:symbole japonais`
+- 🔱
+  - `:Poséidon`
+  - `:bateau`
+  - `:fourche`
+  - `:mer`
+  - `:trident`
+- 🔲
+  - `:bouton`
+  - `:carré`
+  - `:carré noir`
+  - `:géométrie`
+- 🔳
+  - `:bouton`
+  - `:carré`
+  - `:carré blanc`
+  - `:géométrie`
+- 🔴
+  - `:cercle`
+  - `:géométrie`
+  - `:rond`
+  - `:rond rouge`
+  - `:rouge`
+- 🔵
+  - `:bleu`
+  - `:cercle`
+  - `:géométrie`
+  - `:rond`
+  - `:rond bleu`
+- 🔶
+  - `:grand losange orange`
+  - `:géométrie`
+  - `:losange`
+- 🔷
+  - `:grand losange bleu`
+  - `:géométrie`
+  - `:losange`
+- 🔸
+  - `:géométrie`
+  - `:losange`
+  - `:petit losange orange`
+- 🔹
+  - `:géométrie`
+  - `:losange`
+  - `:petit losange bleu`
+- 🔺
+  - `:flèche`
+  - `:géométrie`
+  - `:triangle haut`
+  - `:triangle rouge pointé vers le haut`
+- 🔻
+  - `:bas`
+  - `:flèche`
+  - `:rouge`
+  - `:triangle bas`
+  - `:triangle rouge pointé vers le bas`
+- 🔼
+  - `:bouton haut`
+  - `:flèche`
+  - `:haut`
+  - `:petit triangle haut`
+- 🔽
+  - `:bas`
+  - `:bouton bas`
+  - `:flèche`
+  - `:petit triangle bas`
+- 🕉
+  - `:hindou`
+  - `:om`
+  - `:religion`
+- 🕊
+  - `:animal`
+  - `:colombe`
+  - `:oiseau`
+  - `:paix`
+  - `:rameau`
+  - `:voler`
+- 🕋
+  - `:Kaaba`
+  - `:islam`
+  - `:musulman`
+  - `:musulmane`
+  - `:religion`
+  - `:voyage`
+- 🕌
+  - `:islam`
+  - `:mosquée`
+  - `:musulman`
+  - `:musulmane`
+  - `:religion`
+  - `:voyage`
+- 🕍
+  - `:judaïsme`
+  - `:juif`
+  - `:juive`
+  - `:religion`
+  - `:synagogue`
+  - `:temple`
+  - `:voyage`
+- 🕎
+  - `:Hanoucca`
+  - `:Hanoukka`
+  - `:candélabre`
+  - `:chandelier`
+  - `:chandelier à sept branches`
+  - `:judaïsme`
+  - `:juif`
+  - `:juive`
+  - `:menorah`
+  - `:religion`
+- 🕐
+  - `:heure`
+  - `:horloge`
+  - `:treize heures`
+- 🕑
+  - `:14 h`
+  - `:2 h`
+  - `:deux heures`
+  - `:heure`
+  - `:horloge`
+  - `:quatorze heures`
+- 🕒
+  - `:15 h`
+  - `:3 h`
+  - `:heure`
+  - `:horloge`
+  - `:quinze heures`
+  - `:trois heures`
+- 🕓
+  - `:16 h`
+  - `:4 h`
+  - `:quatre heures`
+  - `:seize heures`
+- 🕔
+  - `:17 h`
+  - `:5 h`
+  - `:cinq heures`
+  - `:dix-sept heures`
+  - `:heure`
+  - `:horloge`
+- 🕕
+  - `:18 h`
+  - `:6 h`
+  - `:dix-huit heures`
+  - `:heure`
+  - `:horloge`
+  - `:six heures`
+- 🕖
+  - `:19 h`
+  - `:7 h`
+  - `:dix-neuf heures`
+  - `:heure`
+  - `:horloge`
+  - `:sept heures`
+- 🕗
+  - `:20 h`
+  - `:8 h`
+  - `:heure`
+  - `:horloge`
+  - `:huit heures`
+  - `:vingt heures`
+- 🕘
+  - `:9 h`
+- 🕙
+  - `:10 h`
+  - `:22 h`
+  - `:dix heures`
+  - `:heure`
+  - `:horloge`
+  - `:vingt-deux heures`
+- 🕚
+  - `:11 h`
+  - `:23 h`
+  - `:heure`
+  - `:horloge`
+  - `:onze heures`
+  - `:vingt-trois heures`
+- 🕛
+  - `:0 h`
+  - `:12 h`
+  - `:heure`
+  - `:horloge`
+  - `:midi`
+  - `:midi pile`
+  - `:minuit`
+  - `:minuit pile`
+- 🕜
+  - `:1 h 30`
+  - `:13 h 30`
+  - `:heure`
+  - `:horloge`
+  - `:treize heures trente`
+  - `:une heure et demie`
+- 🕝
+  - `:14 h 30`
+  - `:2 h 30`
+  - `:deux heures et demie`
+  - `:heure`
+  - `:horloge`
+  - `:quatorze heures trente`
+- 🕞
+  - `:15 h 30`
+  - `:3 h 30`
+  - `:heure`
+  - `:horloge`
+  - `:quinze heures trente`
+  - `:trois heures et demie`
+- 🕟
+  - `:16 h 30`
+  - `:4 h 30`
+  - `:heure`
+  - `:horloge`
+  - `:quatre heures et demie`
+  - `:seize heures trente`
+- 🕠
+  - `:17 h 30`
+  - `:5 h 30`
+  - `:cinq heures et demie`
+  - `:dix-sept heures trente`
+  - `:heure`
+  - `:horloge`
+- 🕡
+  - `:18 h 30`
+  - `:6 h 30`
+  - `:dix-huit heures trente`
+  - `:heure`
+  - `:horloge`
+  - `:six heures et demie`
+- 🕢
+  - `:19 h 30`
+  - `:7 h 30`
+  - `:dix-neuf heures trente`
+  - `:heure`
+  - `:horloge`
+  - `:sept heures et demie`
+- 🕣
+  - `:20 h 30`
+  - `:8 h 30`
+  - `:heure`
+  - `:horloge`
+  - `:huit heures et demie`
+  - `:vingt heures trente`
+- 🕤
+  - `:21 h 30`
+  - `:9 h 30`
+  - `:heure`
+  - `:horloge`
+  - `:neuf heures et demie`
+  - `:vingt et une heures trente`
+- 🕥
+  - `:heure`
+  - `:horloge`
+  - `:vingt-deux heures trente`
+- 🕦
+  - `:11 h 30`
+  - `:23 h 30`
+  - `:heure`
+  - `:horloge`
+  - `:onze heures et demie`
+  - `:vingt-trois heures trente`
+- 🕧
+  - `:00 h 30`
+  - `:12 h 30`
+  - `:heure`
+  - `:horloge`
+  - `:midi et demi`
+  - `:minuit et demi`
+- 🕯
+  - `:bougie`
+  - `:chandelle`
+  - `:lumière`
+- 🕰
+  - `:horloge`
+  - `:horloge posée`
+- 🕳
+  - `:trou`
+- 🕴
+  - `:affaires`
+  - `:costume`
+  - `:homme`
+  - `:homme d’affaires en lévitation`
+- 🕵
+  - `:détective`
+  - `:enquêteur`
+  - `:espion`
+  - `:homme`
+- 🕵‍♀
+  - `:détective`
+  - `:détective femme`
+  - `:enquêtrice`
+  - `:espionne`
+  - `:femme`
+- 🕶
+  - `:lunettes`
+  - `:lunettes de soleil`
+  - `:lunettes noires`
+  - `:soleil`
+- 🕷
+  - `:animal`
+  - `:araignée`
+- 🕸
+  - `:araignée`
+  - `:toile`
+  - `:toile d’araignée`
+- 🕹
+  - `:jeu`
+  - `:jeu vidéo`
+  - `:joystick`
+  - `:manette de jeu`
+- 🕺
+  - `:danse`
+  - `:danseur`
+  - `:femme`
+  - `:flamenco`
+  - `:fête`
+  - `:homme`
+  - `:homme qui danse`
+  - `:rythme`
+  - `:salsa`
+- 🖇
+  - `:fournitures`
+  - `:trombones`
+- 🖊
+  - `:stylo`
+  - `:stylo-bille`
+  - `:écrire`
+- 🖋
+  - `:stylo`
+  - `:stylo plume`
+  - `:écrire`
+- 🖌
+  - `:peinture`
+  - `:pinceau`
+- 🖍
+  - `:crayon pastel`
+  - `:pastel`
+  - `:rouge`
+- 🖐
+  - `:doigts`
+  - `:main`
+  - `:main levée doigts écartés`
+  - `:paume`
+  - `:stop`
+- 🖕
+  - `:doigt d’honneur`
+  - `:main`
+  - `:majeur`
+- 🖖
+  - `:Spock`
+  - `:Star Trek`
+  - `:doigts`
+  - `:main`
+  - `:salut vulcain`
+  - `:vulcain`
+- 🖤
+  - `:cœur`
+  - `:cœur noir`
+  - `:noir`
+- 🖥
+  - `:moniteur`
+  - `:ordinateur`
+  - `:ordinateur de bureau`
+- 🖨
+  - `:imprimante`
+  - `:imprimer`
+  - `:ordinateur`
+- 🖱
+  - `:informatique`
+  - `:souris`
+  - `:souris d’ordinateur`
+- 🖲
+  - `:informatique`
+  - `:ordinateur`
+  - `:souris à boule`
+  - `:trackball`
+- 🖼
+  - `:art`
+  - `:cadre avec image`
+  - `:image`
+  - `:musée`
+  - `:peinture`
+  - `:tableau`
+  - `:tableau encadré`
+- 🗂
+  - `:classement`
+  - `:classeur`
+  - `:index`
+  - `:intercalaire`
+  - `:intercalaires`
+- 🗃
+  - `:boîte à dossiers`
+  - `:classeur`
+  - `:dossier`
+- 🗄
+  - `:classeur`
+  - `:dossier`
+  - `:meuble à dossiers`
+- 🗑
+  - `:corbeille`
+  - `:corbeille à papiers`
+  - `:poubelle`
+- 🗒
+  - `:bloc-notes à spirales`
+  - `:cahier`
+  - `:notes`
+- 🗓
+  - `:bloc-notes`
+  - `:calendrier`
+  - `:calendrier à spirales`
+- 🗜
+  - `:compresser`
+  - `:comprimer`
+  - `:outil`
+  - `:serre-joints`
+- 🗝
+  - `:clé`
+  - `:clé ancienne`
+  - `:fermer`
+  - `:indice`
+  - `:verrouiller`
+- 🗞
+  - `:actualités`
+  - `:journal`
+  - `:journal roulé`
+  - `:presse`
+- 🗡
+  - `:arme`
+  - `:couteau`
+  - `:dague`
+  - `:poignard`
+- 🗣
+  - `:parler`
+  - `:silhouette`
+  - `:tête qui parle`
+- 🗨
+  - `:bulle`
+  - `:bulle à gauche`
+  - `:dialogue`
+  - `:gauche`
+- 🗯
+  - `:BD`
+  - `:bande dessinée`
+  - `:bulle`
+  - `:bulle colère droite`
+  - `:colère`
+  - `:crier`
+  - `:droite`
+  - `:hurler`
+- 🗳
+  - `:a voté`
+  - `:bulletin de vote`
+  - `:urne`
+  - `:urne électorale`
+  - `:urne électorale avec un bulletin`
+  - `:voter`
+- 🗺
+  - `:carte`
+  - `:carte du monde`
+  - `:monde`
+  - `:planisphère`
+  - `:voyage`
+- 🗻
+  - `:mont Fuji`
+  - `:montagne`
+  - `:nature`
+  - `:sommet`
+  - `:voyage`
+- 🗼
+  - `:Japon`
+  - `:Tokyo`
+  - `:tour`
+  - `:tour de Tokyo`
+  - `:voyage`
+- 🗽
+  - `:New York`
+  - `:liberté`
+  - `:statue`
+  - `:statue de la liberté`
+  - `:voyage`
+- 🗾
+  - `:carte`
+  - `:carte du Japon`
+  - `:japon`
+  - `:voyage`
+- 🗿
+  - `:moai`
+  - `:moaï`
+  - `:monolithe`
+  - `:statue`
+  - `:voyage`
+  - `:île de Pâques`
+- 😀
+  - `:content`
+  - `:dents`
+  - `:grand sourire`
+  - `:heureux`
+  - `:joyeux`
+  - `:rire`
+  - `:sourire`
+  - `:super`
+  - `:visage`
+  - `:visage très souriant`
+  - `:émoticône`
+- 😁
+  - `:content`
+  - `:dents`
+  - `:grand sourire`
+  - `:heureux`
+  - `:sourire`
+  - `:sourire de toutes ses dents`
+  - `:super`
+  - `:visage`
+  - `:visage souriant avec yeux souriants`
+  - `:yeux souriants`
+  - `:émoticône`
+- 😂
+  - `:content`
+  - `:heureux`
+  - `:larmes`
+  - `:lol`
+  - `:mdr`
+  - `:pleurer de joie`
+  - `:pleurer de rire`
+  - `:rire aux larmes`
+  - `:sourire`
+  - `:visage riant aux larmes`
+  - `:émoticône`
+- 😃
+  - `:content`
+  - `:dents`
+  - `:formidable`
+  - `:grand sourire`
+  - `:heureux`
+  - `:sourire`
+  - `:sourire heureux`
+  - `:super`
+  - `:visage très souriant avec la bouche ouverte`
+  - `:émoticône`
+- 😄
+  - `:content`
+  - `:grand sourire`
+  - `:heureux`
+  - `:joyeux`
+  - `:lol`
+  - `:mdr`
+  - `:rire`
+  - `:sourire`
+  - `:sourire mignon`
+  - `:visage`
+  - `:visage avec la bouche ouverte et les yeux souriants`
+  - `:émoticône`
+- 😅
+  - `:excité`
+  - `:froid`
+  - `:goutte`
+  - `:sourire`
+  - `:sourire nerveux`
+  - `:stressé`
+  - `:sueur`
+  - `:sueurs froides`
+  - `:visage souriant avec une goutte de sueur`
+  - `:émoticône`
+- 😆
+  - `:bouche`
+  - `:content`
+  - `:lol`
+  - `:mdr`
+  - `:rire`
+  - `:sourire`
+  - `:visage`
+  - `:visage souriant avec bouche ouverte et yeux fermés`
+  - `:émoticône`
+- 😇
+  - `:Bible`
+  - `:ange`
+  - `:angélique`
+  - `:auréole`
+  - `:béni`
+  - `:heureux`
+  - `:innocent`
+  - `:paix`
+  - `:sourire`
+  - `:spirituel`
+  - `:visage`
+  - `:visage souriant avec une auréole`
+  - `:émoticône`
+- 😈
+  - `:cornes`
+  - `:fantastique`
+  - `:fâché`
+  - `:sourire`
+  - `:visage`
+  - `:visage souriant avec des cornes`
+  - `:émoticône`
+- 😉
+  - `:blague`
+  - `:clin d’œil`
+  - `:flirter`
+  - `:plaisanter`
+  - `:sexy`
+  - `:visage`
+  - `:visage faisant un clin d’œil`
+  - `:émoticône`
+- 😊
+  - `:content`
+  - `:heureux`
+  - `:rougir`
+  - `:satisfait`
+  - `:sourire`
+  - `:visage`
+  - `:visage qui rougit`
+  - `:visage souriant avec yeux souriants`
+  - `:yeux`
+  - `:émoticône`
+- 😋
+  - `:bon`
+  - `:content`
+  - `:délicieux`
+  - `:faim`
+  - `:heureux`
+  - `:langue`
+  - `:manger`
+  - `:miam`
+  - `:savourer`
+  - `:sourire`
+  - `:visage souriant qui tire la langue`
+  - `:émoticône`
+- 😌
+  - `:calme`
+  - `:soulagement`
+  - `:sérénité`
+  - `:visage`
+  - `:visage soulagé`
+  - `:zen`
+  - `:émoticône`
+- 😍
+  - `:amour`
+  - `:amoureux`
+  - `:cœur`
+  - `:romantique`
+  - `:sourire`
+  - `:visage`
+  - `:visage souriant avec yeux en forme de cœur`
+  - `:yeux`
+  - `:émoticône`
+  - `:œil`
+- 😎
+  - `:cool`
+  - `:lunettes de soleil`
+  - `:posé`
+  - `:tranquille`
+- 😏
+  - `:arrogant`
+  - `:charmeur`
+  - `:malin`
+  - `:ricaner`
+  - `:rusé`
+  - `:sourire`
+  - `:sourire malin`
+  - `:sourire suffisant`
+  - `:suspicieux`
+  - `:séducteur`
+  - `:visage avec un sourire suffisant`
+  - `:émoticône`
+- 😐
+  - `:gêné`
+  - `:neutre`
+  - `:ni chaud ni froid`
+  - `:pas drôle`
+  - `:peu importe`
+  - `:rester de marbre`
+  - `:sans commentaires`
+  - `:sans rire`
+  - `:visage sans expression`
+  - `:émoticône`
+- 😑
+  - `:inexpressif`
+  - `:mécontent`
+  - `:neutre`
+  - `:peu importe`
+  - `:sans expression`
+  - `:visage`
+  - `:visage sans expression`
+  - `:émoticône`
+- 😒
+  - `:bizarre`
+  - `:blasé`
+  - `:fâché`
+  - `:jaloux`
+  - `:pas content`
+  - `:peu importe`
+  - `:visage`
+  - `:visage blasé`
+  - `:visage qui s&#39;ennuie`
+  - `:émoticône`
+  - `:énervé`
+- 😓
+  - `:mal de tête`
+  - `:migraine`
+  - `:mince`
+  - `:ouf`
+  - `:peur`
+  - `:sueur`
+  - `:triste`
+  - `:visage`
+  - `:visage et sueurs froides`
+  - `:émoticône`
+- 😔
+  - `:abattu`
+  - `:déçu`
+  - `:horrible`
+  - `:mort`
+  - `:pensif`
+  - `:perdu`
+  - `:triste`
+  - `:visage`
+  - `:visage pensif`
+  - `:émoticône`
+- 😕
+  - `:confus`
+  - `:désolé`
+  - `:ennuyé`
+  - `:je ne sais pas`
+  - `:triste`
+  - `:visage`
+  - `:visage confus`
+  - `:émoticône`
+- 😖
+  - `:confus`
+  - `:déconcerté`
+  - `:frustré`
+  - `:fâché`
+  - `:irrité`
+  - `:triste`
+  - `:visage`
+  - `:visage déconcerté`
+  - `:yeux fermés`
+  - `:émoticône`
+- 😗
+  - `:amour`
+  - `:baiser`
+  - `:bise`
+  - `:bisou`
+  - `:embrasser`
+  - `:je t&#39;aime`
+  - `:petit bisou`
+  - `:visage qui fait une bise`
+  - `:émoticône`
+- 😘
+  - `:amour`
+  - `:baiser`
+  - `:bise`
+  - `:bisou`
+  - `:bisou et cœur`
+  - `:bonjour`
+  - `:bonne nuit`
+  - `:cœur`
+  - `:embrasser`
+  - `:je t&#39;aime`
+  - `:visage qui fait une bise avec un cœur`
+  - `:émoticône`
+- 😙
+  - `:amour`
+  - `:baiser`
+  - `:bise`
+  - `:bisou`
+  - `:embrasser`
+  - `:gros bisou`
+  - `:je t&#39;aime`
+  - `:sourire`
+  - `:visage aux yeux souriants qui fait une bise`
+  - `:yeux fermés`
+  - `:émoticône`
+- 😚
+  - `:baiser`
+  - `:bise`
+  - `:bisou`
+  - `:bisou les yeux fermés`
+  - `:embrasser`
+  - `:rougir`
+  - `:visage qui fait une bise avec les yeux fermés`
+  - `:visage rougissant`
+  - `:yeux fermés`
+  - `:émoticône`
+- 😛
+  - `:cool`
+  - `:génial`
+  - `:langue`
+  - `:super`
+  - `:visage`
+  - `:visage qui tire la langue`
+  - `:émoticône`
+- 😜
+  - `:amusant`
+  - `:blague`
+  - `:clin d’œil`
+  - `:fou`
+  - `:langue`
+  - `:loufoque`
+  - `:marrant`
+  - `:rigolo`
+  - `:visage`
+  - `:visage qui tire la langue et fait un clin d’œil`
+  - `:émoticône`
+  - `:œil`
+- 😝
+  - `:dégoûtant`
+  - `:horrible`
+  - `:langue`
+  - `:omd`
+  - `:on ne vit qu’une fois`
+  - `:peu importe`
+  - `:visage`
+  - `:visage qui tire la langue et ferme les yeux`
+  - `:yeux fermés`
+  - `:émoticône`
+- 😞
+  - `:abattu`
+  - `:affreux`
+  - `:découragé`
+  - `:déçu`
+  - `:malheureux`
+  - `:tort`
+  - `:triste`
+  - `:visage`
+  - `:visage déçu`
+  - `:émoticône`
+- 😟
+  - `:anxieux`
+  - `:inquiet`
+  - `:préoccupé`
+  - `:stressé`
+  - `:surpris`
+  - `:triste`
+  - `:visage`
+  - `:visage inquiet`
+  - `:émoticône`
+- 😠
+  - `:colère`
+  - `:exaspéré`
+  - `:frustré`
+  - `:fâché`
+  - `:mécontent`
+  - `:rageur`
+  - `:sourcils froncés`
+  - `:visage en colère`
+  - `:émoticône`
+- 😡
+  - `:colère`
+  - `:exaspéré`
+  - `:furieux`
+  - `:fâché`
+  - `:mécontent`
+  - `:rageur`
+  - `:rouge`
+  - `:rouge de colère`
+  - `:sourcils froncés`
+  - `:visage`
+  - `:visage énervé`
+  - `:émoticône`
+  - `:énervé`
+- 😢
+  - `:horrible`
+  - `:larme`
+  - `:malheureux`
+  - `:pleurer`
+  - `:triste`
+  - `:visage qui pleure`
+  - `:émoticône`
+- 😣
+  - `:concentré`
+  - `:mal de tête`
+  - `:migraine`
+  - `:persévérant`
+  - `:visage`
+  - `:visage persévérant`
+  - `:émoticône`
+- 😤
+  - `:colère`
+  - `:fâché`
+  - `:mécontent`
+  - `:visage`
+  - `:visage avec fumée sortant des narines`
+  - `:émoticône`
+  - `:énervé`
+- 😥
+  - `:déçu`
+  - `:ouf`
+  - `:pfiou`
+  - `:soulagé`
+  - `:sueur`
+  - `:triste`
+  - `:visage déçu mais soulagé`
+  - `:émoticône`
+- 😦
+  - `:bouche ouverte`
+  - `:déçu`
+  - `:effrayé`
+  - `:peur`
+  - `:pris au dépourvu`
+  - `:surpris`
+  - `:visage`
+  - `:visage déçu avec bouche ouverte`
+  - `:émoticône`
+- 😧
+  - `:angoisse`
+  - `:comment`
+  - `:hein`
+  - `:mécontent`
+  - `:oubli`
+  - `:peur`
+  - `:quoi`
+  - `:stressé`
+  - `:surpris`
+  - `:terrifié`
+  - `:visage`
+  - `:visage angoissé`
+  - `:émoticône`
+- 😨
+  - `:anxieux`
+  - `:apeuré`
+  - `:blême`
+  - `:effrayé`
+  - `:inquiet`
+  - `:peur`
+  - `:terrifié`
+  - `:visage`
+  - `:visage effrayé`
+  - `:émoticône`
+- 😩
+  - `:faim`
+  - `:fatigué`
+  - `:mécontent`
+  - `:non`
+  - `:pleurer`
+  - `:sommeil`
+  - `:triste`
+  - `:visage`
+  - `:visage las`
+  - `:visage épuisé`
+  - `:échec`
+  - `:émoticône`
+  - `:épuisé`
+- 😪
+  - `:fatigué`
+  - `:larme`
+  - `:pleurer`
+  - `:sommeil`
+  - `:triste`
+  - `:visage`
+  - `:visage endormi`
+  - `:émoticône`
+- 😫
+  - `:contrarié`
+  - `:fatigue`
+  - `:mécontent`
+  - `:triste`
+  - `:visage`
+  - `:visage fatigué`
+  - `:émoticône`
+- 😬
+  - `:dents`
+  - `:grimace`
+  - `:gêné`
+  - `:rien`
+  - `:sourire`
+  - `:visage`
+  - `:visage grimaçant`
+  - `:émoticône`
+- 😭
+  - `:larmes`
+  - `:malheureux`
+  - `:pleurer`
+  - `:pleurs`
+  - `:sangloter`
+  - `:triste`
+  - `:visage`
+  - `:visage qui pleure à chaudes larmes`
+  - `:émoticône`
+- 😮
+  - `:bouche bée`
+  - `:bouche ouverte`
+  - `:choqué`
+  - `:incroyable`
+  - `:omd`
+  - `:oubli`
+  - `:surpris`
+  - `:visage avec la bouche ouverte`
+  - `:visage étonné`
+  - `:émoticône`
+  - `:épaté`
+- 😯
+  - `:incroyable`
+  - `:omd`
+  - `:sans voix`
+  - `:stupeur`
+  - `:stupéfait`
+  - `:surpris`
+  - `:visage`
+  - `:visage sans voix`
+  - `:visage à la bouche ouverte`
+  - `:émoticône`
+- 😰
+  - `:aah`
+  - `:bleu`
+  - `:bouche`
+  - `:bouche bée`
+  - `:effrayé`
+  - `:froid`
+  - `:mince`
+  - `:nerveux`
+  - `:peur`
+  - `:peur bleue`
+  - `:sueur`
+  - `:sueurs froides`
+  - `:terrifié`
+  - `:visage`
+  - `:visage en sueur bouche ouverte`
+  - `:émoticône`
+- 😱
+  - `:Munch`
+  - `:choqué`
+  - `:cri`
+  - `:effrayé`
+  - `:omd`
+  - `:peur`
+  - `:surpris`
+  - `:terreur`
+  - `:visage`
+  - `:visage qui hurle de peur`
+- 😲
+  - `:choc`
+  - `:choqué`
+  - `:impossible`
+  - `:incroyable`
+  - `:omd`
+  - `:stupéfait`
+  - `:visage`
+  - `:visage stupéfait`
+  - `:émoticône`
+  - `:étonné`
+- 😳
+  - `:chaud`
+  - `:comment`
+  - `:gêné`
+  - `:hébété`
+  - `:impressionné`
+  - `:incroyable`
+  - `:incrédule`
+  - `:quoi`
+  - `:rouge`
+  - `:rougissant`
+  - `:stupéfait`
+  - `:visage`
+  - `:visage qui rougit`
+  - `:ébahi`
+  - `:émoticône`
+  - `:étonné`
+- 😴
+  - `:bonne nuit`
+  - `:coucher`
+  - `:dormir`
+  - `:endormi`
+  - `:fatigué`
+  - `:lit`
+  - `:sieste`
+  - `:sommeil`
+  - `:somnolent`
+  - `:visage`
+  - `:visage somnolent`
+  - `:zzz`
+  - `:émoticône`
+- 😵
+  - `:fatigué`
+  - `:malade`
+  - `:mort`
+  - `:tournis`
+  - `:visage`
+  - `:visage avec le tournis`
+  - `:émoticône`
+- 😶
+  - `:muet`
+  - `:ne rien dire`
+  - `:neutre`
+  - `:sans commentaires`
+  - `:sans expression`
+  - `:sans voix`
+  - `:se taire`
+  - `:secret`
+  - `:silence`
+  - `:sourdine`
+  - `:visage`
+  - `:visage sans bouche`
+  - `:émoticône`
+- 😷
+  - `:bactéries`
+  - `:dentiste`
+  - `:docteur`
+  - `:germes`
+  - `:malade`
+  - `:masque`
+  - `:masque chirurgical`
+  - `:médecin`
+  - `:rhume`
+  - `:visage avec masque`
+  - `:émoticône`
+- 😸
+  - `:animal`
+  - `:chat`
+  - `:chat avec un grand sourire`
+  - `:sourire`
+  - `:yeux souriants`
+- 😹
+  - `:animal`
+  - `:chat`
+  - `:chat qui rit aux larmes`
+  - `:larmes`
+  - `:lol`
+  - `:mdr`
+  - `:pleurer de rire`
+  - `:rire`
+  - `:rire aux larmes`
+  - `:tête de chat`
+  - `:visage`
+- 😺
+  - `:animal`
+  - `:bouche ouverte`
+  - `:chat`
+  - `:chat qui sourit`
+  - `:sourire`
+- 😻
+  - `:amour`
+  - `:amoureuse`
+  - `:amoureux`
+  - `:chat`
+  - `:chat amoureux`
+  - `:chat souriant avec des coeurs dans les yeux`
+  - `:coeurs`
+  - `:coeurs dans les yeux`
+  - `:sourire`
+  - `:visage`
+  - `:yeux`
+- 😼
+  - `:animal`
+  - `:chat`
+  - `:chat ironique`
+  - `:ironique`
+  - `:narquois`
+  - `:sourire narquois`
+  - `:tête de chat`
+  - `:visage`
+- 😽
+  - `:animal`
+  - `:baiser`
+  - `:bise`
+  - `:bisou`
+  - `:chat`
+  - `:chat qui embrasse`
+  - `:chat qui fait une bise avec les yeux fermés`
+  - `:embrasser`
+  - `:tête de chat`
+  - `:visage`
+- 😾
+  - `:animal`
+  - `:chat`
+  - `:chat en colère`
+  - `:colère`
+  - `:tête de chat`
+  - `:visage`
+- 😿
+  - `:animal`
+  - `:chat`
+  - `:chat qui pleure`
+  - `:larme`
+  - `:pleurer`
+  - `:triste`
+  - `:tête de chat`
+  - `:visage`
+- 🙀
+  - `:animal`
+  - `:chat`
+  - `:chat inquiet`
+  - `:inquiet`
+  - `:oh`
+  - `:surpris`
+  - `:tête de chat avec la bouche ouverte`
+  - `:visage`
+- 🙁
+  - `:mécontent`
+  - `:triste`
+  - `:visage`
+  - `:visage légèrement mécontent`
+  - `:émoticône`
+- 🙂
+  - `:content`
+  - `:heureux`
+  - `:léger sourire`
+  - `:sourire`
+  - `:visage souriant`
+  - `:émoticône`
+- 🙃
+  - `:incroyable`
+  - `:tête renversée`
+  - `:tête à l’envers`
+  - `:visage`
+  - `:émoticône`
+- 🙄
+  - `:excédé`
+  - `:incrédulité`
+  - `:lever les yeux au ciel`
+  - `:visage qui lève les yeux au ciel`
+  - `:yeux`
+  - `:émoticône`
+- 🙅
+  - `:bras croisés`
+  - `:femme`
+  - `:femme aux bras croisés`
+  - `:geste`
+  - `:geste d’interdiction`
+  - `:interdit`
+  - `:non`
+  - `:personne aux bras croisés`
+- 🙅‍♂
+  - `:geste`
+  - `:homme`
+  - `:homme faisant un geste d’interdiction`
+  - `:interdit`
+  - `:main`
+  - `:non`
+- 🙆
+  - `:OK`
+  - `:d&#39;accord`
+  - `:exercice`
+  - `:femme`
+  - `:femme faisant un geste d&#39;accord`
+  - `:geste`
+  - `:geste d’accord`
+  - `:omd`
+  - `:personne faisant un geste d&#39;accord`
+- 🙆‍♂
+  - `:d’accord`
+  - `:geste`
+  - `:geste d’accord`
+  - `:homme`
+  - `:homme faisant un geste d’accord`
+  - `:main`
+  - `:ok`
+- 🙇
+  - `:désolé`
+  - `:excuses`
+  - `:geste`
+  - `:homme incliné`
+  - `:incliné`
+  - `:méditation`
+  - `:méditer`
+  - `:personne inclinée`
+- 🙇‍♀
+  - `:désolée`
+  - `:excuses`
+  - `:femme`
+  - `:femme qui se prosterne`
+  - `:geste`
+  - `:inclinée`
+  - `:méditation`
+  - `:méditer`
+- 🙈
+  - `:animal`
+  - `:aveugle`
+  - `:caché`
+  - `:effrayé`
+  - `:embarras`
+  - `:geste`
+  - `:gêne`
+  - `:interdit`
+  - `:ne pas voir`
+  - `:non`
+  - `:omd`
+  - `:oubli`
+  - `:peur`
+  - `:rien vu rien entendu`
+  - `:secret`
+  - `:singe`
+  - `:singe aveugle`
+  - `:terrifié`
+  - `:visage`
+  - `:voir`
+  - `:yeux`
+- 🙉
+  - `:animal`
+  - `:geste`
+  - `:interdit`
+  - `:ne pas entendre`
+  - `:non`
+  - `:oreilles`
+  - `:rien vu rien entendu`
+  - `:secret`
+  - `:singe`
+  - `:singe sourd`
+  - `:sourd`
+  - `:visage`
+  - `:écouter`
+- 🙊
+  - `:animal`
+  - `:bouche cousue`
+  - `:chut`
+  - `:geste`
+  - `:interdit`
+  - `:motus`
+  - `:muet`
+  - `:non`
+  - `:parler`
+  - `:se taire`
+  - `:secret`
+  - `:silence`
+  - `:singe`
+  - `:singe muet`
+  - `:visage`
+- 🙋
+  - `:femme qui lève la main`
+  - `:geste`
+  - `:je sais`
+  - `:main levée`
+  - `:moi`
+  - `:personne qui lève la main`
+  - `:question`
+- 🙋‍♂
+  - `:geste`
+  - `:homme`
+  - `:homme qui lève la main`
+  - `:je sais`
+  - `:main`
+  - `:main levée`
+  - `:moi`
+  - `:personne qui lève la main`
+  - `:répondre`
+- 🙌
+  - `:geste`
+  - `:hourra`
+  - `:mains`
+  - `:mains en l&#39;air`
+  - `:mains levées`
+  - `:youpi`
+- 🙍
+  - `:femme`
+  - `:femme étonnée`
+  - `:fâchée`
+  - `:geste`
+  - `:mécontente`
+  - `:personne étonnée`
+  - `:sourcils froncés`
+- 🙍‍♂
+  - `:froncement`
+  - `:geste`
+  - `:homme`
+  - `:homme mécontent`
+  - `:homme renfrogné`
+- 🙎
+  - `:bouder`
+  - `:faire la moue`
+  - `:femme qui boude`
+  - `:geste`
+  - `:moue`
+  - `:personne qui boude`
+- 🙎‍♂
+  - `:bouder`
+  - `:faire la moue`
+  - `:geste`
+  - `:homme`
+  - `:homme qui boude`
+  - `:moue`
+- 🙏
+  - `:demander`
+  - `:félicitations`
+  - `:mains`
+  - `:mains en prière`
+  - `:mains l&#39;une contre l&#39;autre`
+  - `:merci`
+  - `:prier`
+  - `:s&#39;il te plaît`
+  - `:s&#39;il vous plaît`
+  - `:salut`
+  - `:se taper dans la main`
+  - `:tope là`
+- 🚀
+  - `:décollage`
+  - `:espace`
+  - `:fusée`
+  - `:moyen de transport`
+  - `:voyage`
+- 🚁
+  - `:hélico`
+  - `:hélicoptère`
+  - `:moyen de transport`
+  - `:véhicule`
+- 🚂
+  - `:chemin de fer`
+  - `:locomotive`
+  - `:machine à vapeur`
+  - `:moyen de transport`
+  - `:rail`
+  - `:tchou tchou`
+  - `:train`
+  - `:vapeur`
+  - `:voyage`
+- 🚃
+  - `:moyen de transport`
+  - `:rail`
+  - `:train`
+  - `:tram`
+  - `:tramway`
+  - `:voyage`
+  - `:wagon`
+- 🚄
+  - `:TGV`
+  - `:chemin de fer`
+  - `:moyen de transport`
+  - `:rail`
+  - `:rapide`
+  - `:train`
+  - `:train à grande vitesse`
+  - `:vitesse`
+  - `:voyage`
+- 🚅
+  - `:TGV`
+  - `:chemin de fer`
+  - `:moyen de transport`
+  - `:rail`
+  - `:rapide`
+  - `:train`
+  - `:train à grande vitesse`
+  - `:voyage`
+- 🚆
+  - `:arrivée`
+  - `:chemin de fer`
+  - `:moyen de transport`
+  - `:rail`
+  - `:train`
+  - `:voyage`
+- 🚇
+  - `:moyen de transport`
+  - `:métro`
+- 🚈
+  - `:RER`
+  - `:monorail`
+  - `:moyen de transport`
+  - `:métro`
+  - `:métro léger`
+  - `:rail`
+- 🚉
+  - `:RER`
+  - `:chemin de fer`
+  - `:gare`
+  - `:moyen de transport`
+  - `:rail`
+  - `:train`
+- 🚊
+  - `:RER`
+  - `:moyen de transport`
+  - `:tram`
+  - `:tramway`
+- 🚋
+  - `:moyen de transport`
+  - `:tram`
+  - `:trolleybus`
+  - `:voyage`
+  - `:wagon de tramway`
+- 🚌
+  - `:bus`
+  - `:moyen de transport`
+  - `:véhicule`
+  - `:école`
+- 🚍
+  - `:bus`
+  - `:bus de face`
+  - `:bus qui arrive`
+  - `:car`
+  - `:moyen de transport`
+- 🚎
+  - `:bus`
+  - `:moyen de transport`
+  - `:tram`
+  - `:tramway`
+  - `:trolley`
+  - `:trolleybus`
+- 🚏
+  - `:arrêt de bus`
+  - `:bus`
+- 🚐
+  - `:bus`
+  - `:minibus`
+  - `:moyen de transport`
+  - `:navette`
+  - `:véhicule`
+- 🚑
+  - `:ambulance`
+  - `:urgences`
+  - `:véhicule`
+- 🚒
+  - `:camion de pompier`
+  - `:pin-pon`
+  - `:pompier`
+- 🚓
+  - `:flic`
+  - `:patrouille`
+  - `:police`
+  - `:voiture de police`
+  - `:véhicule`
+- 🚔
+  - `:police`
+  - `:voiture de police de face`
+  - `:voiture de police qui arrive`
+  - `:véhicule`
+- 🚕
+  - `:moyen de transport`
+  - `:taxi`
+  - `:taxi jaune`
+  - `:uber`
+  - `:véhicule`
+- 🚖
+  - `:joe le taxi`
+  - `:new york`
+  - `:taxi`
+  - `:taxi de face`
+  - `:taxi jaune`
+  - `:uber`
+  - `:voiture`
+- 🚗
+  - `:automobile`
+  - `:conduire`
+  - `:moyen de transport`
+  - `:voiture`
+  - `:voyage`
+  - `:véhicule`
+- 🚘
+  - `:automobile`
+  - `:conduire`
+  - `:moyen de transport`
+  - `:voiture`
+  - `:voiture de face`
+  - `:voiture qui arrive`
+  - `:voyage`
+  - `:véhicule`
+- 🚙
+  - `:automobile`
+  - `:conduire`
+  - `:loisirs`
+  - `:moyen de transport`
+  - `:voiture`
+  - `:voyage`
+  - `:véhicule de loisirs`
+- 🚚
+  - `:camion`
+  - `:camion de livraison`
+  - `:camionnette`
+  - `:moyen de transport`
+  - `:véhicule`
+- 🚛
+  - `:camion`
+  - `:moyen de transport`
+  - `:poids lourd`
+  - `:semi`
+  - `:semi-remorque`
+  - `:véhicule`
+- 🚜
+  - `:moyen de transport`
+  - `:tracteur`
+  - `:véhicule`
+- 🚝
+  - `:monorail`
+  - `:moyen de transport`
+  - `:véhicule`
+- 🚞
+  - `:chemin de fer`
+  - `:moyen de transport`
+  - `:rail`
+  - `:train`
+  - `:train de montagne`
+  - `:voyage`
+  - `:wagon`
+- 🚟
+  - `:moyen de transport`
+  - `:train`
+  - `:train suspendu`
+  - `:voyage`
+- 🚠
+  - `:montagne`
+  - `:moyen de transport`
+  - `:ski`
+  - `:téléphérique`
+- 🚡
+  - `:moyen de transport`
+  - `:tramway`
+  - `:tramway aérien`
+- 🚢
+  - `:Titanic`
+  - `:bateau`
+  - `:croisière`
+  - `:moyen de transport`
+  - `:navire`
+  - `:paquebot`
+  - `:voyage`
+- 🚣
+  - `:barque`
+  - `:bateau`
+  - `:homme`
+  - `:lac`
+  - `:navigation`
+  - `:plaisance`
+  - `:pêche`
+  - `:ramer`
+  - `:rameur`
+  - `:rameur dans une barque`
+  - `:rivière`
+- 🚣‍♀
+  - `:barque`
+  - `:bateau`
+  - `:femme`
+  - `:lac`
+  - `:navigation`
+  - `:plaisance`
+  - `:pêche`
+  - `:ramer`
+  - `:rameuse dans une barque`
+  - `:rivière`
+  - `:sport`
+- 🚤
+  - `:bateau`
+  - `:hors-bord`
+  - `:luxe`
+  - `:moyen de transport`
+  - `:vedette`
+  - `:voyage`
+  - `:été`
+- 🚥
+  - `:carrefour`
+  - `:croisement`
+  - `:feu`
+  - `:feu de circulation`
+  - `:feu tricolore horizontal`
+  - `:tricolore`
+- 🚦
+  - `:carrefour`
+  - `:croisement`
+  - `:feu`
+  - `:feu de circulation`
+  - `:feu tricolore vertical`
+  - `:tricolore`
+- 🚧
+  - `:barrière`
+  - `:travaux`
+- 🚨
+  - `:alarme`
+  - `:alerte`
+  - `:gyrophare`
+  - `:lumière`
+  - `:police`
+  - `:sirène`
+  - `:urgences`
+  - `:voiture`
+- 🚩
+  - `:drapeau`
+  - `:drapeau rouge`
+  - `:drapeau triangulaire`
+  - `:golf`
+- 🚪
+  - `:placard`
+  - `:porte`
+  - `:porte d&#39;entrée`
+- 🚫
+  - `:entrée interdite`
+  - `:interdiction`
+  - `:interdit`
+- 🚬
+  - `:cigarette`
+  - `:cigarette allumée`
+  - `:fumer`
+  - `:fumeur`
+  - `:signe Fumeur`
+- 🚭
+  - `:cigarette barrée`
+  - `:fumer`
+  - `:interdiction`
+  - `:interdit de fumer`
+- 🚮
+  - `:corbeille`
+  - `:déchets`
+  - `:icône Poubelle`
+  - `:jeter`
+  - `:poubelle`
+- 🚯
+  - `:déchets`
+  - `:dépôt d’ordures interdit`
+  - `:interdiction`
+  - `:ne pas jeter`
+- 🚰
+  - `:eau`
+  - `:eau du robinet`
+  - `:eau potable`
+  - `:robinet`
+- 🚱
+  - `:eau`
+  - `:eau non potable`
+  - `:imbuvable`
+  - `:interdiction`
+  - `:interdit`
+  - `:ne pas boire`
+- 🚲
+  - `:bicyclette`
+  - `:cyclisme`
+  - `:moyen de transport`
+  - `:voyage`
+  - `:vélo`
+- 🚳
+  - `:bicyclette`
+  - `:interdiction`
+  - `:vélo`
+  - `:vélo interdit`
+- 🚴
+  - `:cyclisme`
+  - `:cycliste`
+  - `:cycliste homme`
+  - `:homme`
+  - `:sport`
+  - `:vélo`
+- 🚴‍♀
+  - `:cyclisme`
+  - `:cycliste`
+  - `:cycliste femme`
+  - `:femme`
+  - `:sport`
+  - `:vélo`
+- 🚵
+  - `:VTT`
+  - `:VTTiste`
+  - `:cyclisme`
+  - `:cycliste`
+  - `:homme en VTT`
+  - `:montagne`
+  - `:sport`
+  - `:vélo`
+- 🚵‍♀
+  - `:VTT`
+  - `:VTTiste`
+  - `:cycliste`
+  - `:femme`
+  - `:femme en VTT`
+  - `:montagne`
+  - `:sport`
+  - `:vélo`
+- 🚶
+  - `:balade`
+  - `:flâner`
+  - `:homme qui marche`
+  - `:marcher`
+  - `:personne qui marche`
+  - `:piéton`
+  - `:promenade`
+  - `:randonnée`
+- 🚶‍♀
+  - `:femme`
+  - `:marche`
+  - `:marcher`
+  - `:piétonne`
+  - `:randonneuse`
+- 🚷
+  - `:interdiction`
+  - `:interdit aux piétons`
+- 🚸
+  - `:circulation`
+  - `:enfants`
+  - `:piétons`
+  - `:traversée d’enfants`
+  - `:école`
+- 🚹
+  - `:WC`
+  - `:homme`
+  - `:symbole Homme`
+  - `:toilettes`
+- 🚺
+  - `:WC`
+  - `:femme`
+  - `:symbole Femme`
+  - `:toilettes`
+- 🚻
+  - `:WC`
+  - `:panneau Toilettes`
+  - `:toilettes`
+- 🚼
+  - `:bébé`
+  - `:espace de change`
+  - `:symbole Bébé`
+- 🚽
+  - `:WC`
+  - `:cabinets`
+  - `:toilettes`
+- 🚾
+  - `:WC`
+  - `:toilettes`
+- 🚿
+  - `:douche`
+  - `:eau`
+  - `:pommeau de douche`
+- 🛀
+  - `:baignoire`
+  - `:bain`
+  - `:personne qui prend un bain`
+- 🛁
+  - `:baignoire`
+  - `:bain`
+  - `:mousse`
+- 🛂
+  - `:contrôle des passeports`
+  - `:passeport`
+- 🛃
+  - `:douanes`
+- 🛄
+  - `:arrivée`
+  - `:avion`
+  - `:aéroport`
+  - `:bagages`
+  - `:retrait des bagages`
+  - `:valise`
+  - `:voyage`
+- 🛅
+  - `:bagages`
+  - `:casier`
+  - `:clé`
+  - `:consigne`
+  - `:valise`
+- 🛋
+  - `:canapé`
+  - `:canapé avec une lampe`
+  - `:lampe`
+- 🛌
+  - `:dormir`
+  - `:hôtel`
+  - `:lit`
+  - `:personne au lit`
+- 🛍
+  - `:achats`
+  - `:courses`
+  - `:sacs`
+  - `:sacs de shopping`
+  - `:shopping`
+- 🛎
+  - `:cloche`
+  - `:cloche de comptoir`
+  - `:clochette`
+  - `:hôtel`
+  - `:réception`
+  - `:sonnette`
+- 🛏
+  - `:dormir`
+  - `:hôtel`
+  - `:lit`
+- 🛐
+  - `:culte`
+  - `:lieu de culte`
+  - `:prier`
+  - `:religion`
+- 🛑
+  - `:octogonal`
+  - `:panneau`
+  - `:stop`
+- 🛒
+  - `:caddie`
+  - `:chariot`
+  - `:courses`
+  - `:supermarché`
+- 🛠
+  - `:clé`
+  - `:clé à molette`
+  - `:marteau`
+  - `:marteau et clé à molette`
+  - `:outils`
+- 🛡
+  - `:arme`
+  - `:bouclier`
+- 🛢
+  - `:baril`
+  - `:baril de pétrole`
+  - `:pétrole`
+- 🛣
+  - `:autoroute`
+  - `:route`
+  - `:voyage`
+- 🛤
+  - `:chemin de fer`
+  - `:rail`
+  - `:train`
+  - `:voie ferrée`
+  - `:voyage`
+- 🛥
+  - `:bateau`
+  - `:bateau à moteur`
+- 🛩
+  - `:avion`
+  - `:moyen de transport`
+  - `:petit avion`
+  - `:voyage`
+- 🛫
+  - `:avion`
+  - `:avion au décollage`
+  - `:décollage`
+  - `:départ`
+  - `:moyen de transport`
+  - `:voyage`
+- 🛬
+  - `:arrivée`
+  - `:atterrissage`
+  - `:avion`
+  - `:avion à l&#39;atterrissage`
+  - `:moyen de transport`
+  - `:voyage`
+- 🛰
+  - `:espace`
+  - `:satellite`
+- 🛳
+  - `:bateau`
+  - `:croisière`
+  - `:paquebot`
+  - `:voyage`
+- 🛴
+  - `:trottinette`
+- 🛵
+  - `:scooter`
+- 🛶
+  - `:bateau`
+  - `:canoë`
+  - `:rame`
+  - `:ramer`
+- 🛷
+  - `:glisser`
+  - `:luge`
+  - `:neige`
+  - `:traîneau`
+- 🛸
+  - `:alien`
+  - `:extraterrestre`
+  - `:ovni`
+  - `:soucoupe volante`
+- 🛹
+  - `:longboard`
+  - `:planche à roulettes`
+  - `:skate`
+  - `:skateboard`
+- 🤐
+  - `:bouche`
+  - `:bouche cousue`
+  - `:fermeture éclair`
+  - `:motus`
+  - `:se taire`
+  - `:secret`
+  - `:visage`
+  - `:visage avec bouche cousue`
+  - `:émoticône`
+- 🤑
+  - `:argent`
+  - `:argent dans les yeux et la bouche`
+  - `:bouche`
+  - `:dollars`
+  - `:yeux`
+  - `:émoticône`
+- 🤒
+  - `:indisposé`
+  - `:malade`
+  - `:thermomètre`
+  - `:visage`
+  - `:visage avec thermomètre`
+- 🤓
+  - `:geek`
+  - `:lunettes`
+  - `:visage`
+  - `:visage de geek`
+  - `:visage à lunettes`
+  - `:émoticône`
+- 🤔
+  - `:hum`
+  - `:méditer`
+  - `:penser`
+  - `:réflexion`
+  - `:réfléchir`
+  - `:visage`
+  - `:visage en pleine réflexion`
+  - `:émoticône`
+- 🤕
+  - `:aïe`
+  - `:bandage`
+  - `:blessure`
+  - `:bobo`
+  - `:pansement`
+  - `:tête avec un bandage`
+  - `:visage`
+  - `:émoticône`
+- 🤖
+  - `:monstre`
+  - `:robot`
+  - `:visage`
+  - `:visage de robot`
+- 🤗
+  - `:câlin`
+  - `:gentil`
+  - `:mains`
+  - `:visage`
+  - `:visage qui fait un câlin`
+  - `:émoticône`
+- 🤘
+  - `:cornes`
+  - `:cornes avec les doigts`
+  - `:doigts`
+  - `:main`
+  - `:rock&#39;n roll`
+- 🤙
+  - `:appel`
+  - `:main`
+  - `:signe`
+  - `:téléphone`
+- 🤚
+  - `:main`
+  - `:main levée`
+- 🤛
+  - `:fistbump`
+  - `:gauche`
+  - `:poing`
+  - `:poing à gauche`
+- 🤜
+  - `:droite`
+  - `:main`
+  - `:poing`
+  - `:poing à droite`
+- 🤝
+  - `:d&#39;accord`
+  - `:main`
+  - `:marché conclu`
+  - `:poignée`
+  - `:poignée de main`
+  - `:présentation`
+  - `:rencontre`
+  - `:serrer la main`
+- 🤞
+  - `:bonne chance`
+  - `:chance`
+  - `:croisés`
+  - `:doigts`
+  - `:doigts croisés`
+  - `:main`
+- 🤟
+  - `:ILY`
+  - `:geste pour je t&#39;aime`
+  - `:je t&#39;aime`
+  - `:trois doigts`
+- 🤠
+  - `:chapeau`
+  - `:cowboy`
+  - `:visage`
+- 🤡
+  - `:clown`
+  - `:maquillage`
+  - `:visage`
+  - `:émoticône`
+- 🤢
+  - `:dégoûtant`
+  - `:malade`
+  - `:nausée`
+  - `:visage`
+  - `:visage vert qui a la nausée`
+  - `:vomir`
+  - `:écœuré`
+  - `:émoticône`
+- 🤣
+  - `:content`
+  - `:drôle`
+  - `:hilare`
+  - `:joyeux`
+  - `:larmes`
+  - `:lol`
+  - `:mdr`
+  - `:pleurer`
+  - `:pleurer de rire`
+  - `:rire`
+  - `:rire aux larmes`
+  - `:se rouler par terre`
+  - `:se rouler par terre de rire`
+  - `:visage`
+  - `:visage qui rit aux larmes`
+  - `:émoticône`
+- 🤤
+  - `:baver`
+  - `:délicieux`
+  - `:mmh`
+  - `:visage`
+  - `:visage qui bave`
+  - `:émoticône`
+- 🤥
+  - `:mensonge`
+  - `:menteur`
+  - `:pinocchio`
+  - `:visage`
+  - `:visage dont le nez s&#39;allonge`
+  - `:émoticône`
+- 🤦‍♀
+  - `:exaspération`
+  - `:femme`
+  - `:femme avec paume sur le visage`
+  - `:incrédulité`
+  - `:paume`
+- 🤦‍♂
+  - `:exaspération`
+  - `:homme`
+  - `:homme avec paume sur le visage`
+  - `:incrédulité`
+  - `:paume`
+- 🤧
+  - `:atchoum`
+  - `:fièvre`
+  - `:grippe`
+  - `:malade`
+  - `:mouchoir`
+  - `:rhume`
+  - `:se moucher`
+  - `:visage`
+  - `:visage qui éternue`
+  - `:à tes souhaits`
+  - `:émoticône`
+  - `:éternuer`
+- 🤨
+  - `:euh`
+  - `:hein`
+  - `:incrédule`
+  - `:pas vrai`
+  - `:quoi`
+  - `:sceptique`
+  - `:surprise`
+  - `:tête avec sourcil levé`
+- 🤩
+  - `:heureux`
+  - `:pressé`
+  - `:surexcité`
+  - `:tête avec étoiles`
+  - `:wow`
+  - `:étoiles dans les yeux`
+- 🤪
+  - `:large`
+  - `:oeil`
+  - `:petit`
+  - `:tête folle`
+  - `:yeux`
+  - `:yeux fous`
+- 🤫
+  - `:chut`
+  - `:pas un bruit`
+  - `:silence`
+  - `:tête qui dit chut`
+- 🤬
+  - `:censuré`
+  - `:colère`
+  - `:gros mots`
+  - `:insulter`
+  - `:insultes`
+  - `:jurer`
+  - `:tête avec des symboles sur la bouche`
+- 🤭
+  - `:malin`
+  - `:oops`
+  - `:oups`
+  - `:rigole`
+  - `:secret`
+  - `:surprise`
+  - `:visage avec main devant la bouche`
+- 🤮
+  - `:malade`
+  - `:tête qui vomit`
+  - `:vomi`
+- 🤯
+  - `:choc`
+  - `:choqué`
+  - `:surpris`
+  - `:surprise`
+  - `:tête choquée`
+- 🤰
+  - `:enceinte`
+  - `:femme`
+  - `:femme enceinte`
+- 🤱
+  - `:bébé`
+  - `:maman`
+  - `:nourrice`
+  - `:nourrir le bébé`
+- 🤲
+  - `:espérer`
+  - `:paumes des mains ensemble`
+  - `:prier`
+  - `:prière`
+- 🤳
+  - `:appareil photo`
+  - `:photo`
+  - `:selfie`
+  - `:téléphone`
+- 🤴
+  - `:couronne`
+  - `:prince`
+  - `:royal`
+  - `:royauté`
+- 🤵
+  - `:homme`
+  - `:marié`
+  - `:smoking`
+  - `:élégant`
+- 🤶
+  - `:Noël`
+  - `:Santa`
+  - `:bonnet`
+  - `:fêtes`
+  - `:mère Noël`
+- 🤷‍♀
+  - `:doute`
+  - `:femme`
+  - `:femme qui hausse les épaules`
+  - `:haussement d&#39;épaules`
+  - `:ignorance`
+  - `:indifférence`
+  - `:je ne sais pas`
+- 🤷‍♂
+  - `:doute`
+  - `:haussement d&#39;épaules`
+  - `:homme`
+  - `:homme qui hausse les épaules`
+  - `:ignorance`
+  - `:indifférence`
+  - `:je ne sais pas`
+  - `:ne pas savoir`
+- 🤸‍♀
+  - `:femme`
+  - `:femme faisant la roue`
+  - `:gymnastique`
+  - `:roue`
+  - `:sport`
+- 🤸‍♂
+  - `:gymnastique`
+  - `:homme`
+  - `:homme faisant la roue`
+  - `:roue`
+  - `:sport`
+- 🤹‍♀
+  - `:femme`
+  - `:jonglage`
+  - `:jongleuse`
+  - `:multitâche`
+- 🤹‍♂
+  - `:homme`
+  - `:jonglage`
+  - `:jongleur`
+  - `:multitâche`
+- 🤺
+  - `:escrime`
+  - `:escrimeur`
+  - `:escrimeuse`
+  - `:sport`
+  - `:épée`
+- 🤼‍♀
+  - `:femmes`
+  - `:lutte`
+  - `:lutteuses`
+  - `:personne`
+  - `:sport`
+- 🤼‍♂
+  - `:hommes`
+  - `:lutte`
+  - `:lutteurs`
+  - `:personne`
+  - `:sport`
+- 🤽‍♀
+  - `:femme`
+  - `:joueuse de water-polo`
+  - `:sport`
+  - `:water-polo`
+- 🤽‍♂
+  - `:homme`
+  - `:joueur de water-polo`
+  - `:sport`
+  - `:water-polo`
+- 🤾‍♀
+  - `:femme`
+  - `:handball`
+  - `:handballeuse`
+  - `:sport`
+- 🤾‍♂
+  - `:handball`
+  - `:handballeur`
+  - `:homme`
+  - `:sport`
+- 🥀
+  - `:fanée`
+  - `:fleur`
+  - `:fleur fanée`
+  - `:mort`
+  - `:rose`
+  - `:rose fanée`
+- 🥁
+  - `:baguette`
+  - `:batterie`
+  - `:musique`
+  - `:tambour`
+- 🥂
+  - `:alcool`
+  - `:champagne`
+  - `:célébrer`
+  - `:fêter`
+  - `:santé`
+  - `:tchin`
+  - `:trinquer`
+  - `:verres`
+- 🥃
+  - `:alcool`
+  - `:liqueur`
+  - `:tumbler`
+  - `:verre`
+  - `:verre tumbler`
+  - `:whisky`
+- 🥄
+  - `:couvert`
+  - `:cuillère`
+  - `:manger`
+- 🥅
+  - `:but`
+  - `:cage`
+  - `:filet`
+  - `:sport`
+- 🥇
+  - `:1er`
+  - `:médaille`
+  - `:médaille d’or`
+  - `:or`
+  - `:premier`
+- 🥈
+  - `:2e`
+  - `:argent`
+  - `:deuxième`
+  - `:médaille`
+  - `:médaille d’argent`
+- 🥉
+  - `:3e`
+  - `:bronze`
+  - `:médaille`
+  - `:médaille de bronze`
+  - `:troisième`
+- 🥊
+  - `:gant`
+  - `:gant de boxe`
+- 🥋
+  - `:arts martiaux`
+  - `:judo`
+  - `:karaté`
+  - `:kimono`
+  - `:sport`
+  - `:taekwondo`
+- 🥌
+  - `:curling`
+  - `:jeu`
+  - `:pierre`
+  - `:pierre de curling`
+  - `:sport`
+- 🥍
+  - `:balle`
+  - `:lacrosse`
+  - `:raquette`
+  - `:sport`
+- 🥎
+  - `:balle`
+  - `:softball`
+  - `:sports`
+- 🥏
+  - `:discoplane`
+  - `:disque`
+  - `:disque-volant`
+  - `:frisbee`
+  - `:ultimate`
+- 🥐
+  - `:croissant`
+  - `:nourriture`
+  - `:petit-déjeuner`
+  - `:viennoiserie`
+- 🥑
+  - `:avocat`
+  - `:fruit`
+  - `:nourriture`
+- 🥒
+  - `:concombre`
+  - `:cornichon`
+  - `:légume`
+  - `:nourriture`
+- 🥓
+  - `:bacon`
+  - `:nourriture`
+  - `:porc`
+  - `:viande`
+- 🥔
+  - `:légume`
+  - `:nourriture`
+  - `:patate`
+  - `:pomme de terre`
+  - `:purée`
+- 🥕
+  - `:carotte`
+  - `:légume`
+  - `:nourriture`
+- 🥖
+  - `:baguette`
+  - `:nourriture`
+  - `:pain`
+- 🥗
+  - `:nourriture`
+  - `:salade`
+  - `:salade verte`
+  - `:verte`
+- 🥘
+  - `:Espagne`
+  - `:casserole`
+  - `:paella`
+  - `:plat`
+  - `:poêle`
+  - `:riz`
+- 🥙
+  - `:falafel`
+  - `:kebab`
+  - `:nourriture`
+  - `:pain pita`
+- 🥚
+  - `:nourriture`
+  - `:œuf`
+- 🥛
+  - `:boisson`
+  - `:lait`
+  - `:verre`
+  - `:verre de lait`
+- 🥜
+  - `:arachide`
+  - `:cacahuète`
+  - `:nourriture`
+- 🥝
+  - `:fruit`
+  - `:kiwi`
+  - `:nourriture`
+- 🥞
+  - `:crêpe`
+  - `:goûter`
+  - `:nourriture`
+  - `:pancake`
+  - `:pancakes`
+  - `:petit-déjeuner`
+- 🥟
+  - `:dumpling`
+  - `:empanada`
+  - `:gyoza`
+  - `:jiaozi`
+  - `:pierogi`
+  - `:ravioli`
+- 🥠
+  - `:biscuit chinois`
+  - `:nourriture`
+  - `:prophétie`
+- 🥡
+  - `:baguettes`
+  - `:nourriture à emporter`
+- 🥢
+  - `:baguettes`
+- 🥣
+  - `:bol avec une cuillère`
+  - `:petit déjeuner`
+  - `:soupe`
+- 🥤
+  - `:boisson`
+  - `:eau`
+  - `:jus de fruit`
+  - `:soda`
+  - `:verre avec une paille`
+- 🥥
+  - `:coco`
+  - `:noix de coco`
+  - `:nourriture`
+  - `:piña colada`
+- 🥦
+  - `:broccoli`
+  - `:chou`
+- 🥧
+  - `:nourriture`
+  - `:pâte à tarte`
+  - `:tarte`
+  - `:tarte aux fruits`
+  - `:tourte`
+- 🥨
+  - `:bretzel`
+  - `:nourriture`
+- 🥩
+  - `:nourriture`
+  - `:steak`
+  - `:viande`
+  - `:viande rouge`
+- 🥪
+  - `:nourriture`
+  - `:pain de mie`
+  - `:pique-nique`
+  - `:sandwich`
+- 🥫
+  - `:boîte de conserve`
+  - `:conserve`
+  - `:nourriture`
+- 🥬
+  - `:bok choy`
+  - `:chou`
+  - `:kale`
+  - `:laitue`
+  - `:salade`
+- 🥭
+  - `:fruit`
+  - `:mangue`
+  - `:nourriture`
+  - `:tropical`
+  - `:tropique`
+- 🥮
+  - `:automne`
+  - `:festival`
+  - `:moon cake`
+  - `:yuèbǐng`
+- 🥯
+  - `:bagel`
+  - `:sandwich`
+- 🥰
+  - `:Je t&#39;aime`
+  - `:amour`
+  - `:amoureuse`
+  - `:amoureux`
+  - `:coeur`
+  - `:coeurs`
+  - `:coeurs sourire`
+  - `:j&#39;adore`
+  - `:romance`
+  - `:smiley avec 3 coeurs`
+  - `:sourire`
+- 🥳
+  - `:anniversaire`
+  - `:chapeau pointu`
+  - `:célébration`
+  - `:fête`
+  - `:hourra`
+  - `:visage`
+  - `:visage de fête`
+- 🥴
+  - `:bourré`
+  - `:bourrée`
+  - `:pas clair`
+  - `:saoul`
+  - `:souler`
+  - `:tête qui tourne`
+- 🥵
+  - `:chaleur`
+  - `:chaud`
+  - `:coup de chaleur`
+  - `:coup de chaud`
+  - `:fièvre`
+  - `:sue`
+  - `:suer`
+  - `:toute rouge`
+  - `:trop chaud`
+  - `:visage`
+  - `:visage tout rouge`
+- 🥶
+  - `:bleu`
+  - `:froid`
+  - `:gel`
+  - `:gelé`
+  - `:glacé`
+  - `:visage bleu`
+  - `:ça caille`
+- 🥺
+  - `:embarrassé`
+  - `:excuse`
+  - `:gros yeux`
+  - `:pardon`
+  - `:s&#39;il te plaît`
+  - `:supplie`
+- 🥼
+  - `:blouse`
+  - `:docteur`
+  - `:expérimentation`
+  - `:labo`
+  - `:laboratoire`
+  - `:manteau blanc`
+  - `:médecin`
+  - `:scientifique`
+  - `:vêtements`
+- 🥽
+  - `:lunettes de chimiste`
+  - `:lunettes de labo`
+  - `:lunettes de piscine`
+  - `:lunettes de protection`
+  - `:lunettes de soudage`
+  - `:lunettes de soudure`
+  - `:masque`
+- 🥾
+  - `:chaussures de chantier`
+  - `:chaussures de montagne`
+  - `:chaussures de sécurité`
+  - `:chaussures marron`
+  - `:rando`
+  - `:randonnée`
+  - `:timberland`
+- 🥿
+  - `:ballerine`
+  - `:chaussures plates`
+- 🦀
+  - `:Cancer`
+  - `:animal`
+  - `:astrologie`
+  - `:crabe`
+  - `:horoscope`
+  - `:mer`
+  - `:pinces`
+  - `:plage`
+  - `:zodiaque`
+- 🦁
+  - `:animal`
+  - `:astrologie`
+  - `:crinière`
+  - `:fort`
+  - `:horoscope`
+  - `:lion`
+  - `:roi`
+  - `:rugissement`
+  - `:safari`
+  - `:savane`
+  - `:tête de lion`
+  - `:visage`
+  - `:zodiaque`
+- 🦂
+  - `:animal`
+  - `:astrologie`
+  - `:désert`
+  - `:horoscope`
+  - `:scorpion`
+  - `:zodiaque`
+- 🦃
+  - `:action de grâces`
+  - `:animal`
+  - `:dinde`
+  - `:dindon`
+  - `:thanksgiving`
+  - `:volaille`
+- 🦄
+  - `:animal`
+  - `:licrone`
+  - `:tête de licorne`
+- 🦅
+  - `:aigle`
+  - `:animal`
+  - `:oiseau`
+  - `:rapace`
+- 🦆
+  - `:animal`
+  - `:canard`
+  - `:coin-coin`
+  - `:oiseau`
+- 🦇
+  - `:animal`
+  - `:chauve-souris`
+  - `:vampire`
+- 🦈
+  - `:Dents de la mer`
+  - `:animal`
+  - `:poisson`
+  - `:requin`
+- 🦉
+  - `:animal`
+  - `:chouette`
+  - `:hibou`
+  - `:oiseau`
+  - `:sage`
+- 🦊
+  - `:animal`
+  - `:nature`
+  - `:renard`
+  - `:visage`
+- 🦋
+  - `:animal`
+  - `:insecte`
+  - `:papillon`
+  - `:printemps`
+- 🦌
+  - `:animal`
+  - `:bois`
+  - `:cerf`
+- 🦍
+  - `:animal`
+  - `:gorille`
+  - `:primate`
+- 🦎
+  - `:animal`
+  - `:lézard`
+  - `:reptile`
+- 🦏
+  - `:animal`
+  - `:corne`
+  - `:rhinocéros`
+- 🦐
+  - `:aliment`
+  - `:crevette`
+  - `:crustacé`
+  - `:fruits de mer`
+  - `:nourriture`
+- 🦑
+  - `:aliment`
+  - `:animal`
+  - `:calamar`
+  - `:encornet`
+  - `:mollusque`
+  - `:nourriture`
+- 🦒
+  - `:animal`
+  - `:cou`
+  - `:girafe`
+  - `:taches`
+- 🦓
+  - `:animal`
+  - `:noir et blanc`
+  - `:rayures`
+  - `:zèbre`
+- 🦔
+  - `:animal`
+  - `:hérisson`
+  - `:piquant`
+  - `:porc-épic`
+  - `:épines`
+- 🦕
+  - `:animal`
+  - `:brachiosaure`
+  - `:brontosaure`
+  - `:dinosaure`
+  - `:diplodocus`
+  - `:sauropode`
+- 🦖
+  - `:T. rex`
+  - `:Tyrannosaurus rex`
+  - `:animal`
+  - `:dinosaure`
+  - `:tyrannosaure`
+- 🦗
+  - `:criquet`
+  - `:sauterelle`
+- 🦘
+  - `:austalie`
+  - `:kangoo`
+  - `:kangourou`
+  - `:marsupial`
+  - `:marsupiaux`
+- 🦙
+  - `:alpaca`
+  - `:animal`
+  - `:laine`
+  - `:lama`
+  - `:llama`
+  - `:pérou`
+  - `:vicuña`
+- 🦚
+  - `:animal`
+  - `:bel oiseau`
+  - `:coloré`
+  - `:fière`
+  - `:oiseau`
+  - `:paon`
+- 🦛
+  - `:animal`
+  - `:hippo`
+  - `:hippopotame`
+- 🦜
+  - `:animal`
+  - `:oiseau`
+  - `:perroquet`
+  - `:pirate`
+  - `:répète`
+- 🦝
+  - `:animal`
+  - `:curieux`
+  - `:raton laveur`
+  - `:sournois`
+- 🦞
+  - `:animal`
+  - `:fruit de mer`
+  - `:homard`
+- 🦟
+  - `:fièvre`
+  - `:infection`
+  - `:insecte`
+  - `:maladie`
+  - `:malaria`
+  - `:moustique`
+  - `:piqûre`
+  - `:virus`
+- 🦠
+  - `:amibe`
+  - `:bactérie`
+  - `:biologie`
+  - `:microbe`
+  - `:microorganisme`
+  - `:phagocytose`
+  - `:pseudopode`
+  - `:science`
+  - `:virus`
+- 🦡
+  - `:animal`
+  - `:blaireau`
+- 🦢
+  - `:animal`
+  - `:cygne`
+  - `:oiseau`
+- 🦴
+  - `:chien`
+  - `:halloween`
+  - `:os`
+  - `:squelette`
+- 🦵
+  - `:cuisse`
+  - `:genou`
+  - `:genou fléchi`
+  - `:genoux`
+  - `:jambe`
+  - `:pied`
+- 🦶
+  - `:cheville`
+  - `:pied`
+- 🦷
+  - `:carie`
+  - `:dent`
+  - `:dentiste`
+  - `:émail diamant`
+- 🦸
+  - `:héros`
+  - `:héroïne`
+  - `:super man`
+  - `:super pouvoir`
+  - `:super-pouvoir`
+  - `:superman`
+- 🦸‍♀
+  - `:batwoman`
+  - `:femme`
+  - `:hero`
+  - `:héroïne`
+  - `:super femme`
+  - `:super héroïne`
+  - `:super pouvoir`
+  - `:supers pouvoirs`
+  - `:superwoman`
+  - `:wonder woman`
+- 🦸‍♂
+  - `:batman`
+  - `:bon`
+  - `:gentil`
+  - `:hero`
+  - `:héros`
+  - `:super pouvoir`
+  - `:superhero`
+  - `:superman`
+  - `:supers pouvoirs`
+- 🦹
+  - `:diabolique`
+  - `:dracula`
+  - `:mauvais`
+  - `:méchant`
+  - `:super pouvoir`
+  - `:super vilain`
+  - `:super-pouvoir`
+  - `:super-vilain`
+  - `:vampire`
+- 🦹‍♀
+  - `:méchante`
+  - `:super héroïne`
+  - `:super pouvoir`
+  - `:super-héroïne`
+  - `:super-méchante`
+  - `:super-pouvoir`
+  - `:super-vilaine`
+  - `:vilaine`
+- 🦹‍♂
+  - `:mauvais`
+  - `:méchant`
+  - `:pas gentil`
+  - `:super héros`
+  - `:super pouvoir`
+  - `:super-héros`
+  - `:super-méchant`
+  - `:super-pouvoir`
+  - `:super-vilain`
+  - `:villain`
+- 🧀
+  - `:fromage`
+  - `:nourriture`
+  - `:part de fromage`
+- 🧁
+  - `:cupcake`
+  - `:dessert`
+  - `:muffin`
+  - `:pâtisserie`
+  - `:sucre`
+- 🧂
+  - `:condiment`
+  - `:salé`
+  - `:saveur`
+  - `:sel`
+- 🧐
+  - `:classe`
+  - `:fortune`
+  - `:monocle`
+  - `:riche`
+  - `:tête avec monocle`
+- 🧑
+  - `:adulte`
+  - `:non-genré`
+- 🧒
+  - `:enfant`
+  - `:jeune`
+  - `:non-genré`
+- 🧓
+  - `:adulte âgé`
+  - `:non-genré`
+- 🧔
+  - `:barbe`
+  - `:barbu`
+  - `:personne avec une barbe`
+- 🧕
+  - `:bandana`
+  - `:femme avec un voile`
+  - `:hijab`
+  - `:mantilla`
+  - `:tichel`
+  - `:voile`
+- 🧖‍♀
+  - `:détente`
+  - `:femme`
+  - `:femme au sauna`
+  - `:hammam`
+  - `:relaxation`
+  - `:sauna`
+- 🧖‍♂
+  - `:détente`
+  - `:hammam`
+  - `:homme`
+  - `:homme au sauna`
+  - `:relaxation`
+  - `:sauna`
+- 🧗‍♀
+  - `:alpiniste`
+  - `:escalade`
+  - `:femme`
+  - `:femme qui escalade`
+  - `:montagne`
+  - `:paroi`
+  - `:varappe`
+  - `:varappeuse`
+- 🧗‍♂
+  - `:alpiniste`
+  - `:escalade`
+  - `:homme`
+  - `:homme qui escalade`
+  - `:montagne`
+  - `:paroi`
+  - `:varappe`
+  - `:varappeur`
+- 🧘‍♀
+  - `:apaisement`
+  - `:détente`
+  - `:femme en position du lotus`
+  - `:jambes croisées`
+  - `:relaxation`
+  - `:yoga`
+  - `:zen`
+- 🧘‍♂
+  - `:homme dans la position du lotus`
+  - `:jambes croisées`
+  - `:méditation`
+  - `:position du lotus`
+  - `:relaxation`
+  - `:yoga`
+- 🧙‍♀
+  - `:enchantement`
+  - `:ensorceleuse`
+  - `:envoûtement`
+  - `:femme magicienne`
+  - `:magicienne`
+  - `:magique`
+  - `:sorcière`
+  - `:sortilège`
+- 🧙‍♂
+  - `:devin`
+  - `:enchanteur`
+  - `:homme sorcier`
+  - `:magicien`
+  - `:magie`
+  - `:sorcier`
+- 🧚‍♀
+  - `:femme fée`
+  - `:fée`
+  - `:fée clochette`
+  - `:féerique`
+- 🧚‍♂
+  - `:Obéron`
+  - `:ailes`
+  - `:créature féerique`
+  - `:fée`
+  - `:homme fée`
+  - `:puck`
+- 🧛‍♀
+  - `:canines`
+  - `:femme vampire`
+  - `:mort vivante`
+  - `:sang`
+  - `:vampire`
+- 🧛‍♂
+  - `:canines`
+  - `:homme vampire`
+  - `:mort vivant`
+  - `:vampire`
+- 🧜
+  - `:ariel`
+  - `:petite sirène`
+  - `:sirène`
+  - `:triton`
+- 🧜‍♀
+  - `:Ariel`
+  - `:sirène`
+- 🧜‍♂
+  - `:sirène homme`
+  - `:triton`
+- 🧝‍♀
+  - `:elfe`
+  - `:femme elfe`
+  - `:magique`
+- 🧝‍♂
+  - `:elfe`
+  - `:folklore`
+  - `:homme elfe`
+  - `:magie`
+- 🧞‍♀
+  - `:femme génie`
+  - `:génie`
+- 🧞‍♂
+  - `:génie`
+  - `:homme génie`
+- 🧟‍♀
+  - `:Halloween`
+  - `:femme`
+  - `:femme zombie`
+  - `:morts-vivants`
+  - `:peur`
+  - `:zombi`
+  - `:zombie`
+- 🧟‍♂
+  - `:Halloween`
+  - `:homme`
+  - `:homme zombie`
+  - `:morts-vivants`
+  - `:peur`
+  - `:zombi`
+  - `:zombie`
+- 🧠
+  - `:cerveau`
+  - `:intelligent`
+  - `:intelligente`
+- 🧡
+  - `:coeur orange`
+  - `:orange`
+- 🧢
+  - `:baseball cap`
+  - `:casquette`
+  - `:chapeau`
+- 🧣
+  - `:cou`
+  - `:froid`
+  - `:glagla`
+  - `:écharpe`
+- 🧤
+  - `:gant`
+  - `:main`
+- 🧥
+  - `:froid`
+  - `:glagla`
+  - `:manteau`
+  - `:veste`
+- 🧦
+  - `:chaussettes`
+- 🧧
+  - `:enveloppe rouge`
+- 🧨
+  - `:dynamite`
+  - `:explosif`
+  - `:explosive`
+  - `:pétard`
+  - `:étincelle`
+- 🧩
+  - `:indice`
+  - `:interloqué`
+  - `:pièce manquante`
+  - `:puzzle`
+  - `:énigme`
+- 🧪
+  - `:chimiste`
+  - `:expérience`
+  - `:expérimentation`
+  - `:labo`
+  - `:laboratoire`
+  - `:réaction`
+  - `:science`
+  - `:tube à essai`
+- 🧫
+  - `:bactérie`
+  - `:bactériologie`
+  - `:biologie`
+  - `:biologiste`
+  - `:boîte de petri`
+  - `:culture`
+  - `:labo`
+  - `:laboratoire`
+  - `:micro-organismes`
+  - `:microbiologie`
+  - `:science`
+- 🧬
+  - `:adn`
+  - `:biologie`
+  - `:gène`
+  - `:génétique`
+  - `:science`
+  - `:vie`
+  - `:évolution`
+- 🧭
+  - `:compas`
+  - `:direction`
+  - `:magnétique`
+  - `:navigation`
+  - `:orientation`
+- 🧮
+  - `:boulier`
+  - `:calcul`
+  - `:calculation`
+  - `:math`
+  - `:mathématiques`
+- 🧯
+  - `:chaud`
+  - `:extincteur`
+  - `:feu`
+  - `:fire`
+  - `:incendie`
+- 🧰
+  - `:caisse à outils`
+  - `:mécanique`
+  - `:mécano`
+  - `:outils`
+- 🧱
+  - `:brique`
+  - `:mur`
+  - `:mur de briques`
+  - `:the wall`
+  - `:voie 9 3&#x2F;4`
+- 🧲
+  - `:aimant`
+  - `:aimanter`
+  - `:attirer`
+  - `:attraction`
+  - `:magnet`
+  - `:magnétique`
+  - `:positif négatif`
+- 🧳
+  - `:bagage`
+  - `:valise`
+  - `:voyage`
+- 🧴
+  - `:après-shampoing`
+  - `:crème pour le corps`
+  - `:crème solaire`
+  - `:hydratant`
+  - `:lotion`
+  - `:shampoing`
+- 🧵
+  - `:aiguille`
+  - `:coudre`
+  - `:couture`
+  - `:fil`
+- 🧶
+  - `:laine`
+  - `:tricot`
+- 🧷
+  - `:imperdable`
+  - `:épingle de nourrice`
+  - `:épingle de sûreté`
+  - `:épingle à nourrice`
+- 🧸
+  - `:jouet`
+  - `:nounours`
+  - `:ours`
+  - `:peluche`
+- 🧹
+  - `:balais`
+  - `:ménage`
+  - `:nettoie`
+  - `:nettoyage`
+  - `:nettoyer`
+  - `:nettoyé`
+- 🧺
+  - `:cueillette`
+  - `:lessive`
+  - `:panier`
+  - `:pique-nique`
+- 🧻
+  - `:papier toilette`
+  - `:rouleau de pq`
+- 🧼
+  - `:bain`
+  - `:bulles`
+  - `:laver`
+  - `:me lave`
+  - `:me laver`
+  - `:savon`
+  - `:se lave`
+  - `:se laver`
+- 🧽
+  - `:absorbe`
+  - `:laver`
+  - `:nettoyage`
+  - `:nettoyer`
+  - `:savonner`
+  - `:éponge`
+- 🧾
+  - `:compta`
+  - `:comptabilité`
+  - `:comptable`
+  - `:facture`
+  - `:faire les comptes`
+  - `:reçu`
+  - `:ticket de caisse`
+- 🧿
+  - `:amulette`
+  - `:l&#39;oeil bleu`
+  - `:mauvais oeil`
+  - `:mauvais œil`
+  - `:nazar`
+  - `:nazar boncuk`
+  - `:nazarboncuk`
+  - `:superstition`
+  - `:talisman`
+  - `:talisman turc`
+  - `:œil bleu`
